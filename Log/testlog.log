@@ -1,0 +1,2152 @@
+2023-03-04 21:43:53,669 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-04 21:44:08,130 - SFA_MVP -INFO - Started Logintest
+2023-03-04 21:44:08,132 - SFA_MVP -INFO - Attempting login into Salesforce Sandbox
+2023-03-04 21:44:17,788 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-03-04 21:44:17,789 - SFA_MVP -INFO - Completed Logintest
+2023-03-04 22:22:59,195 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-04 22:23:13,624 - SFA_MVP -INFO - Started Logintest
+2023-03-04 22:23:13,628 - SFA_MVP -INFO - Attempting login into Salesforce Sandbox
+2023-03-04 22:23:22,746 - SFA_MVP -ERROR - Test Failed! Login failed!
+2023-03-04 22:29:44,910 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-04 22:29:57,917 - SFA_MVP -INFO - Started Logintest
+2023-03-04 22:29:57,926 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-04 22:30:02,580 - SFA_MVP -ERROR - Test Failed! Login failed!
+2023-03-04 22:31:56,371 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-04 22:32:17,520 - SFA_MVP -INFO - Started Logintest
+2023-03-04 22:32:17,524 - SFA_MVP -INFO - Attempting login into Salesforce Sandbox
+2023-03-04 22:32:26,778 - SFA_MVP -ERROR - Test Failed! Login failed!
+2023-03-04 22:34:07,829 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-04 22:34:21,111 - SFA_MVP -INFO - Started Logintest
+2023-03-04 22:34:21,114 - SFA_MVP -INFO - Attempting login into Salesforce Sandbox
+2023-03-04 22:34:31,290 - SFA_MVP -ERROR - Test Failed! Login failed!
+2023-03-04 22:50:51,279 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-04 22:51:02,237 - SFA_MVP -INFO - Started Logintest
+2023-03-04 22:51:02,239 - SFA_MVP -INFO - Attempting login into Salesforce Sandbox
+2023-03-04 22:51:07,559 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-04 22:56:20,828 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-04 22:56:46,586 - SFA_MVP -INFO - Started Logintest
+2023-03-04 22:56:46,589 - SFA_MVP -INFO - Attempting login into Salesforce Sandbox
+2023-03-04 22:56:54,311 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-05 01:19:26,016 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-05 01:19:32,301 - SFA_MVP -INFO - Started Logintest
+2023-03-05 01:19:32,305 - SFA_MVP -INFO - Attempting login into Salesforce Sandbox
+2023-03-05 01:19:39,743 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-05 01:29:47,732 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-05 01:29:54,047 - SFA_MVP -INFO - Started Logintest
+2023-03-05 01:29:54,050 - SFA_MVP -INFO - Attempting login into Salesforce Sandbox
+2023-03-05 01:30:03,388 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-03-05 01:30:03,389 - SFA_MVP -INFO - Completed Logintest
+2023-03-05 01:33:56,844 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-05 01:34:07,230 - SFA_MVP -INFO - Started Logintest
+2023-03-05 01:34:07,233 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-05 01:34:12,606 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-05 01:35:20,697 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-05 01:35:25,282 - SFA_MVP -INFO - Started Logintest
+2023-03-05 01:35:25,285 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-05 01:35:32,572 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-05 01:41:34,021 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-05 01:41:40,194 - SFA_MVP -INFO - Started Logintest
+2023-03-05 01:41:40,196 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-05 01:41:46,943 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-05 01:42:44,705 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-05 01:42:48,740 - SFA_MVP -INFO - Started Logintest
+2023-03-05 01:42:48,742 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-05 01:42:54,823 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-05 01:50:34,623 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-05 01:50:39,330 - SFA_MVP -INFO - Started Logintest
+2023-03-05 01:50:39,331 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-05 01:50:45,863 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-05 10:49:25,423 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-05 10:49:34,870 - SFA_MVP -INFO - Started Logintest
+2023-03-05 10:49:34,872 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-05 10:49:39,805 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-05 12:42:35,208 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-05 12:42:43,704 - SFA_MVP -INFO - Started Logintest
+2023-03-05 12:42:43,709 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-05 12:42:51,276 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-05 12:43:34,382 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-05 12:43:45,727 - SFA_MVP -INFO - Started Logintest
+2023-03-05 12:43:45,729 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-05 12:43:51,453 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-23 16:55:13,259 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-23 16:55:17,076 - SFA_MVP -INFO - Started Logintest
+2023-03-23 16:55:17,076 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-23 16:55:21,781 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-23 17:04:52,327 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-23 17:04:56,608 - SFA_MVP -INFO - Started Logintest
+2023-03-23 17:04:56,611 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-23 17:04:59,134 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-24 04:19:23,283 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-24 04:19:28,579 - SFA_MVP -INFO - Started Logintest
+2023-03-24 04:19:28,583 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-24 04:19:31,980 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-24 06:41:57,580 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-24 06:42:02,616 - SFA_MVP -INFO - Started Logintest
+2023-03-24 06:42:02,617 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-24 06:42:05,351 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-24 14:56:59,549 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-24 14:57:01,741 - SFA_MVP -INFO - Started Logintest
+2023-03-24 14:57:01,742 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-24 14:59:18,434 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-24 14:59:21,141 - SFA_MVP -INFO - Started Logintest
+2023-03-24 14:59:21,142 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-24 14:59:22,189 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-24 18:32:57,029 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-24 18:33:02,197 - SFA_MVP -INFO - Started Logintest
+2023-03-24 18:33:02,199 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-24 18:33:03,785 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-24 18:35:13,609 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-24 18:35:16,790 - SFA_MVP -INFO - Started Logintest
+2023-03-24 18:35:16,790 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-24 18:35:18,346 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-24 18:37:57,562 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-24 18:38:00,525 - SFA_MVP -INFO - Started Logintest
+2023-03-24 18:38:00,526 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-24 18:38:02,161 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-24 18:39:03,083 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-24 18:39:06,249 - SFA_MVP -INFO - Started Logintest
+2023-03-24 18:39:06,250 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-24 18:39:07,909 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-24 20:40:52,728 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-24 20:40:57,839 - SFA_MVP -INFO - Started Logintest
+2023-03-24 20:40:57,840 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-24 20:40:58,968 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-26 20:54:11,427 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-26 20:54:18,300 - SFA_MVP -INFO - Started Logintest
+2023-03-26 20:54:18,301 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-26 20:54:19,543 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-26 22:20:58,466 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-26 22:21:08,632 - SFA_MVP -INFO - Started Logintest
+2023-03-26 22:21:08,633 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-03-26 22:21:10,118 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-03-26 22:22:47,615 - SFA_MVP -DEBUG - Debug logging has started 
+2023-03-26 22:23:25,708 - SFA_MVP -INFO - Started Logintest
+2023-03-26 22:23:25,709 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-05 12:09:28,236 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 12:09:35,999 - SFA_MVP -INFO - Started Logintest
+2023-04-05 12:09:36,000 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-05 12:14:23,365 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 12:14:30,564 - SFA_MVP -INFO - Started Logintest
+2023-04-05 12:14:30,566 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-05 16:35:17,439 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 16:35:25,495 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 16:35:25,495 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox
+2023-04-05 16:46:36,454 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 16:46:39,466 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 16:46:39,467 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox
+2023-04-05 16:46:40,211 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-05 16:46:40,212 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 17:17:59,584 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 17:18:02,554 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 17:18:02,554 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox
+2023-04-05 17:18:03,097 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-05 17:18:03,098 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 17:19:25,319 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 17:19:29,130 - SFA_MVP -INFO - Started Logintest
+2023-04-05 17:19:29,131 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-05 17:19:30,125 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-05 17:19:31,087 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 17:19:33,713 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 17:19:33,714 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox
+2023-04-05 17:19:34,242 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-05 17:19:34,243 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 17:19:35,069 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 17:19:37,823 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 17:19:37,823 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox
+2023-04-05 17:19:38,345 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-05 17:19:38,346 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 17:25:59,192 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 17:26:02,851 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 17:26:02,851 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox
+2023-04-05 17:26:03,461 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-05 17:26:03,461 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 17:51:24,828 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 17:51:28,303 - SFA_MVP -INFO - Started Logintest
+2023-04-05 17:51:28,304 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-04-05 17:51:28,917 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-05 17:51:28,918 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 18:05:34,637 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:05:38,347 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 18:05:38,349 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-04-05 18:05:38,926 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-05 18:05:38,927 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 18:05:39,832 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:06:16,661 - SFA_MVP -INFO - Started Logintest
+2023-04-05 18:06:16,662 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-04-05 18:06:17,125 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-05 18:06:18,148 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:06:19,347 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:06:20,658 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:06:21,944 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:06:23,953 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:08:10,512 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:08:14,786 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 18:08:14,787 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-04-05 18:08:15,933 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-05 18:08:15,938 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 18:08:17,017 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:08:20,287 - SFA_MVP -INFO - Started Logintest
+2023-04-05 18:08:20,289 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-04-05 18:08:21,034 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-05 18:08:21,038 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 18:08:21,879 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:08:30,228 - SFA_MVP -INFO - Started Logintest
+2023-04-05 18:08:30,229 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-04-05 18:08:31,067 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-05 18:08:31,067 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 18:08:31,911 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:08:35,342 - SFA_MVP -INFO - Started Logintest
+2023-04-05 18:08:35,343 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-05 18:08:39,587 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-05 18:08:40,518 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:08:43,332 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 18:08:43,332 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with filled username and empty password field
+2023-04-05 18:08:43,971 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-05 18:08:43,971 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 18:08:44,820 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:08:47,433 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 18:08:47,434 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-04-05 18:08:48,212 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-05 18:08:48,212 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 18:08:49,103 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:08:51,849 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-05 18:08:51,850 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-05 18:08:52,408 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-05 18:08:52,409 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 18:18:11,563 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:18:14,955 - SFA_MVP -INFO - Started Logintest
+2023-04-05 18:18:14,957 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-05 18:18:15,877 - SFA_MVP -INFO - Test Passed! Forgot password page Successfully opened!
+2023-04-05 18:18:15,877 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 18:19:14,826 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 18:19:24,903 - SFA_MVP -INFO - Started Logintest
+2023-04-05 18:19:24,904 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-05 18:19:29,504 - SFA_MVP -INFO - Test Passed! Forgot password page Successfully opened!
+2023-04-05 18:19:29,506 - SFA_MVP -INFO - Completed Logintest
+2023-04-05 19:23:09,465 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 19:23:18,862 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-05 19:23:18,863 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-05 19:26:51,303 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 19:26:55,213 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-05 19:26:55,214 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-05 19:29:40,635 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 19:29:45,536 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-05 19:29:45,537 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-05 19:31:11,447 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 19:31:15,941 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-05 19:31:15,942 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-05 19:36:23,459 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 19:36:34,830 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-05 19:36:34,832 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-05 19:48:49,995 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 19:49:01,015 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-05 19:49:01,016 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-05 20:20:54,615 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 20:21:05,949 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-05 20:21:05,950 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-05 20:29:25,686 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-05 20:29:32,831 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-05 20:29:32,832 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-05 20:29:43,894 - SFA_MVP -INFO - Test Passed! Empty username field can not proceed on forgot password page!
+2023-04-05 20:29:43,894 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 09:59:18,303 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 09:59:28,186 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 09:59:28,187 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-06 09:59:33,432 - SFA_MVP -INFO - Test Passed! Empty username field can not proceed on forgot password page!
+2023-04-06 09:59:33,433 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 10:09:04,528 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 10:09:13,561 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 10:09:13,561 - SFA_MVP -INFO - Attempting to continue  forgot password with empty username on the forgot password page
+2023-04-06 10:09:18,950 - SFA_MVP -INFO - Test Passed! Empty username field can not proceed on forgot password page!
+2023-04-06 10:09:18,951 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 10:10:33,304 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 10:10:42,982 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 10:10:42,983 - SFA_MVP -INFO - Attempting to continue  forgot password with empty username on the forgot password page
+2023-04-06 10:10:48,714 - SFA_MVP -INFO - Test Passed! Empty username field can not proceed on forgot password page!
+2023-04-06 10:10:48,715 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 10:19:07,876 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 10:19:12,704 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 10:19:12,704 - SFA_MVP -INFO - Attempting to click on continue button with invalid username on forgot password page
+2023-04-06 10:19:20,348 - SFA_MVP -INFO - Test Passed!Forgot password Failed with invalid username!
+2023-04-06 10:19:20,362 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 10:44:33,715 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 10:44:37,624 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-06 10:44:37,625 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-04-06 10:44:38,515 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-06 10:44:38,515 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 12:59:26,288 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 12:59:28,681 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-06 12:59:28,681 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-04-06 12:59:29,545 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-06 12:59:29,545 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 12:59:30,431 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 12:59:36,918 - SFA_MVP -INFO - Started Logintest
+2023-04-06 12:59:36,918 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-04-06 12:59:37,943 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 12:59:37,944 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 12:59:38,767 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 12:59:42,555 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 12:59:42,557 - SFA_MVP -INFO - Attempting clicking on cancel button on forgot password page
+2023-04-06 12:59:47,523 - SFA_MVP -INFO - Test Passed!Cancel button on  forgot password page redirects to login page!
+2023-04-06 12:59:47,523 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-06 12:59:48,388 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 12:59:52,451 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 12:59:52,452 - SFA_MVP -INFO - Attempting to continue  forgot password with empty username on the forgot password page
+2023-04-06 12:59:57,750 - SFA_MVP -INFO - Test Passed! Empty username field can not proceed on forgot password page!
+2023-04-06 12:59:57,750 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-06 12:59:58,765 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:00:07,112 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:00:07,113 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-04-06 13:00:08,847 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 13:00:10,539 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:00:14,918 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:00:14,919 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 13:00:15,859 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 13:00:17,030 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:00:22,793 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-06 13:00:22,793 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with filled username and empty password field
+2023-04-06 13:00:23,874 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-06 13:00:23,875 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 13:00:24,751 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:00:29,869 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 13:00:29,869 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-06 13:00:33,370 - SFA_MVP -INFO - Test Passed! Forgot password page Successfully opened!
+2023-04-06 13:00:33,370 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-06 13:00:34,326 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:00:36,520 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 13:00:36,521 - SFA_MVP -INFO - Attempting to click on continue button with invalid username on forgot password page
+2023-04-06 13:00:43,465 - SFA_MVP -INFO - Test Passed!Forgot password Failed with invalid username!
+2023-04-06 13:00:43,465 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-06 13:00:44,438 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:00:49,008 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-06 13:00:49,009 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-04-06 13:00:49,875 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-06 13:00:49,875 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 13:00:50,789 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:00:58,132 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-06 13:00:58,133 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-06 13:00:58,838 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-06 13:00:58,839 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 13:04:38,698 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:04:41,126 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:04:41,127 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-04-06 13:04:41,896 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 13:04:41,897 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 13:05:12,761 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:05:15,116 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:05:15,117 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-04-06 13:05:15,978 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 13:05:15,978 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 13:08:44,267 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:08:48,381 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:08:48,383 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 13:09:07,430 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 13:11:08,997 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:11:13,073 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:11:13,074 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 13:11:20,107 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 13:11:20,108 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 13:30:27,838 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:30:30,513 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:30:30,513 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 13:30:37,842 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 13:32:01,421 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:32:06,057 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:32:06,057 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 13:33:42,353 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 13:37:19,778 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:37:24,260 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:37:24,261 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 13:37:38,736 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 13:41:17,741 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:41:25,628 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:41:25,629 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 13:41:39,301 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 13:52:31,795 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 13:52:48,815 - SFA_MVP -INFO - Started Logintest
+2023-04-06 13:52:48,816 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 13:54:03,320 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 14:04:38,223 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 14:04:40,633 - SFA_MVP -INFO - Started Logintest
+2023-04-06 14:04:40,634 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 14:04:40,668 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 14:04:40,669 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 14:12:18,069 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 14:12:20,457 - SFA_MVP -INFO - Started Logintest
+2023-04-06 14:12:20,459 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 14:12:34,082 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 14:12:38,095 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 14:14:27,926 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 14:14:30,212 - SFA_MVP -INFO - Started Logintest
+2023-04-06 14:14:30,213 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 14:14:43,692 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 14:15:31,852 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 14:18:17,627 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 14:18:19,845 - SFA_MVP -INFO - Started Logintest
+2023-04-06 14:18:19,845 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 14:18:33,436 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 14:19:32,964 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 14:19:39,969 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 17:34:56,098 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:34:57,966 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 17:34:57,966 - SFA_MVP -INFO - Attempting clicking on cancel button on forgot password page
+2023-04-06 17:35:03,422 - SFA_MVP -INFO - Test Passed!Cancel button on  forgot password page redirects to login page!
+2023-04-06 17:35:03,422 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-06 17:35:30,800 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:35:33,209 - SFA_MVP -INFO - Started Logintest
+2023-04-06 17:35:33,209 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 17:35:49,431 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 17:35:59,453 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 17:37:35,099 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:37:37,339 - SFA_MVP -INFO - Started Logintest
+2023-04-06 17:37:37,339 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 17:37:50,926 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 17:39:07,828 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 17:39:17,842 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 17:52:30,036 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:52:31,999 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-06 17:52:31,999 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-04-06 17:52:32,795 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-06 17:52:32,797 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 17:52:33,671 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:52:35,566 - SFA_MVP -INFO - Started Logintest
+2023-04-06 17:52:35,566 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-04-06 17:52:36,081 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 17:52:37,088 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:52:38,906 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 17:52:38,907 - SFA_MVP -INFO - Attempting to continue  forgot password with empty username on the forgot password page
+2023-04-06 17:52:43,798 - SFA_MVP -INFO - Test Passed! Empty username field can not proceed on forgot password page!
+2023-04-06 17:52:43,798 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-06 17:52:44,734 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:52:46,953 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 17:52:46,954 - SFA_MVP -INFO - Attempting clicking on cancel button on forgot password page
+2023-04-06 17:52:51,974 - SFA_MVP -INFO - Test Passed!Cancel button on  forgot password page redirects to login page!
+2023-04-06 17:52:51,974 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-06 17:52:52,829 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:52:55,083 - SFA_MVP -INFO - Started Logintest
+2023-04-06 17:52:55,083 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-04-06 17:52:55,536 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 17:52:56,476 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:52:58,389 - SFA_MVP -INFO - Started Logintest
+2023-04-06 17:52:58,389 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 17:53:13,486 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 17:55:10,602 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 17:55:20,617 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 17:55:21,466 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:55:23,266 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-06 17:55:23,266 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with filled username and empty password field
+2023-04-06 17:55:23,989 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-06 17:55:23,989 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 17:55:24,829 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:55:26,675 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 17:55:26,676 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-06 17:55:29,959 - SFA_MVP -INFO - Test Passed! Forgot password page Successfully opened!
+2023-04-06 17:55:29,959 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-06 17:55:30,766 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:55:32,699 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-06 17:55:32,699 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-04-06 17:55:33,258 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-06 17:55:33,258 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 17:55:34,077 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:55:36,321 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 17:55:36,323 - SFA_MVP -INFO - Attempting to click on continue button with invalid username on forgot password page
+2023-04-06 17:55:43,382 - SFA_MVP -INFO - Test Passed!Forgot password Failed with invalid username!
+2023-04-06 17:55:43,382 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-06 17:55:44,154 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:55:46,167 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-06 17:55:46,167 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-06 17:55:46,820 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-06 17:55:46,820 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 17:59:36,928 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 17:59:38,949 - SFA_MVP -INFO - Started Logintest
+2023-04-06 17:59:38,950 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-04-06 17:59:39,536 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 17:59:39,536 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 18:00:04,089 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 18:00:05,786 - SFA_MVP -INFO - Started Logintest
+2023-04-06 18:00:05,787 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-04-06 18:00:06,467 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 18:00:06,467 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 18:00:40,630 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 18:00:42,225 - SFA_MVP -INFO - Started Logintest
+2023-04-06 18:00:42,227 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-04-06 18:00:42,785 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 18:00:42,785 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 18:00:43,619 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 18:00:45,497 - SFA_MVP -INFO - Started Logintest
+2023-04-06 18:00:45,498 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-04-06 18:00:46,087 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 18:00:46,087 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 18:17:30,810 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 18:17:32,873 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-06 18:17:32,874 - SFA_MVP -INFO - Attempting to click on continue button with invalid username on forgot password page
+2023-04-06 18:17:40,193 - SFA_MVP -INFO - Test Passed!Forgot password passed with valid username!
+2023-04-06 18:17:40,194 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-06 18:44:13,034 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 18:44:15,253 - SFA_MVP -INFO - Started LogOut Test
+2023-04-06 18:44:15,254 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-04-06 18:55:34,007 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 18:55:36,334 - SFA_MVP -INFO - Started LogOut Test
+2023-04-06 18:55:36,334 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-04-06 18:58:00,819 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 18:58:49,670 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 18:58:51,551 - SFA_MVP -INFO - Started LogOut Test
+2023-04-06 18:58:51,552 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-04-06 19:00:00,697 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 19:00:02,477 - SFA_MVP -INFO - Started LogOut Test
+2023-04-06 19:00:02,478 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-04-06 19:00:58,605 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-06 19:01:08,615 - SFA_MVP -INFO - Completed Logintest
+2023-04-06 20:50:55,857 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 20:50:58,057 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-06 20:50:58,057 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 20:51:03,176 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 21:20:32,246 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 21:20:42,205 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-06 21:20:42,206 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 21:25:07,656 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 21:25:12,219 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-06 21:25:12,220 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 22:01:24,580 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 22:01:26,798 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-06 22:01:26,799 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 22:18:05,433 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 22:18:08,209 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-06 22:18:08,209 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 22:22:09,386 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 22:22:11,865 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-06 22:22:11,865 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 22:25:06,160 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 22:25:08,706 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-06 22:25:08,707 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 22:30:07,973 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-06 22:36:29,750 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-06 22:36:32,455 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-06 22:36:32,456 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-06 22:38:21,221 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-07 11:36:39,530 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 11:37:14,798 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 11:37:14,798 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 15:10:50,833 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 15:10:58,120 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 15:10:58,121 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 15:16:50,989 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 15:16:53,966 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 15:16:53,966 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 15:30:00,311 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 15:30:03,456 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 15:30:03,456 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 15:31:22,876 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-07 15:35:21,486 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 15:35:23,948 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 15:35:23,948 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 15:40:48,213 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 15:40:50,352 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 15:40:50,353 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 15:42:20,994 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-07 15:42:45,970 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 15:42:48,235 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 15:42:48,236 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 15:45:27,505 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-07 15:58:24,804 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 15:58:27,384 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 15:58:27,385 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 16:01:32,268 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-07 16:01:32,271 - SFA_MVP -INFO - Completed Logintest
+2023-04-07 16:18:08,215 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 16:18:10,237 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 16:18:10,239 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 16:20:44,132 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-07 16:20:44,133 - SFA_MVP -INFO - Completed Logintest
+2023-04-07 16:22:52,872 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 16:22:54,608 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 16:22:54,609 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 16:24:25,523 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-07 16:24:25,524 - SFA_MVP -INFO - Completed Logintest
+2023-04-07 16:24:49,193 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 16:24:51,034 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 16:24:51,034 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 16:27:31,989 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-07 16:27:31,989 - SFA_MVP -INFO - Completed Logintest
+2023-04-07 17:19:47,358 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 17:19:49,284 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 17:19:49,285 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 17:20:48,043 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 17:20:50,076 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 17:20:50,076 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-07 17:23:44,189 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-07 17:23:44,189 - SFA_MVP -INFO - Completed Logintest
+2023-04-07 17:49:39,771 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-07 17:49:42,491 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-07 17:49:42,492 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-08 12:00:51,379 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-08 12:00:53,261 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-08 12:00:53,262 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-08 12:06:09,656 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-08 12:06:11,809 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-08 12:06:11,810 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-08 12:09:12,038 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-08 12:09:14,358 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-08 12:09:14,359 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-08 12:13:56,790 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-08 12:13:58,793 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-08 12:13:58,793 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-08 12:17:37,390 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-08 12:17:39,721 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-08 12:17:39,722 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-08 12:20:21,335 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-08 12:20:23,774 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-08 12:20:23,775 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-10 21:19:32,538 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:19:34,996 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-10 21:19:34,996 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-10 21:20:18,336 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:20:20,485 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-10 21:20:20,485 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-10 21:26:58,102 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:27:01,342 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-10 21:27:01,343 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-10 21:30:29,085 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:30:31,318 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-10 21:30:31,319 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-10 21:34:08,711 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:34:10,947 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-10 21:34:10,949 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-10 21:36:26,847 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:36:28,985 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-10 21:36:28,986 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-10 21:40:18,860 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-10 21:40:18,861 - SFA_MVP -INFO - Completed Logintest
+2023-04-10 21:40:20,189 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:40:22,120 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-10 21:40:22,124 - SFA_MVP -INFO - Attempting clicking on cancel button on forgot password page
+2023-04-10 21:40:27,483 - SFA_MVP -INFO - Test Passed!Cancel button on  forgot password page redirects to login page!
+2023-04-10 21:40:27,487 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-10 21:40:28,438 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:40:31,114 - SFA_MVP -INFO - Started Logintest
+2023-04-10 21:40:31,114 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-04-10 21:40:31,954 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-10 21:40:31,954 - SFA_MVP -INFO - Completed Logintest
+2023-04-10 21:40:32,832 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:40:35,519 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-10 21:40:35,527 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-10 21:40:49,725 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-10 21:41:49,247 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-10 21:41:59,255 - SFA_MVP -INFO - Completed Logintest
+2023-04-10 21:42:00,512 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:42:03,728 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-10 21:42:03,728 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-04-10 21:42:04,685 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-10 21:42:04,686 - SFA_MVP -INFO - Completed Logintest
+2023-04-10 21:42:05,621 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:42:08,306 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-10 21:42:08,306 - SFA_MVP -INFO - Attempting to click on continue button with invalid username on forgot password page
+2023-04-10 21:42:15,616 - SFA_MVP -INFO - Test Passed!Forgot password Failed with invalid username!
+2023-04-10 21:42:15,616 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-10 21:42:16,576 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:42:18,955 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-10 21:42:18,955 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-10 21:42:19,672 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-10 21:42:19,672 - SFA_MVP -INFO - Completed Logintest
+2023-04-10 21:42:20,528 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:42:24,173 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-10 21:42:24,173 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-10 21:43:18,350 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:43:20,151 - SFA_MVP -INFO - Started Logintest
+2023-04-10 21:43:20,151 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-04-10 21:43:20,720 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-10 21:43:20,720 - SFA_MVP -INFO - Completed Logintest
+2023-04-10 21:43:21,606 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:43:23,509 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-10 21:43:23,509 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-04-10 21:43:24,772 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-10 21:43:24,772 - SFA_MVP -INFO - Completed Logintest
+2023-04-10 21:43:25,691 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:43:27,505 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-10 21:43:27,505 - SFA_MVP -INFO - Attempting to click on continue button with invalid username on forgot password page
+2023-04-10 21:43:34,985 - SFA_MVP -INFO - Test Passed!Forgot password passed with valid username!
+2023-04-10 21:43:34,993 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-10 21:43:35,953 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:43:38,108 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-10 21:43:38,108 - SFA_MVP -INFO - Attempting to continue  forgot password with empty username on the forgot password page
+2023-04-10 21:43:43,561 - SFA_MVP -INFO - Test Passed! Empty username field can not proceed on forgot password page!
+2023-04-10 21:43:43,564 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-10 21:43:44,511 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:43:48,358 - SFA_MVP -INFO - Started LogOut Test
+2023-04-10 21:43:48,358 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-04-10 21:45:04,619 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-04-10 21:45:14,624 - SFA_MVP -INFO - Completed Logintest
+2023-04-10 21:45:15,892 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:45:17,922 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-10 21:45:17,923 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with filled username and empty password field
+2023-04-10 21:45:18,594 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-10 21:45:18,594 - SFA_MVP -INFO - Completed Logintest
+2023-04-10 21:45:19,534 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-10 21:45:22,107 - SFA_MVP -INFO - Started Forgotpassword test
+2023-04-10 21:45:22,107 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-04-10 21:45:25,511 - SFA_MVP -INFO - Test Passed! Forgot password page Successfully opened!
+2023-04-10 21:45:25,511 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-04-11 09:07:28,510 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-11 09:07:30,435 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-11 09:07:30,435 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-11 09:08:41,474 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-11 09:08:43,456 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-11 09:08:43,457 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-11 11:39:25,571 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-11 11:39:27,213 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-11 11:39:27,213 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-11 11:40:33,892 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-11 11:40:33,893 - SFA_MVP -INFO - Completed Logintest
+2023-04-11 12:29:29,727 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-11 12:29:31,685 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-11 12:29:31,686 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-11 12:29:32,469 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-11 12:29:32,470 - SFA_MVP -INFO - Completed Logintest
+2023-04-11 12:30:57,447 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-11 12:30:59,027 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-11 12:30:59,027 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-11 12:31:04,024 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-11 12:31:04,024 - SFA_MVP -INFO - Completed Logintest
+2023-04-11 13:03:59,328 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-11 13:04:01,137 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-11 13:04:01,137 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-11 13:05:00,408 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-11 13:05:00,408 - SFA_MVP -INFO - Completed Logintest
+2023-04-11 13:05:34,907 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-11 13:05:36,702 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-11 13:05:36,703 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-11 13:06:53,589 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-11 13:06:53,589 - SFA_MVP -INFO - Completed Logintest
+2023-04-11 13:17:47,815 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-11 13:17:51,820 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-11 13:17:51,820 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-11 13:18:43,473 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-11 13:22:37,887 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-11 13:22:39,644 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-11 13:22:39,645 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-11 13:23:32,274 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-12 16:42:00,417 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-12 16:42:02,547 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-12 16:42:02,548 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-12 16:42:03,221 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-12 16:42:03,221 - SFA_MVP -INFO - Completed Logintest
+2023-04-13 17:43:00,565 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 17:43:02,946 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 17:43:02,946 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 17:43:54,664 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 17:43:57,144 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 17:43:57,145 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 17:45:50,030 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-13 18:00:49,971 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 18:01:03,281 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 18:01:03,282 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 18:04:03,503 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-13 18:04:03,504 - SFA_MVP -INFO - Completed Logintest
+2023-04-13 18:08:49,078 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 18:08:53,948 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 18:08:53,949 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 18:16:59,879 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 18:17:05,171 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 18:17:05,172 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 18:33:16,969 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 18:33:19,587 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 18:33:19,588 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 18:42:40,089 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 18:42:42,532 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 18:42:42,532 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 18:47:16,183 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 18:47:18,554 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 18:47:18,554 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 18:48:33,770 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-13 19:05:11,939 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 19:05:14,396 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 19:05:14,397 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 19:07:04,978 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-04-13 19:26:28,501 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 19:26:30,728 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 19:26:30,729 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 19:35:19,139 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 19:35:21,035 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 19:35:21,035 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 19:37:44,065 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 19:37:45,844 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 19:37:45,845 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 19:56:14,834 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 19:56:16,800 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 19:56:16,801 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 19:59:04,246 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-13 19:59:04,246 - SFA_MVP -INFO - Completed Logintest
+2023-04-13 20:15:55,244 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 20:15:59,211 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 20:15:59,212 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 20:18:46,186 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-13 20:18:46,186 - SFA_MVP -INFO - Completed Logintest
+2023-04-13 20:18:47,404 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 20:18:50,147 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 20:18:50,148 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 20:21:19,272 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-13 20:21:19,273 - SFA_MVP -INFO - Completed Logintest
+2023-04-13 20:21:20,352 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 20:21:23,333 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 20:21:23,333 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 20:24:25,920 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-13 20:24:25,920 - SFA_MVP -INFO - Completed Logintest
+2023-04-13 20:24:27,066 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 20:24:29,184 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 20:24:29,184 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 20:27:51,879 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-13 20:27:51,879 - SFA_MVP -INFO - Completed Logintest
+2023-04-13 20:27:52,938 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 20:27:55,638 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 20:27:55,641 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 20:31:14,539 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-13 20:31:14,539 - SFA_MVP -INFO - Completed Logintest
+2023-04-13 20:31:15,667 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 20:31:18,185 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 20:31:18,185 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 20:40:52,275 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-13 20:40:55,234 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-13 20:40:55,234 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-13 20:45:22,208 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-13 20:45:22,208 - SFA_MVP -INFO - Completed Logintest
+2023-04-14 14:38:16,732 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-14 14:38:19,308 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-14 14:38:19,308 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-14 14:38:20,052 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-14 14:38:20,052 - SFA_MVP -INFO - Completed Logintest
+2023-04-14 14:50:05,630 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-14 14:50:08,483 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-14 14:50:08,483 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-14 14:50:09,222 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-14 14:50:09,223 - SFA_MVP -INFO - Completed Logintest
+2023-04-14 15:16:42,102 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-14 15:16:44,353 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-14 15:16:44,354 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-14 15:23:02,726 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-14 15:23:05,648 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-14 15:23:05,649 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-14 15:28:22,370 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-14 15:28:24,232 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-14 15:28:24,232 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-14 15:35:35,089 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-14 15:35:37,500 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-14 15:35:37,500 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-14 15:38:14,589 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-14 15:38:14,591 - SFA_MVP -INFO - Completed Logintest
+2023-04-17 12:33:28,941 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-17 12:33:30,951 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-17 12:33:30,951 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-17 12:35:24,527 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-17 12:35:26,330 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-17 12:35:26,331 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-17 12:36:45,875 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-17 12:36:45,875 - SFA_MVP -INFO - Completed Logintest
+2023-04-17 12:42:40,499 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-17 12:42:42,508 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-17 12:42:42,509 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-17 12:43:46,161 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-17 12:43:46,161 - SFA_MVP -INFO - Completed Logintest
+2023-04-17 12:52:42,539 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-17 12:52:44,649 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-17 12:52:44,650 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-17 12:53:45,430 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-17 12:53:45,430 - SFA_MVP -INFO - Completed Logintest
+2023-04-17 13:14:59,858 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-17 13:15:02,064 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-17 13:15:02,064 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-17 13:16:17,039 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-17 13:16:18,600 - SFA_MVP -INFO - Started Valid Logintest
+2023-04-17 13:16:18,600 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-04-17 13:17:28,943 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-04-17 13:17:28,943 - SFA_MVP -INFO - Completed Logintest
+2023-04-19 14:25:55,483 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-19 14:25:57,695 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-19 14:25:57,696 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-19 14:25:58,287 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-19 14:25:58,287 - SFA_MVP -INFO - Completed Logintest
+2023-04-25 14:44:21,586 - SFA_MVP -DEBUG - Debug logging has started 
+2023-04-25 14:44:28,159 - SFA_MVP -INFO - Started Invalid Logintest
+2023-04-25 14:44:28,161 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-04-25 14:44:28,905 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-04-25 14:44:28,905 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:05:49,235 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:05:53,306 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:05:53,307 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 09:05:54,324 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 09:05:54,325 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:15:31,827 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:15:34,296 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:15:34,297 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-05-03 09:15:35,194 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 09:15:35,194 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:15:36,139 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:15:38,346 - SFA_MVP -INFO - Started Logintest
+2023-05-03 09:15:38,347 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-05-03 09:15:39,021 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-03 09:15:39,022 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:15:39,921 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:15:42,332 - SFA_MVP -INFO - Started Forgotpassword test
+2023-05-03 09:15:42,333 - SFA_MVP -INFO - Attempting clicking on cancel button on forgot password page
+2023-05-03 09:15:47,174 - SFA_MVP -INFO - Test Passed!Cancel button on  forgot password page redirects to login page!
+2023-05-03 09:15:47,175 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-05-03 09:15:48,147 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:15:51,030 - SFA_MVP -INFO - Started Forgotpassword test
+2023-05-03 09:15:51,031 - SFA_MVP -INFO - Attempting to continue  forgot password with empty username on the forgot password page
+2023-05-03 09:15:55,953 - SFA_MVP -INFO - Test Passed! Empty username field can not proceed on forgot password page!
+2023-05-03 09:15:55,953 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-05-03 09:15:56,896 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:15:59,541 - SFA_MVP -INFO - Started Logintest
+2023-05-03 09:15:59,541 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-05-03 09:16:00,351 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-03 09:16:00,352 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:16:01,304 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:16:03,440 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:16:03,441 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with filled username and empty password field
+2023-05-03 09:16:04,328 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 09:16:04,328 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:16:05,282 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:16:07,596 - SFA_MVP -INFO - Started Forgotpassword test
+2023-05-03 09:16:07,596 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-05-03 09:16:10,977 - SFA_MVP -INFO - Test Passed! Forgot password page Successfully opened!
+2023-05-03 09:16:10,977 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-05-03 09:16:11,854 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:16:14,068 - SFA_MVP -INFO - Started Forgotpassword test
+2023-05-03 09:16:14,068 - SFA_MVP -INFO - Attempting to click on continue button with invalid username on forgot password page
+2023-05-03 09:16:21,316 - SFA_MVP -INFO - Test Passed!Forgot password Failed with invalid username!
+2023-05-03 09:16:21,317 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-05-03 09:16:22,383 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:16:24,807 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:16:24,807 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-05-03 09:16:25,583 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 09:16:25,584 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:16:26,538 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:16:29,601 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:16:29,602 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 09:16:30,620 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 09:16:30,620 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:30:19,871 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:30:22,459 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:30:22,460 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 09:30:23,282 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 09:30:23,283 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:32:28,871 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:32:33,658 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:32:33,659 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-05-03 09:32:34,506 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 09:32:34,507 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:32:35,519 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:32:37,747 - SFA_MVP -INFO - Started Logintest
+2023-05-03 09:32:37,748 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-05-03 09:32:38,649 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-03 09:32:38,651 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:32:39,535 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:32:41,940 - SFA_MVP -INFO - Started Logintest
+2023-05-03 09:32:41,940 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-05-03 09:32:42,457 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-03 09:32:42,458 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:32:43,372 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:32:45,767 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:32:45,768 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with filled username and empty password field
+2023-05-03 09:32:46,601 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 09:32:46,601 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:32:47,541 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:32:50,101 - SFA_MVP -INFO - Started Forgotpassword test
+2023-05-03 09:32:50,103 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-05-03 09:32:53,517 - SFA_MVP -INFO - Test Passed! Forgot password page Successfully opened!
+2023-05-03 09:32:53,517 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-05-03 09:32:54,437 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:32:57,104 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:32:57,105 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-05-03 09:32:57,911 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 09:32:57,911 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 09:32:58,778 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:33:01,174 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:33:01,175 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 09:33:01,803 - SFA_MVP -INFO - Test Failed! Login Successful!
+2023-05-03 09:45:52,562 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 09:46:00,103 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 09:46:00,103 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 09:46:00,972 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 09:46:00,973 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 10:39:26,755 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 10:39:28,581 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 10:39:28,581 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 10:39:29,103 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 10:39:29,104 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 10:54:30,347 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 10:54:32,716 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 10:54:32,716 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 10:54:33,218 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 10:54:33,218 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 11:05:31,916 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 11:05:36,289 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 11:05:36,289 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 11:38:22,568 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 11:38:26,003 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 11:38:26,004 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 11:38:26,733 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 11:38:26,733 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 12:03:59,154 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 12:04:01,776 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 12:04:01,777 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 12:04:02,520 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 12:04:02,520 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 14:53:20,899 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 14:53:27,350 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 14:53:27,351 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 14:53:28,332 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 14:53:28,332 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 15:01:25,157 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 15:01:31,297 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 15:01:31,298 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 15:01:32,516 - SFA_MVP -INFO - Test Failed! Login Successful!
+2023-05-03 15:03:24,950 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 15:03:28,943 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 15:03:28,944 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 15:03:31,048 - SFA_MVP -INFO - Test Failed! Login Successful!
+2023-05-03 15:03:53,779 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 15:03:57,092 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 15:03:57,093 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 15:03:58,267 - SFA_MVP -INFO - Test Failed! Login Successful!
+2023-05-03 15:04:26,267 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 15:04:29,773 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 15:04:29,773 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 15:04:30,983 - SFA_MVP -INFO - Test Failed! Login Successful!
+2023-05-03 15:14:31,101 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 15:14:35,695 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 15:14:35,696 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 15:14:36,575 - SFA_MVP -INFO - Test Failed! Login Successful!
+2023-05-03 15:15:28,405 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 15:15:33,206 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 15:15:33,207 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 15:15:34,025 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 15:15:34,025 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 15:18:25,254 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 15:18:28,316 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 15:18:28,317 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 15:18:29,145 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 15:18:29,146 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 15:57:08,114 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 15:57:09,926 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 15:57:09,927 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-05-03 15:57:10,575 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 15:57:10,575 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 15:57:11,638 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 15:57:13,815 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 15:57:13,816 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 15:57:14,472 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 15:57:14,472 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 16:14:45,835 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 16:14:51,109 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 16:14:51,110 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 16:14:52,076 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 16:14:52,077 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 16:16:20,296 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 16:16:22,628 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 16:16:22,629 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 16:16:23,428 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 16:16:23,428 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 16:18:01,472 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 16:18:04,578 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 16:18:04,579 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-05-03 16:18:05,783 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 16:18:05,783 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 16:18:06,790 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 16:18:08,917 - SFA_MVP -INFO - Started Logintest
+2023-05-03 16:18:08,918 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-05-03 16:18:09,633 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-03 16:18:09,635 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 16:18:10,491 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 16:18:12,312 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 16:18:12,313 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-05-03 16:18:13,018 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 16:18:13,019 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 16:18:13,994 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 16:18:15,708 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 16:18:15,709 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 16:18:16,358 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 16:18:16,359 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 16:23:28,435 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 16:23:31,307 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 16:23:31,308 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-05-03 16:23:32,178 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 16:23:32,178 - SFA_MVP -INFO - Completed Logintest
+2023-05-03 16:23:33,110 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-03 16:23:35,297 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-03 16:23:35,297 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-03 16:23:36,045 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-03 16:23:36,045 - SFA_MVP -INFO - Completed Logintest
+2023-05-10 16:41:13,425 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:41:16,907 - SFA_MVP -INFO - Started LogOut Test
+2023-05-10 16:41:16,909 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-10 16:42:01,607 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:42:04,671 - SFA_MVP -INFO - Started LogOut Test
+2023-05-10 16:42:04,671 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-10 16:42:31,577 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:42:39,136 - SFA_MVP -INFO - Started LogOut Test
+2023-05-10 16:42:39,137 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-10 16:44:29,044 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:44:34,197 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-10 16:44:34,199 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-10 16:44:36,753 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-10 16:44:36,754 - SFA_MVP -INFO - Completed Logintest
+2023-05-10 16:44:59,439 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:45:03,109 - SFA_MVP -INFO - Started LogOut Test
+2023-05-10 16:45:03,110 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-10 16:46:28,475 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:46:36,143 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-10 16:46:36,144 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-10 16:47:23,215 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:47:35,017 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-10 16:47:35,019 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-10 16:51:30,474 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:51:33,543 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-10 16:51:33,545 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-10 16:53:17,925 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:53:23,140 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-10 16:53:23,141 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-10 16:53:24,182 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-10 16:53:24,183 - SFA_MVP -INFO - Completed Logintest
+2023-05-10 16:54:26,982 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:54:29,994 - SFA_MVP -INFO - Started LogOut Test
+2023-05-10 16:54:29,995 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-10 16:55:10,102 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:55:12,598 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-10 16:55:12,600 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-10 16:55:13,547 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-10 16:55:13,547 - SFA_MVP -INFO - Completed Logintest
+2023-05-10 16:55:42,669 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:55:45,348 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-10 16:55:45,348 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-10 16:57:20,029 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-10 16:57:23,163 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-10 16:57:23,164 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-17 15:58:58,386 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-17 15:59:09,494 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-17 15:59:09,494 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-17 15:59:10,438 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-17 15:59:10,439 - SFA_MVP -INFO - Completed Logintest
+2023-05-17 16:00:04,206 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-17 16:00:17,296 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-17 16:00:17,297 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-05-17 16:00:25,870 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-17 16:00:25,871 - SFA_MVP -INFO - Completed Logintest
+2023-05-17 16:01:14,831 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-17 16:01:20,337 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-17 16:01:20,339 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-17 16:01:37,415 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-17 16:23:09,058 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-17 16:23:26,801 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-17 16:23:26,803 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-17 16:23:48,971 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-17 16:25:27,064 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-17 16:25:37,078 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 09:31:19,059 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 09:31:21,315 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 09:31:21,315 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 09:33:15,441 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 09:33:17,626 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 09:33:17,628 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 09:39:29,445 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 09:39:31,932 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 09:39:31,932 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 09:45:21,705 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 09:45:30,318 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 09:45:30,319 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 09:45:31,350 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 09:45:31,351 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 09:50:46,713 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 09:50:49,634 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 09:50:49,634 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 09:50:50,329 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 09:50:50,330 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 09:51:17,549 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 09:51:20,228 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 09:51:20,228 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 09:51:21,090 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 09:51:21,091 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 09:55:03,503 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 09:55:05,447 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 09:55:05,447 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 09:55:06,179 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 09:55:06,180 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 10:04:08,151 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 10:04:15,322 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 10:04:15,323 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 10:04:16,298 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 10:04:16,299 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 10:05:59,574 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 10:06:02,176 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 10:06:02,176 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 10:06:02,891 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 10:06:02,892 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 13:04:07,613 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 13:04:10,410 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 13:04:10,411 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 13:04:11,039 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 13:04:11,040 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 13:05:15,245 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 13:05:17,922 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 13:05:17,923 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 13:05:18,829 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 13:05:18,829 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 13:06:01,109 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 13:06:03,454 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 13:06:03,454 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 13:06:04,216 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 13:06:04,217 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 13:06:59,963 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 13:07:02,609 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 13:07:02,609 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 13:07:03,638 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 13:07:03,640 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 13:14:50,416 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 13:14:53,212 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 13:14:53,212 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 13:14:53,806 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 13:14:53,806 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 13:19:17,735 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 13:19:20,248 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 13:19:20,248 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 13:19:20,844 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 13:19:20,844 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 13:20:41,651 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 13:20:44,068 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 13:20:44,069 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 13:20:44,848 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 13:20:44,848 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 13:28:24,065 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 13:28:26,996 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 13:28:26,996 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 13:28:27,719 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 13:28:27,720 - SFA_MVP -INFO - Completed Logintest
+2023-05-19 14:10:05,593 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-19 14:10:08,857 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-19 14:10:08,857 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-19 14:10:09,504 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-19 14:10:09,504 - SFA_MVP -INFO - Completed Logintest
+2023-05-20 11:51:34,264 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-20 11:51:37,212 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-20 11:51:37,213 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-20 11:51:41,928 - SFA_MVP -INFO - Test Failed! Login Successful!
+2023-05-20 12:15:15,781 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-20 12:15:18,512 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-20 12:15:18,513 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-20 12:15:19,328 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-20 12:15:19,329 - SFA_MVP -INFO - Completed Logintest
+2023-05-20 12:17:43,845 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-20 12:17:45,639 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-20 12:17:45,639 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-05-20 12:17:46,164 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-20 12:17:46,165 - SFA_MVP -INFO - Completed Logintest
+2023-05-20 12:17:47,107 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-20 12:17:48,599 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-20 12:17:48,599 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-20 12:17:49,078 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-20 12:17:49,078 - SFA_MVP -INFO - Completed Logintest
+2023-05-22 11:03:10,892 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:03:13,434 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:03:13,435 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:12:41,601 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:12:44,358 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:12:44,359 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:24:12,317 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:24:14,840 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:24:14,841 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:24:28,968 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-22 11:24:39,009 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-22 11:24:40,481 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:24:42,384 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:24:42,384 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:25:17,113 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:25:18,877 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-22 11:25:18,878 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-22 11:25:19,366 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-22 11:25:19,366 - SFA_MVP -INFO - Completed Logintest
+2023-05-22 11:25:20,408 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:25:22,361 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:25:22,361 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:25:57,167 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:25:59,004 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-22 11:25:59,004 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-05-22 11:25:59,502 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-22 11:25:59,502 - SFA_MVP -INFO - Completed Logintest
+2023-05-22 11:26:00,433 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:26:02,326 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:26:02,326 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:26:36,767 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:26:38,567 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-22 11:26:38,568 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-05-22 11:26:39,278 - SFA_MVP -INFO - true
+2023-05-22 11:26:39,288 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-22 11:26:39,288 - SFA_MVP -INFO - Completed Logintest
+2023-05-22 11:26:40,217 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:26:42,427 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:26:42,428 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:27:16,748 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:27:18,771 - SFA_MVP -INFO - Started Logintest
+2023-05-22 11:27:18,771 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-05-22 11:27:19,350 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-22 11:27:19,350 - SFA_MVP -INFO - Completed Logintest
+2023-05-22 11:27:20,244 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:27:22,202 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:27:22,202 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:27:57,042 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:27:59,757 - SFA_MVP -INFO - Started Logintest
+2023-05-22 11:27:59,757 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-05-22 11:28:00,229 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-22 11:28:00,229 - SFA_MVP -INFO - Completed Logintest
+2023-05-22 11:28:01,063 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:28:03,181 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:28:03,181 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:28:37,977 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:28:39,888 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-22 11:28:39,888 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with filled username and empty password field
+2023-05-22 11:28:40,533 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-22 11:28:40,533 - SFA_MVP -INFO - Completed Logintest
+2023-05-22 11:28:41,327 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:28:43,516 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:28:43,517 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:29:17,523 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:29:19,832 - SFA_MVP -INFO - Started Forgotpassword test
+2023-05-22 11:29:19,833 - SFA_MVP -INFO - Attempting redirecting to forgot password page on the login page
+2023-05-22 11:29:23,167 - SFA_MVP -INFO - Test Passed! Forgot password page Successfully opened!
+2023-05-22 11:29:23,167 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-05-22 11:29:24,130 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:29:32,357 - SFA_MVP -INFO - Started Forgotpassword test
+2023-05-22 11:29:32,357 - SFA_MVP -INFO - Attempting to continue  forgot password with empty username on the forgot password page
+2023-05-22 11:29:37,324 - SFA_MVP -INFO - Test Passed! Empty username field can not proceed on forgot password page!
+2023-05-22 11:29:37,325 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-05-22 11:29:38,120 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:29:39,796 - SFA_MVP -INFO - Started Forgotpassword test
+2023-05-22 11:29:39,796 - SFA_MVP -INFO - Attempting clicking on cancel button on forgot password page
+2023-05-22 11:29:44,346 - SFA_MVP -INFO - Test Passed!Cancel button on  forgot password page redirects to login page!
+2023-05-22 11:29:44,346 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-05-22 11:29:45,241 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:29:46,976 - SFA_MVP -INFO - Started Forgotpassword test
+2023-05-22 11:29:46,976 - SFA_MVP -INFO - Attempting to click on continue button with invalid username on forgot password page
+2023-05-22 11:29:53,915 - SFA_MVP -INFO - Test Passed!Forgot password Failed with invalid username!
+2023-05-22 11:29:53,916 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-05-22 11:29:54,926 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:29:56,690 - SFA_MVP -INFO - Started Forgotpassword test
+2023-05-22 11:29:56,690 - SFA_MVP -INFO - Attempting to click on continue button with invalid username on forgot password page
+2023-05-22 11:30:03,872 - SFA_MVP -INFO - Test Passed!Forgot password passed with valid username!
+2023-05-22 11:30:03,873 - SFA_MVP -INFO - Completed Forgotpassword test
+2023-05-22 11:30:04,799 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:30:06,578 - SFA_MVP -INFO - Started LogOut Test
+2023-05-22 11:30:06,578 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-22 11:30:40,160 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:30:41,940 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:30:41,940 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-22 11:55:41,478 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-22 11:55:43,451 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-22 11:55:43,452 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-23 13:27:43,343 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 13:27:46,489 - SFA_MVP -INFO - Started Invalid Logintest
+2023-05-23 13:27:46,489 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-05-23 13:27:47,730 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-05-23 13:27:47,730 - SFA_MVP -INFO - Completed Logintest
+2023-05-23 13:28:18,901 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 13:28:21,620 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-23 13:28:21,620 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-23 14:31:57,153 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 14:32:02,929 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 14:32:02,930 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 14:32:40,301 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-23 14:34:23,652 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 14:34:26,876 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 14:34:26,877 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 14:35:06,588 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-23 14:35:35,569 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 14:35:38,606 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 14:35:38,606 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 14:36:19,670 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-23 14:36:19,670 - SFA_MVP -INFO - Completed Logintest
+2023-05-23 14:36:44,789 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 14:36:48,187 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 14:36:48,188 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 14:37:06,654 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-23 14:37:06,661 - SFA_MVP -INFO - Completed Logintest
+2023-05-23 14:38:49,454 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 14:38:53,070 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 14:38:53,070 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 14:39:31,876 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-23 14:40:26,878 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 14:40:30,611 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 14:40:30,611 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 14:41:12,621 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-23 14:44:07,939 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 14:44:11,856 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 14:44:11,856 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 14:44:27,123 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-23 15:32:01,957 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 15:32:12,649 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 15:32:12,650 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 15:32:32,299 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-23 15:33:55,566 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 15:33:59,454 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 15:33:59,454 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 15:34:16,554 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-23 15:46:48,847 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 15:48:00,748 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 15:48:03,222 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 15:48:03,222 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 15:48:15,776 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-23 15:49:03,648 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 15:49:07,326 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 15:49:07,326 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 15:49:40,772 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-23 15:51:22,921 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 15:51:26,474 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 15:51:26,474 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 15:52:02,624 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-23 15:52:02,625 - SFA_MVP -INFO - Completed Logintest
+2023-05-23 19:03:32,563 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 19:03:37,612 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 19:03:37,613 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 19:04:11,408 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-23 19:05:00,763 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-23 19:05:04,640 - SFA_MVP -INFO - Started LogOut Test
+2023-05-23 19:05:04,642 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-23 19:05:32,934 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-23 19:05:32,939 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 15:33:19,693 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 15:33:24,929 - SFA_MVP -INFO - Started LogOut Test
+2023-05-24 15:33:24,930 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-24 15:35:14,943 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-24 15:35:14,944 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 15:35:48,999 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 15:35:55,858 - SFA_MVP -INFO - Started LogOut Test
+2023-05-24 15:35:55,860 - SFA_MVP -INFO - Attempting  user LogOut out of Salesforce Sandbox
+2023-05-24 15:36:48,614 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-05-24 15:36:48,615 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 15:37:19,578 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 15:37:23,599 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 15:37:23,600 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 15:37:53,478 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-05-24 15:37:53,483 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 15:50:54,409 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 15:51:00,021 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 15:51:00,023 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 15:55:28,661 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 15:55:41,285 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 15:55:41,286 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 15:59:52,902 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 16:00:08,800 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 16:00:08,800 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 16:02:13,382 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-05-24 16:02:13,382 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 16:05:30,382 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 16:05:37,600 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 16:05:37,600 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 16:11:57,730 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 16:12:04,027 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 16:12:04,028 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 16:13:18,667 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-05-24 16:13:18,668 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 16:15:13,162 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 16:15:31,341 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 16:15:31,342 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 16:19:18,572 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 16:19:32,703 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 16:19:32,704 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 16:27:23,522 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 16:27:42,220 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 16:27:42,221 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 16:36:46,404 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 16:37:06,739 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 16:37:06,739 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 16:43:29,383 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 16:43:51,042 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 16:43:51,042 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 17:50:21,922 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 17:50:26,486 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 17:50:26,486 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 17:51:37,893 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-05-24 17:51:37,893 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 17:51:54,004 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 17:51:57,234 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 17:51:57,236 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 17:52:39,004 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-05-24 17:52:39,004 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 17:55:13,597 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 17:55:17,451 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 17:55:17,452 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 17:56:07,870 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-05-24 17:56:07,870 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 17:56:26,805 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 17:56:30,707 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 17:56:30,708 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 17:57:24,318 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 18:09:42,994 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 18:09:47,390 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 18:09:47,390 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 18:10:43,139 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 18:12:43,201 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 18:12:46,544 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 18:12:46,544 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 18:13:41,407 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 18:15:52,059 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 18:15:55,914 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 18:15:55,914 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 18:17:14,387 - SFA_MVP -INFO - h h | Salesforce
+2023-05-24 18:17:14,403 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 18:17:14,403 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 18:50:41,960 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 18:50:46,401 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 18:50:46,401 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 18:52:03,947 - SFA_MVP -INFO - A A | Salesforce
+2023-05-24 18:52:03,970 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 18:52:03,972 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 18:54:16,528 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 18:54:20,600 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 18:54:20,600 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 18:55:26,827 - SFA_MVP -INFO - B B | Salesforce
+2023-05-24 18:55:26,849 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 18:55:26,851 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 18:57:36,352 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 18:57:40,779 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 18:57:40,779 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 18:58:48,809 - SFA_MVP -INFO - C C | Salesforce
+2023-05-24 18:58:48,833 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 18:58:48,833 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 19:01:42,094 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 19:01:45,831 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 19:01:45,832 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 19:02:58,120 - SFA_MVP -INFO - G G | Salesforce
+2023-05-24 19:02:58,142 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 19:02:58,142 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 19:24:41,876 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 19:24:46,107 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 19:24:46,107 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 19:27:50,108 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 19:27:53,539 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 19:27:53,540 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 19:29:58,348 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 19:30:02,164 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 19:30:02,165 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 19:31:13,060 - SFA_MVP -INFO - H H | Salesforce
+2023-05-24 19:31:13,083 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 19:31:13,086 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 19:39:15,196 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 19:39:19,573 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 19:39:19,573 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 19:41:01,295 - SFA_MVP -INFO - J J | Salesforce
+2023-05-24 19:41:01,326 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 19:42:51,385 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 19:42:55,220 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 19:42:55,221 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 19:44:17,663 - SFA_MVP -INFO - J a | Salesforce
+2023-05-24 19:44:17,663 - SFA_MVP -INFO -   | Salesforce
+2023-05-24 19:44:17,698 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 19:45:53,586 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 19:45:57,510 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 19:45:57,510 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 19:47:17,200 - SFA_MVP -INFO - J b | Salesforce
+2023-05-24 19:47:17,204 - SFA_MVP -INFO -   | Salesforce
+2023-05-24 19:47:17,237 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 19:53:08,845 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 19:53:12,795 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 19:53:12,796 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 19:54:17,622 - SFA_MVP -INFO - H a | Salesforce
+2023-05-24 19:54:17,622 - SFA_MVP -INFO -   | Salesforce
+2023-05-24 19:54:17,652 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 19:56:58,647 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 19:57:02,835 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 19:57:02,835 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 19:58:31,129 - SFA_MVP -INFO - H b | Salesforce
+2023-05-24 19:58:31,132 - SFA_MVP -INFO -   | Salesforce
+2023-05-24 19:58:31,156 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 20:13:38,456 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 20:13:46,202 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 20:13:46,203 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 20:15:43,715 - SFA_MVP -INFO - K s | Salesforce
+2023-05-24 20:15:43,715 - SFA_MVP -INFO -   | Salesforce
+2023-05-24 20:15:43,756 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 20:21:46,777 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 20:21:50,967 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 20:21:50,968 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 20:23:04,565 - SFA_MVP -INFO - New Lead | Salesforce
+2023-05-24 20:23:04,603 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 20:35:13,073 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 20:35:17,563 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 20:35:17,571 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 20:37:09,179 - SFA_MVP -INFO - New Lead | Salesforce
+2023-05-24 20:51:50,157 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 20:51:53,762 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 20:51:53,762 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 20:52:39,132 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 20:52:42,286 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 20:52:42,287 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 20:54:50,703 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 20:54:54,347 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 20:54:54,348 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 20:55:37,590 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-24 21:26:28,588 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 21:26:32,325 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 21:26:32,325 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 21:28:02,636 - SFA_MVP -INFO - New Lead | Salesforce
+2023-05-24 21:31:36,573 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 21:31:42,997 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 21:31:42,998 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 21:33:30,915 - SFA_MVP -INFO - New Lead | Salesforce
+2023-05-24 21:33:30,958 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 21:33:30,958 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 21:41:49,391 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 21:43:16,754 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 21:43:19,745 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 21:43:19,746 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 21:44:00,488 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 21:44:00,488 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 21:48:22,460 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 21:48:26,347 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 21:48:26,347 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 21:49:40,151 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 21:49:40,156 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 21:52:51,507 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 21:52:55,218 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 21:52:55,219 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 21:54:03,484 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 21:54:03,484 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 22:00:48,466 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:00:53,154 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 22:00:53,154 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 22:02:01,755 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 22:02:01,756 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 22:06:59,220 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:07:01,182 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:10:09,478 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:10:32,550 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 22:10:32,550 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 22:11:49,414 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:11:57,251 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 22:11:57,252 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 22:15:25,611 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:15:36,582 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 22:15:36,583 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 22:19:35,439 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:19:54,974 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 22:19:54,974 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 22:23:23,183 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 22:23:23,183 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 22:23:35,063 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:23:47,361 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 22:23:47,362 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 22:33:28,346 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:33:34,613 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 22:33:34,614 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 22:36:12,479 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 22:36:12,479 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 22:39:48,421 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:40:00,372 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 22:40:00,372 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 22:41:37,015 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 22:41:37,016 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 22:50:40,362 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:50:46,782 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 22:50:46,783 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 22:51:34,085 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 22:51:34,085 - SFA_MVP -INFO - Completed Logintest
+2023-05-24 22:51:45,071 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-24 22:51:48,456 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-24 22:51:48,456 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-24 22:54:02,407 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-05-24 22:54:02,407 - SFA_MVP -INFO - Completed Logintest
+2023-05-25 09:39:39,588 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-25 09:39:43,907 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-25 09:39:43,907 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-25 09:42:49,172 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-25 09:42:55,075 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-25 09:42:55,077 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-25 09:45:07,671 - SFA_MVP -INFO - a s | Salesforce
+2023-05-25 09:45:07,671 - SFA_MVP -INFO - this is fname
+2023-05-25 09:45:07,675 - SFA_MVP -INFO - this is lname
+2023-05-25 09:45:07,708 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-05-26 11:20:36,273 - SFA_MVP -DEBUG - Debug logging has started 
+2023-05-26 11:20:40,039 - SFA_MVP -INFO - Started Valid Logintest
+2023-05-26 11:20:40,039 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-05-26 11:21:26,220 - SFA_MVP -INFO - Test Pased! Login Successful!
+2023-05-26 11:21:26,220 - SFA_MVP -INFO - Completed Logintest
+2023-06-01 13:47:02,598 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 13:47:05,875 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-01 13:47:05,876 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 13:50:05,926 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 13:50:09,689 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-01 13:50:09,690 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 13:50:45,482 - SFA_MVP -INFO - New Lead | Salesforce
+2023-06-01 14:16:00,669 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 14:16:03,739 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-01 14:16:03,740 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 14:17:41,234 - SFA_MVP -INFO - New Lead | Salesforce
+2023-06-01 14:39:53,937 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 14:39:57,478 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-01 14:39:57,480 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 14:40:37,937 - SFA_MVP -INFO - New Lead | Salesforce
+2023-06-01 14:40:38,042 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-01 14:45:49,819 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 14:45:53,274 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-01 14:45:53,274 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 14:46:32,753 - SFA_MVP -INFO - --None--
+2023-06-01 14:46:32,769 - SFA_MVP -INFO - New Lead | Salesforce
+2023-06-01 14:46:32,862 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-01 14:48:23,008 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 14:48:25,552 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-01 14:48:25,552 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 14:49:09,100 - SFA_MVP -INFO - --None--
+2023-06-01 14:49:09,130 - SFA_MVP -INFO - New Lead | Salesforce
+2023-06-01 14:49:09,193 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-06-01 14:49:09,209 - SFA_MVP -INFO - Completed Logintest
+2023-06-01 14:49:46,721 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 14:49:49,585 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-01 14:49:49,585 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 14:50:25,971 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-06-01 14:50:25,975 - SFA_MVP -INFO - Completed Logintest
+2023-06-01 15:09:37,756 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 15:09:41,295 - SFA_MVP -INFO - Started Valid Tcl_mtn_05_OptionMOBILE_Selected Test
+2023-06-01 15:09:41,295 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 15:10:17,959 - SFA_MVP -INFO - Test Pased! Tcl_mtn_05_OptionMOBILE_Selected!
+2023-06-01 15:10:17,965 - SFA_MVP -INFO - Completed Tcl_mtn_05_OptionMOBILE_Selected
+2023-06-01 15:25:38,689 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 15:25:42,900 - SFA_MVP -INFO - Started Valid Tcl_mtn_05_OptionFIXED_Selected  Test
+2023-06-01 15:25:42,901 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 15:26:13,513 - SFA_MVP -INFO - Test Pased! Tcl_mtn_05_OptionFIXED_Selected !
+2023-06-01 15:26:13,520 - SFA_MVP -INFO - Completed Tcl_mtn_05_OptionFIXED_Selected 
+2023-06-01 15:26:14,724 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 15:26:17,337 - SFA_MVP -INFO - Started Valid TTcl_mtn_05_OptionICT_Selected Test
+2023-06-01 15:26:17,337 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 15:26:43,771 - SFA_MVP -INFO - Test Failed Tcl_mtn_05_OptionICT_Selected failed!
+2023-06-01 15:27:47,851 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 15:27:50,820 - SFA_MVP -INFO - Started Valid TTcl_mtn_05_OptionICT_Selected Test
+2023-06-01 15:27:50,821 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 15:28:28,438 - SFA_MVP -INFO - Test Pased!Tcl_mtn_05_OptionICT_Selected !
+2023-06-01 15:28:28,448 - SFA_MVP -INFO - Completed Tcl_mtn_05_OptionICT_Selected
+2023-06-01 15:48:59,572 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 15:49:02,518 - SFA_MVP -INFO - Started Valid Tcl_mtn_05_OptionFIXED_isDisplayed  Test
+2023-06-01 15:49:02,518 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 15:49:34,286 - SFA_MVP -INFO - Test Pased! Tcl_mtn_05_OptionFIXED_isDisplayed  !
+2023-06-01 15:49:34,289 - SFA_MVP -INFO - Completed Tcl_mtn_05_OptionFIXED_isDisplayed 
+2023-06-01 15:52:58,390 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 15:53:01,517 - SFA_MVP -INFO - Started Tcl_mtn_05_OptionICT_isDisplayed   Test
+2023-06-01 15:53:01,518 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 15:53:35,305 - SFA_MVP -INFO - Test Pased! Tcl_mtn_05_OptionICT_isDisplayed   !
+2023-06-01 15:53:35,316 - SFA_MVP -INFO - Completed Tcl_mtn_05_OptionICT_isDisplayed 
+2023-06-01 15:59:11,341 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 15:59:17,620 - SFA_MVP -INFO - Started Tcl_mtn_05_OptionMOBILE_isDisplayed  Test
+2023-06-01 15:59:17,621 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 16:00:33,930 - SFA_MVP -INFO - Test Pased! Tcl_mtn_05_OptionMOBILE_isDisplayed  !
+2023-06-01 16:00:33,939 - SFA_MVP -INFO - Completed Tcl_mtn_05_OptionMOBILE_isDisplayed 
+2023-06-01 16:05:47,239 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-01 16:05:51,028 - SFA_MVP -INFO - Started Tcl_mtn_05_OptionNONE_isDisplayed Test
+2023-06-01 16:05:51,028 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-01 16:06:23,937 - SFA_MVP -INFO - Test Pased! Tcl_mtn_05_OptionNONE_isDisplayed  !
+2023-06-01 16:06:23,941 - SFA_MVP -INFO - Completed Tcl_mtn_05_OptionNONE_isDisplayed 
+2023-06-02 19:35:07,025 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-02 19:35:10,537 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-02 19:35:10,537 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 11:52:42,298 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 11:52:46,174 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 11:52:46,174 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 11:56:02,021 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 11:56:08,046 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 11:56:08,048 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 11:56:10,839 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-03 11:56:12,265 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 11:56:17,879 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 11:56:17,881 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 12:00:05,163 - SFA_MVP -INFO - no se | Salesforce
+2023-06-03 12:00:05,179 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-06-03 12:00:05,179 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:00:06,386 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:00:10,186 - SFA_MVP -INFO - Started Invalid Logintest
+2023-06-03 12:00:10,186 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-06-03 12:00:11,224 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-06-03 12:00:11,224 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:00:12,282 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:00:15,739 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 12:00:15,739 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 12:03:52,504 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:04:01,769 - SFA_MVP -INFO - Started Invalid Logintest
+2023-06-03 12:04:01,770 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-06-03 12:04:02,833 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-06-03 12:04:02,835 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:25:43,463 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:25:47,003 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 12:25:47,003 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 12:28:08,378 - SFA_MVP -INFO - ps ab | Salesforce
+2023-06-03 12:28:08,388 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-06-03 12:28:08,388 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:28:09,530 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:28:12,345 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 12:28:12,345 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 12:28:15,718 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-06-03 12:28:25,753 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-03 12:28:27,008 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:28:29,860 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 12:28:29,860 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 12:31:11,073 - SFA_MVP -INFO - New Lead | Salesforce
+2023-06-03 12:31:11,082 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-03 12:31:12,196 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:31:18,065 - SFA_MVP -INFO - Started Invalid Logintest
+2023-06-03 12:31:18,065 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with invalid username and invalid password
+2023-06-03 12:31:18,589 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-06-03 12:31:18,589 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:31:19,504 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:31:23,454 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 12:31:23,454 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 12:34:11,232 - SFA_MVP -INFO - pr ct | Salesforce
+2023-06-03 12:34:11,239 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-06-03 12:34:11,239 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:34:12,128 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:34:16,837 - SFA_MVP -INFO - Started Invalid Logintest
+2023-06-03 12:34:16,837 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with Invalid username and valid password
+2023-06-03 12:34:17,410 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-06-03 12:34:17,410 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:34:18,259 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:34:21,088 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 12:34:21,088 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 12:37:27,591 - SFA_MVP -INFO - itd gre | Salesforce
+2023-06-03 12:37:27,597 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-06-03 12:37:27,597 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:37:28,420 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:37:33,506 - SFA_MVP -INFO - Started Invalid Logintest
+2023-06-03 12:37:33,507 - SFA_MVP -INFO - Attempting invalid user login into Salesforce Sandbox with valid username and invalid password
+2023-06-03 12:37:34,354 - SFA_MVP -INFO - true
+2023-06-03 12:37:34,364 - SFA_MVP -INFO - Test Passed! Login UnSuccessful!
+2023-06-03 12:37:34,364 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:37:35,330 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:37:38,434 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 12:37:38,434 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 12:39:02,071 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:39:05,007 - SFA_MVP -INFO - Started Logintest
+2023-06-03 12:39:05,007 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty input fields
+2023-06-03 12:39:05,513 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-06-03 12:39:05,513 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:39:06,483 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:39:08,718 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 12:39:08,718 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-03 12:40:31,853 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:40:35,115 - SFA_MVP -INFO - Started Logintest
+2023-06-03 12:40:35,115 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox with both empty username and a filled password field
+2023-06-03 12:40:35,516 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-06-03 12:40:35,516 - SFA_MVP -INFO - Completed Logintest
+2023-06-03 12:40:36,437 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-03 12:40:38,790 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-03 12:40:38,790 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 09:48:10,217 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 09:48:14,966 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 09:48:14,967 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 09:49:59,383 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-06-05 09:49:59,383 - SFA_MVP -INFO - Completed Logintest
+2023-06-05 14:57:42,986 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 14:57:55,647 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 14:57:55,648 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 14:58:54,075 - SFA_MVP -INFO - Test Pased! TCL_MTN-1 SUCCESSFUL!
+2023-06-05 14:58:54,075 - SFA_MVP -INFO - Completed Logintest
+2023-06-05 15:10:43,741 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 15:10:49,689 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 15:10:49,690 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 15:15:34,511 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 15:15:40,352 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 15:15:40,353 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 15:16:33,346 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-05 15:25:12,717 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 15:25:18,293 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 15:25:18,294 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 15:26:20,204 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-05 15:27:01,555 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 15:27:05,641 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 15:27:05,641 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 15:27:47,348 - SFA_MVP -INFO - Test Pased! TCL_MTN-7 SUCCESSFUL!
+2023-06-05 15:27:47,352 - SFA_MVP -INFO - Completed Logintest
+2023-06-05 15:28:47,476 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 15:28:51,621 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 15:28:51,622 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 15:29:19,515 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-05 15:29:55,586 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 15:30:06,142 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 15:30:06,143 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 15:30:36,572 - SFA_MVP -INFO - Test Pased! TCL_MTN-7 SUCCESSFUL!
+2023-06-05 15:30:36,578 - SFA_MVP -INFO - Completed Logintest
+2023-06-05 15:53:05,987 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 15:53:10,066 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 15:53:10,066 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 15:53:33,691 - SFA_MVP -INFO - Test Pased! Tcl_mtn_01_CancelButton_isdisplayed SUCCESSFUL!
+2023-06-05 15:53:33,695 - SFA_MVP -INFO - Completed Tcl_mtn_01_CancelButton_isdisplayed
+2023-06-05 15:59:11,440 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 15:59:17,256 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 15:59:17,257 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 15:59:59,846 - SFA_MVP -INFO - Test Pased! Tcl_mtn_01_CancelButton_isClickable SUCCESSFUL!
+2023-06-05 15:59:59,853 - SFA_MVP -INFO - Completed Tcl_mtn_01_CancelButton_isClickable
+2023-06-05 16:30:35,979 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 16:30:39,039 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 16:30:39,039 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 16:30:55,768 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-05 16:31:51,431 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 16:31:55,982 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 16:31:55,983 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 16:32:42,192 - SFA_MVP -INFO - Test Pased! Tcl_mtn_01_CancelButton_WAE SUCCESSFUL!
+2023-06-05 16:32:42,198 - SFA_MVP -INFO - Completed Tcl_mtn_01_CancelButton_WAE
+2023-06-05 16:41:46,505 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 16:41:50,227 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 16:41:50,228 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 16:42:08,744 - SFA_MVP -INFO - Test Pased! Tcl_mtn_01_CancelButton_WAE SUCCESSFUL!
+2023-06-05 16:42:08,750 - SFA_MVP -INFO - Completed Tcl_mtn_01_CancelButton_WAE
+2023-06-05 16:45:41,205 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 16:46:00,973 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 16:46:00,974 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 16:46:37,957 - SFA_MVP -INFO - Test Pased! Tcl_mtn_01_SaveandNewButton_isDisplayed SUCCESSFUL!
+2023-06-05 16:46:37,960 - SFA_MVP -INFO - Completed Tcl_mtn_01_SaveandNewButton_isDisplayed Test
+2023-06-05 17:30:55,321 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 17:30:58,974 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 17:30:58,974 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 17:31:13,598 - SFA_MVP -INFO - Test Pased! Tcl_mtn_01_SaveButton_isClickable SUCCESSFUL!
+2023-06-05 17:31:13,599 - SFA_MVP -INFO - Completed Tcl_mtn_01_SaveButton_isClickable Test
+2023-06-05 17:35:27,095 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 17:35:29,917 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 17:35:29,918 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 17:36:03,084 - SFA_MVP -INFO - Test Pased! Tcl_mtn_01_SaveButton_isClickable SUCCESSFUL!
+2023-06-05 17:36:03,088 - SFA_MVP -INFO - Completed Tcl_mtn_01_SaveButton_isClickable Test
+2023-06-05 17:44:58,217 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 17:45:01,413 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 17:45:01,414 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 17:45:17,067 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-05 17:52:20,753 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 17:52:25,242 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-05 17:52:25,242 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 17:53:01,764 - SFA_MVP -INFO - Test Pased! Tcl_mtn_01_SaveandNewButton_WAE SUCCESSFUL!
+2023-06-05 17:53:01,767 - SFA_MVP -INFO - Completed Tcl_mtn_01_SaveandNewButton_WAETest
+2023-06-05 18:11:28,561 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 18:11:32,692 - SFA_MVP -INFO - Started Valid Tcl_mtn_05_OptionFIXED_Selected  Test
+2023-06-05 18:11:32,692 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 18:12:19,899 - SFA_MVP -INFO - Test Failed Tcl_mtn_09_Region_OptionNone_Selected failed!
+2023-06-05 18:22:45,565 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 18:22:48,683 - SFA_MVP -INFO - Started Valid Tcl_mtn_05_OptionFIXED_Selected  Test
+2023-06-05 18:22:48,683 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 18:23:10,853 - SFA_MVP -INFO - Test Pased! Tcl_mtn_09_Region_OptionNone_Selected !
+2023-06-05 18:23:10,857 - SFA_MVP -INFO - Completed Tcl_mtn_09_Region_OptionNone_Selected 
+2023-06-05 18:23:48,603 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 18:23:51,134 - SFA_MVP -INFO - Started Valid Tcl_mtn_05_OptionFIXED_Selected  Test
+2023-06-05 18:23:51,135 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 18:24:28,633 - SFA_MVP -INFO - Test Pased! Tcl_mtn_09_Region_OptionNone_Selected !
+2023-06-05 18:24:28,635 - SFA_MVP -INFO - Completed Tcl_mtn_09_Region_OptionNone_Selected 
+2023-06-05 18:30:51,189 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 18:30:56,708 - SFA_MVP -INFO - Started Tcl_mtn_09_OptionNONERegion_isDisplayed Test
+2023-06-05 18:30:56,709 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 18:31:50,760 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 18:31:53,090 - SFA_MVP -INFO - Started Tcl_mtn_09_OptionNONERegion_isDisplayed Test
+2023-06-05 18:31:53,091 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 18:32:16,810 - SFA_MVP -INFO - Test Pased! Tcl_mtn_09_OptionNONERegion_isDisplayed  !
+2023-06-05 18:32:16,810 - SFA_MVP -INFO - Completed Tcl_mtn_09_OptionNONERegion_isDisplayed 
+2023-06-05 18:38:55,117 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 18:38:57,775 - SFA_MVP -INFO - Started Valid Tcl_mtn_09_Region_OptionLsw1_Selected Test
+2023-06-05 18:38:57,775 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 18:39:20,502 - SFA_MVP -INFO - Test Pased! Tcl_mtn_09_Region_OptionLsw1_Selected !
+2023-06-05 18:39:20,502 - SFA_MVP -INFO - Completed Tcl_mtn_09_Region_OptionLsw1_Selected
+2023-06-05 18:41:37,313 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 18:41:42,064 - SFA_MVP -INFO - Started Tcl_mtn_09_OptionLsw1Region_isDisplayedTest
+2023-06-05 18:41:42,064 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 18:42:17,257 - SFA_MVP -INFO - Test Pased! Tcl_mtn_09_OptionLsw1Region_isDisplayed !
+2023-06-05 18:42:17,257 - SFA_MVP -INFO - Completed Tcl_mtn_09_OptionLsw1Region_isDisplayed 
+2023-06-05 18:47:08,862 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 18:47:13,677 - SFA_MVP -INFO - Started Valid Tcl_mtn_09_Region_OptionLsw2_Selected  Test
+2023-06-05 18:47:13,678 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 18:47:35,616 - SFA_MVP -INFO - Test Pased! Tcl_mtn_09_Region_OptionLsw2_Selected !
+2023-06-05 18:47:35,616 - SFA_MVP -INFO - Completed Tcl_mtn_09_Region_OptionLsw2_Selected 
+2023-06-05 18:49:30,340 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 18:49:33,415 - SFA_MVP -INFO - Started Tcl_mtn_09_OptionLsw2Region_isDisplayed Test
+2023-06-05 18:49:33,415 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 18:49:53,017 - SFA_MVP -INFO - Test Pased! Tcl_mtn_09_OptionLsw2Region_isDisplayed !
+2023-06-05 18:49:53,023 - SFA_MVP -INFO - Completed Tcl_mtn_09_OptionLsw2Region_isDisplayed 
+2023-06-05 18:58:07,119 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 18:58:10,558 - SFA_MVP -INFO - Started Tcl_mtn_09_OptionLsw1Region_isDisplayedTest
+2023-06-05 18:58:10,559 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 18:58:33,506 - SFA_MVP -INFO - Test Pased!  Tcl_mtn_09_OptionRegionCoreWest_isDisplayed !
+2023-06-05 18:58:33,509 - SFA_MVP -INFO - Completed  Tcl_mtn_09_OptionRegionCoreWest_isDisplayed 
+2023-06-05 19:00:55,983 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 19:01:00,582 - SFA_MVP -INFO - Started Valid Tcl_mtn_09_Region_OptionCorewest_Selected  Test
+2023-06-05 19:01:00,582 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 19:01:24,633 - SFA_MVP -INFO - Test Failed Tcl_mtn_09_Region_OptionCoreWest_Selected failed!
+2023-06-05 19:02:37,973 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 19:02:41,403 - SFA_MVP -INFO - Started Valid Tcl_mtn_09_Region_OptionCorewest_Selected  Test
+2023-06-05 19:02:41,404 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 19:03:27,591 - SFA_MVP -INFO - Test Failed Tcl_mtn_09_Region_OptionCoreWest_Selected failed!
+2023-06-05 19:04:17,042 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 19:04:22,704 - SFA_MVP -INFO - Started Valid Tcl_mtn_09_Region_OptionCorewest_Selected  Test
+2023-06-05 19:04:22,705 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 19:05:23,640 - SFA_MVP -INFO - Test Failed Tcl_mtn_09_Region_OptionCoreWest_Selected failed!
+2023-06-05 19:07:49,740 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-05 19:07:54,716 - SFA_MVP -INFO - Started Valid Tcl_mtn_09_Region_OptionCorewest_Selected  Test
+2023-06-05 19:07:54,716 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-05 19:08:17,029 - SFA_MVP -INFO - Test Pased! Tcl_mtn_09_Region_OptionCoreWest_Selected !
+2023-06-05 19:08:17,034 - SFA_MVP -INFO - Completed Tcl_mtn_09_Region_OptionCoreWest_Selected 
+2023-06-06 19:49:30,436 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-06 19:49:34,811 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-06 19:49:34,812 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-06 19:49:39,311 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-06-06 19:49:49,351 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-06 23:34:36,778 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-06 23:34:44,866 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-06 23:34:44,867 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-06 23:34:48,334 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-06-06 23:34:58,373 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-06 23:35:27,494 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-06 23:35:34,513 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-06 23:35:34,514 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-06 23:35:42,619 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-06 23:43:34,751 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-06 23:43:46,515 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-06 23:43:46,515 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-06 23:46:32,691 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-06-06 23:46:32,692 - SFA_MVP -INFO - Completed Logintest
+2023-06-07 12:56:18,858 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 12:58:51,919 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 13:06:31,617 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 13:11:01,761 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 13:21:25,790 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 13:24:20,295 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 13:27:40,541 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 13:31:21,954 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 13:44:02,978 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 13:45:42,764 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 14:09:53,062 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 14:42:24,011 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 14:43:01,960 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 16:06:12,972 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 16:10:19,783 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 16:34:47,126 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 16:42:29,161 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 16:45:29,171 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 16:47:23,606 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 16:48:49,736 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 16:53:29,378 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 16:55:38,816 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 17:03:26,216 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 17:04:33,617 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 18:10:54,906 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 18:16:32,983 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-07 19:06:34,371 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 11:11:11,505 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 11:16:30,569 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 13:46:39,584 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 14:15:25,950 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 14:17:55,479 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 14:22:58,937 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 14:25:27,233 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 14:28:47,817 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 15:26:15,559 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 15:37:46,871 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 15:41:29,321 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 15:42:48,074 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 15:44:40,656 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 15:45:53,098 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 15:53:29,260 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 15:59:12,655 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:01:01,965 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:12:54,472 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:19:33,334 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:21:16,168 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:22:55,114 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:24:37,945 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:26:35,649 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:27:47,540 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:28:57,712 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:33:23,294 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:43:12,738 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:51:11,742 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:54:48,195 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 16:55:35,474 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 17:00:03,075 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 17:03:08,809 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 17:04:34,641 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 17:13:17,503 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 17:13:54,029 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 17:14:21,334 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 17:15:03,684 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 17:54:50,409 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:05:03,764 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:06:15,533 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:07:12,052 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:08:05,227 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:08:43,337 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:16:49,202 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:21:03,048 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:24:14,097 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:30:19,066 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:34:01,829 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 18:59:38,885 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:00:45,443 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:03:36,629 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:04:12,903 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:05:08,028 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:05:51,836 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:11:02,832 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:11:43,068 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:23:25,072 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:23:49,242 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:25:22,015 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:26:52,230 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:27:19,389 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:27:41,445 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:28:23,262 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:28:52,040 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:29:21,118 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:32:53,991 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:37:05,016 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:39:24,176 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:41:39,224 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:44:10,167 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 19:47:18,933 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:37:33,368 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:38:02,894 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:38:26,742 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:40:34,297 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:40:59,373 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:46:19,298 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:46:34,468 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:46:52,367 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:49:07,642 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:49:19,250 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:52:56,525 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:53:14,607 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-08 23:54:09,556 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 05:46:00,503 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 05:47:35,041 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 05:49:06,965 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 06:02:28,764 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 06:03:56,928 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 06:05:28,624 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 07:20:24,995 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 07:21:47,768 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 07:22:17,560 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 07:42:03,260 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 08:22:04,384 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 08:33:19,538 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 08:34:52,536 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 08:35:32,449 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 08:38:49,967 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 08:39:13,556 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 08:39:47,326 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 08:51:21,867 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 08:51:29,510 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-09 08:51:29,510 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-09 08:51:34,316 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-06-09 08:51:44,383 - SFA_MVP -INFO - Test Failed! Login failed!
+2023-06-09 08:52:37,221 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 08:52:41,677 - SFA_MVP -INFO - Started Valid Logintest
+2023-06-09 08:52:41,678 - SFA_MVP -INFO - Attempting valid user login into Salesforce Sandbox
+2023-06-09 08:52:55,845 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-06-09 08:53:36,389 - SFA_MVP -INFO - Test Passed! Login Successful!
+2023-06-09 08:53:36,390 - SFA_MVP -INFO - Completed Logintest
+2023-06-09 08:53:57,207 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 09:27:19,244 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 09:32:43,249 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 09:41:17,524 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 09:45:46,264 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 10:15:25,049 - SFA_MVP -DEBUG - Debug logging has started 
+2023-06-09 10:17:53,806 - SFA_MVP -DEBUG - Debug logging has started 
+2023-07-10 15:14:31,095 - SFA_MVP -DEBUG - Debug logging has started 
+2023-07-10 15:15:23,003 - SFA_MVP -INFO - one
+2023-07-10 15:15:23,118 - SFA_MVP -INFO - one
+2023-07-10 15:15:23,477 - SFA_MVP -INFO - one
+2023-07-10 15:15:23,711 - SFA_MVP -INFO - one
+2023-07-10 15:15:25,138 - SFA_MVP -INFO - one

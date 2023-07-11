@@ -38,14 +38,7 @@ public class BasePage {
 	public void shortWait() {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 	}
-	public void captureScreen(WebDriver driver, String tname) throws IOException
-	{
-		TakesScreenshot ts = (TakesScreenshot) driver;
-		File source = ts.getScreenshotAs(OutputType.FILE);
-		File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png");
-		FileUtils.copyFile(source, target);
-		System.out.println("Screenshot taken");
-	}
+
 	public static String randomestring()
 	{
 		String generatedString1 = RandomStringUtils.randomAlphabetic(5); // generate random char string with the specified values passed
@@ -86,6 +79,16 @@ public class BasePage {
 		element.sendKeys(text);
 
 	}
+	public boolean isElementPresent(WebDriver driver, WebElement element) {
+		try {
+			// Attempt to find the element using the specified locator
+			WebElement element1 = element;
+			// Return true if the element is found
+			return true;
+		} catch (org.openqa.selenium.NoSuchElementException e) {
+			// Return false if the element is not found
+			return false;
+		}
 
-
+	}
 }

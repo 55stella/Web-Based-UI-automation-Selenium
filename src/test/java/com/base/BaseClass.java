@@ -98,6 +98,14 @@ public class BaseClass
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(80));
 
 	}
+	public void captureScreen(WebDriver driver, String tname) throws IOException
+	{
+		TakesScreenshot ts = (TakesScreenshot) driver;
+		File source = ts.getScreenshotAs(OutputType.FILE);
+		File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png");
+		FileUtils.copyFile(source, target);
+		System.out.println("Screenshot taken");
+	}
 
 //	private static Duration ofMillis(int i) {
 //		// TODO Auto-generated method stub

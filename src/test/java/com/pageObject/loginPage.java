@@ -2,15 +2,18 @@ package com.pageObject;
 
 import com.base.BaseClass;
 import com.base.BasePage;
+import com.utilities.extentReports.ExtentTestManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.WebDriver;
+import org.testng.asserts.SoftAssert;
 
 
 import javax.xml.xpath.XPath;
+import java.io.IOException;
 
 public class loginPage extends BaseClass {
 
@@ -34,6 +37,10 @@ public class loginPage extends BaseClass {
     @FindBy(xpath = "//button[@id='logInBtn']")
     @CacheLookup
     public WebElement logInButton;
+
+    @FindBy(id="login_form")
+    @CacheLookup
+    public WebElement form;
 
 
 
@@ -78,6 +85,27 @@ public class loginPage extends BaseClass {
         enterEntityCodeCorp();
         enterUserNameCorp();
         enterPasswordCorp();
+    }
+    public void tasIsPresent() throws IOException {
+        SoftAssert softAssert = new SoftAssert();
+        BasePage basePage = new BasePage(driver);
+
+        if(basePage.isElementPresent(driver, form)){
+            softAssert.assertTrue(true);
+            logger.info("Test Passed! TCL_MTN-1 SUCCESSFUL!");
+            ExtentTestManager.getTest().pass("Test passed");
+
+
+        }
+        else{
+            softAssert.assertTrue(false);
+            logger.info("Test Failed! Login failed!");
+            captureScreen(driver,"TCL_MTN01 FAILURE");
+            ExtentTestManager.getTest().fail("Test Failed");
+        }
+        softAssert.assertAll();
+        logger.info("Completed LoginTest");
+
     }
 
 

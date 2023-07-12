@@ -42,6 +42,10 @@ public class loginPage extends BaseClass {
     @CacheLookup
     public WebElement form;
 
+    @FindBy(xpath="//label[@id='loginHeader']")
+    @CacheLookup
+    public  WebElement labelName;
+
 
 
 

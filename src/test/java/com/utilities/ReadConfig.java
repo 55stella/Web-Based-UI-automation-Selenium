@@ -43,7 +43,7 @@ public class ReadConfig
 
 	public String getUserNameCorp() // new
 	{
-		String userNameCorp=pro.getProperty("entityCodeCorp");
+		String userNameCorp=pro.getProperty("userNameCorp");
 		return userNameCorp;
 	}
 

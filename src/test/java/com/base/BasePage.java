@@ -64,6 +64,11 @@ public class BasePage {
 
 	}
 
+	public String getText(WebElement element){
+		waitForElement(element);
+		return element.getText();
+	}
+
 
 	public void sleep(int time) {
 		try {

@@ -2151,3 +2151,824 @@
 2023-07-10 15:15:23,711 [main] INFO SFA_MVP - one
 2023-07-10 15:15:25,138 [main] INFO SFA_MVP - one
 2023-07-11 09:05:54,684 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 09:31:13,041 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 09:31:17,596 [main] INFO SFA_MVP - Test Passed! TCL_MTN-1 SUCCESSFUL!
+2023-07-11 09:31:17,604 [main] INFO SFA_MVP - Completed LoginTest
+2023-07-11 11:20:49,876 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 11:22:46,967 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 11:22:51,635 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 11:22:51,977 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 11:22:52,169 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 11:22:52,180 [main] INFO SFA_MVP - Test Passed! TC_02_Validate_that_the_customer_can_login_as_a_partner
+2023-07-11 11:28:45,580 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 11:28:50,246 [main] INFO SFA_MVP - Test Passed! TCL_MTN-1 SUCCESSFUL!
+2023-07-11 11:28:50,251 [main] INFO SFA_MVP - Completed LoginTest
+2023-07-11 11:31:00,224 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 11:31:06,607 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 11:31:07,044 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 11:31:07,291 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 11:31:07,303 [main] INFO SFA_MVP - Test Passed! TC_02_Validate_that_the_customer_can_login_as_a_partner
+2023-07-11 11:33:58,898 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 11:34:05,059 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 11:34:05,556 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 11:34:05,816 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 11:36:19,096 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 11:36:21,493 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 11:36:22,450 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 11:36:22,681 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 11:36:52,789 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 11:36:52,933 [main] INFO SFA_MVP - Test Passed! TC_02_Validate_that_the_customer_can_login_as_a_partner
+2023-07-11 11:59:58,348 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 12:00:01,885 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 12:00:02,275 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 12:00:02,532 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 12:00:21,387 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 12:00:21,504 [main] INFO SFA_MVP - Test Passed! TC_02_Validate_that_the_customer_can_login_as_a_partner
+2023-07-11 12:00:21,510 [main] INFO SFA_MVP - Completed LoginTest
+2023-07-11 12:24:10,848 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 12:24:13,947 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 12:24:14,300 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 12:24:14,558 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 12:26:05,505 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 12:27:07,329 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 12:28:24,904 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 12:28:59,209 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 12:31:23,540 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 12:31:34,464 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 12:31:34,987 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 12:31:35,258 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 12:33:04,024 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 12:38:24,777 [main] INFO SFA_MVP - Test Passed!
+2023-07-11 12:38:24,791 [main] INFO SFA_MVP - Completed LoginTest
+2023-07-11 12:49:31,929 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 12:49:50,223 [main] INFO SFA_MVP - Test Passed!
+2023-07-11 12:49:50,228 [main] INFO SFA_MVP - Completed LoginTest
+2023-07-11 12:50:09,718 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 12:50:23,511 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 12:50:25,801 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 12:50:26,023 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 12:51:39,720 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 12:51:39,800 [main] INFO SFA_MVP - Test Passed! TC_02_Validate_that_the_customer_can_login_as_a_partner
+2023-07-11 12:51:39,806 [main] INFO SFA_MVP - Completed LoginTest
+2023-07-11 14:01:30,098 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:02:10,959 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:02:48,131 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:04:52,358 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:04:59,678 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:05:00,132 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:05:00,379 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:06:24,808 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:06:24,942 [main] INFO SFA_MVP - Test Passed
+2023-07-11 14:10:12,184 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:10:18,828 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:10:19,579 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:10:19,840 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:12:25,260 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:12:25,354 [main] INFO SFA_MVP - Test Passed
+2023-07-11 14:14:45,873 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:14:50,153 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:14:50,623 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:14:50,847 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:15:29,030 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:15:29,129 [main] INFO SFA_MVP - Test Passed
+2023-07-11 14:15:32,112 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:15:35,647 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:15:36,126 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:15:36,354 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:15:59,608 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:15:59,961 [main] INFO SFA_MVP - Test Passed
+2023-07-11 14:22:08,773 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:22:13,902 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:22:14,249 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:22:14,470 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:23:15,702 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:23:15,913 [main] INFO SFA_MVP - Test Passed
+2023-07-11 14:23:18,844 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:23:23,149 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:23:23,582 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:23:23,837 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:24:02,663 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:37:53,008 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:37:59,051 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:37:59,502 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:37:59,742 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:38:27,268 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:38:27,437 [main] INFO SFA_MVP - Clicked on select attribute
+2023-07-11 14:38:28,070 [main] INFO SFA_MVP - Clicked on search logo
+2023-07-11 14:38:28,150 [main] INFO SFA_MVP - Test Passed
+2023-07-11 14:38:29,883 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:38:33,092 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:38:33,463 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:38:33,719 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:38:34,391 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:38:56,271 [main] INFO SFA_MVP - Clicked on select attribute
+2023-07-11 14:38:56,617 [main] INFO SFA_MVP - Clicked on search logo
+2023-07-11 14:41:36,481 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:42:08,400 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:42:09,735 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:42:09,955 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:43:56,918 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:45:09,772 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:45:14,984 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:45:15,403 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:45:15,640 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:47:07,633 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:47:42,508 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:47:48,076 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:47:48,537 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:47:48,830 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:48:12,980 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:48:13,194 [main] INFO SFA_MVP - Clicked on select attribute
+2023-07-11 14:48:14,397 [main] INFO SFA_MVP - Clicked on search logo
+2023-07-11 14:48:14,793 [main] INFO SFA_MVP - Clicked on code details
+2023-07-11 14:48:14,860 [main] INFO SFA_MVP - Test Passed
+2023-07-11 14:48:53,691 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:49:01,057 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:49:01,662 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:49:01,943 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:49:27,452 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:49:27,546 [main] INFO SFA_MVP - Test Passed
+2023-07-11 14:49:29,715 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:49:36,216 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:49:36,777 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:49:37,102 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:49:59,440 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:49:59,712 [main] INFO SFA_MVP - Clicked on select attribute
+2023-07-11 14:49:59,824 [main] INFO SFA_MVP - Test Passed
+2023-07-11 14:50:02,014 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-11 14:50:08,399 [main] INFO SFA_MVP - Entity code- entered
+2023-07-11 14:50:08,794 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-11 14:50:09,224 [main] INFO SFA_MVP - Password partner- entered
+2023-07-11 14:50:26,694 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-11 14:50:26,885 [main] INFO SFA_MVP - Clicked on select attribute
+2023-07-11 14:50:27,138 [main] INFO SFA_MVP - Test Passed
+2023-07-12 08:30:18,148 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 08:30:20,780 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 08:30:21,067 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 08:30:21,268 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 08:30:36,188 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 08:30:36,291 [main] INFO SFA_MVP - Test Passed
+2023-07-12 08:30:37,921 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 08:30:41,111 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 08:30:41,397 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 08:30:41,581 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 08:30:58,416 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 08:30:58,570 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 08:35:19,271 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 08:35:21,280 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 08:35:21,636 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 08:35:21,770 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 08:35:34,128 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 08:35:34,212 [main] INFO SFA_MVP - Test Passed
+2023-07-12 08:35:35,704 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 08:35:37,415 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 08:35:37,681 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 08:35:37,835 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 08:35:38,389 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 08:35:49,557 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 08:35:50,197 [main] INFO SFA_MVP - Test Passed
+2023-07-12 08:36:10,086 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 08:36:12,117 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 08:36:12,400 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 08:36:12,547 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 08:36:23,627 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 08:36:23,715 [main] INFO SFA_MVP - Test Passed! TC_02_Validate_that_the_customer_can_login_as_a_partner
+2023-07-12 08:36:23,722 [main] INFO SFA_MVP - Completed LoginTest
+2023-07-12 08:37:04,912 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 08:37:07,151 [main] INFO SFA_MVP - Test Passed!
+2023-07-12 08:37:07,154 [main] INFO SFA_MVP - Completed LoginTest
+2023-07-12 11:18:59,029 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 11:19:01,634 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 11:19:02,016 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 11:19:02,227 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 11:19:02,812 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 11:19:22,473 [main] INFO SFA_MVP - Clicked on select attribute
+2023-07-12 11:19:22,595 [main] INFO SFA_MVP - Clicked on distributor profile 
+2023-07-12 11:19:23,810 [main] INFO SFA_MVP - Clicked on search logo
+2023-07-12 11:19:24,044 [main] INFO SFA_MVP - Clicked on code details
+2023-07-12 11:20:28,198 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 11:20:32,142 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 11:20:32,499 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 11:20:32,714 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 11:20:55,228 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 11:20:55,395 [main] INFO SFA_MVP - Clicked on select attribute
+2023-07-12 11:20:55,535 [main] INFO SFA_MVP - Clicked on distributor profile 
+2023-07-12 11:20:55,932 [main] INFO SFA_MVP - Clicked on search logo
+2023-07-12 11:20:56,194 [main] INFO SFA_MVP - Clicked on code details
+2023-07-12 11:20:57,607 [main] INFO SFA_MVP - Clicked on open
+2023-07-12 11:20:57,740 [main] INFO SFA_MVP - Test Passed
+2023-07-12 12:20:36,138 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 12:21:50,987 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 12:23:17,563 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 12:23:21,518 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 12:23:21,895 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 12:23:22,049 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 12:23:22,645 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 12:24:57,647 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 12:35:40,217 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 12:35:43,390 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 12:35:43,683 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 12:35:43,840 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 12:36:21,487 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 12:36:21,653 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 12:36:23,017 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 12:37:11,129 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 12:37:19,558 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 12:37:20,638 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 12:37:21,079 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 12:38:29,089 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 12:38:29,508 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 12:38:33,124 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 12:39:44,594 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 12:39:52,244 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 12:39:52,527 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 12:39:52,684 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 12:39:53,297 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 12:40:27,719 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 12:40:28,820 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 12:45:15,233 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 12:45:17,569 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 12:45:17,864 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 12:45:18,022 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 12:45:35,930 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 12:45:36,117 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 12:45:38,646 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 12:59:56,975 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 12:59:59,397 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 13:00:00,360 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 13:00:00,554 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 13:00:15,477 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 13:00:15,663 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 13:00:17,637 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 13:29:30,945 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 13:29:33,281 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 13:29:33,597 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 13:29:33,763 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 13:29:53,419 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 13:29:53,593 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 13:29:54,735 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 13:30:34,768 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 13:30:38,252 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 13:30:38,556 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 13:30:38,714 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 13:30:39,318 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 13:30:55,477 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 13:30:56,914 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 13:51:40,450 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 13:51:47,609 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 13:51:47,926 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 13:51:48,098 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 13:52:09,251 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 13:52:09,416 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 13:52:12,456 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 14:01:34,756 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 14:01:39,602 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 14:01:39,922 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 14:01:40,073 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 14:02:10,262 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 14:02:10,434 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 14:02:12,071 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 14:02:34,550 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 14:02:40,260 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 14:02:40,553 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 14:02:40,712 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 14:03:13,937 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 14:03:14,114 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 14:03:15,109 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 15:27:39,424 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 15:34:53,306 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 15:34:56,382 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 15:34:56,704 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 15:34:56,870 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 15:35:11,592 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 15:35:11,763 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 15:35:12,864 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 15:46:21,354 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 15:46:24,207 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 15:46:24,556 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 15:46:24,780 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 15:46:53,054 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 15:46:53,291 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 15:46:55,801 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 15:46:56,002 [main] INFO SFA_MVP - Test Passed
+2023-07-12 16:01:10,603 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 16:03:57,729 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 16:04:03,784 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 16:04:04,125 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 16:04:04,304 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 16:04:04,928 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 16:04:38,005 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 16:04:44,933 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 16:05:56,330 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 16:05:58,444 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 16:05:58,832 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 16:05:59,011 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 16:05:59,637 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 16:06:12,749 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 16:06:14,688 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 16:07:15,081 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 16:07:19,229 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 16:07:19,857 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 16:07:20,283 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 16:07:30,117 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 16:07:30,620 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 16:07:31,479 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 16:17:01,391 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-12 16:17:03,744 [main] INFO SFA_MVP - Entity code- entered
+2023-07-12 16:17:04,378 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-12 16:17:04,531 [main] INFO SFA_MVP - Password partner- entered
+2023-07-12 16:17:15,770 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-12 16:17:15,977 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-12 16:17:17,919 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-12 16:17:18,072 [main] INFO SFA_MVP - Test Passed
+2023-07-12 16:51:58,395 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 07:58:58,038 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 07:59:00,793 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 07:59:01,133 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 07:59:01,316 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 07:59:07,977 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 07:59:08,185 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 07:59:09,523 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 07:59:10,998 [main] INFO SFA_MVP - Test Failed!
+2023-07-13 08:00:49,889 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 08:00:52,493 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 08:00:52,982 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 08:00:53,146 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 08:00:59,439 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 08:00:59,749 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 08:01:00,922 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 08:01:12,552 [main] INFO SFA_MVP - Test Failed!
+2023-07-13 08:01:40,841 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 08:01:43,161 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 08:01:43,548 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 08:01:43,744 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 08:01:50,040 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 08:01:50,268 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 08:01:51,486 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 08:01:52,954 [main] INFO SFA_MVP - Test Failed!
+2023-07-13 11:23:42,502 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 11:25:14,170 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 11:27:16,008 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 11:27:21,948 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 11:27:22,255 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 11:27:22,403 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 11:27:39,530 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 11:27:39,700 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 11:27:40,649 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 11:28:14,285 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 11:28:17,099 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 11:28:17,440 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 11:28:17,614 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 11:28:27,100 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 11:28:27,274 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 11:28:28,412 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 11:44:24,592 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 11:44:27,988 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 11:44:28,345 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 11:44:28,514 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 11:44:52,866 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 11:44:53,033 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 11:44:54,981 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 11:45:41,585 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 11:45:44,195 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 11:45:44,473 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 11:45:44,631 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 11:45:55,872 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 11:45:56,043 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 11:45:57,356 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 11:50:55,291 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 11:50:58,230 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 11:50:58,513 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 11:50:58,700 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 11:51:09,299 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 11:51:09,579 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 11:51:10,691 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 11:51:21,505 [main] INFO SFA_MVP - Test Passed
+2023-07-13 11:55:09,042 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 11:55:11,407 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 11:55:11,708 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 11:55:11,850 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 11:55:24,359 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 11:55:24,591 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 11:55:25,743 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 11:55:36,487 [main] INFO SFA_MVP - Test Passed
+2023-07-13 11:55:36,492 [main] INFO SFA_MVP - Test completed
+2023-07-13 11:59:22,679 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 11:59:24,949 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 11:59:25,232 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 11:59:25,398 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 11:59:46,429 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 11:59:46,505 [main] INFO SFA_MVP - Test Passed
+2023-07-13 11:59:46,511 [main] INFO SFA_MVP - Test completed
+2023-07-13 11:59:48,362 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 11:59:50,136 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 11:59:50,433 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 11:59:50,620 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:00:00,238 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:00:00,491 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:00:01,130 [main] INFO SFA_MVP - Test Passed
+2023-07-13 12:00:01,130 [main] INFO SFA_MVP - Test completed
+2023-07-13 12:03:21,260 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:03:23,460 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:03:23,726 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:03:23,868 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:03:38,558 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:03:38,752 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:03:40,026 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:11:34,116 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:11:39,680 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:11:40,095 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:11:40,481 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:11:49,860 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:11:50,022 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:11:51,075 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:12:01,693 [main] INFO SFA_MVP - Test Failed!
+2023-07-13 12:14:18,140 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:14:21,004 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:14:21,312 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:14:21,454 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:14:39,706 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:14:39,871 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:14:40,853 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:14:51,524 [main] INFO SFA_MVP - Test Passed
+2023-07-13 12:14:51,528 [main] INFO SFA_MVP - Test completed
+2023-07-13 12:15:20,545 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:15:25,276 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:15:25,558 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:15:25,695 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:15:44,621 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:15:44,772 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:15:46,493 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:16:29,515 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:16:32,633 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:16:32,945 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:16:33,099 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:16:56,891 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:16:57,057 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:16:58,056 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:16:58,704 [main] INFO SFA_MVP - Test Passed
+2023-07-13 12:16:58,710 [main] INFO SFA_MVP - Test completed
+2023-07-13 12:29:24,632 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:29:26,560 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:29:26,831 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:29:26,991 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:29:35,322 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:29:35,517 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:29:36,592 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:29:37,375 [main] INFO SFA_MVP - Test Passed
+2023-07-13 12:29:37,380 [main] INFO SFA_MVP - Test completed
+2023-07-13 12:29:37,463 [main] INFO SFA_MVP - Test Passed
+2023-07-13 12:29:37,464 [main] INFO SFA_MVP - Test completed
+2023-07-13 12:29:37,547 [main] INFO SFA_MVP - Test Passed
+2023-07-13 12:29:37,547 [main] INFO SFA_MVP - Test completed
+2023-07-13 12:38:44,348 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:38:46,447 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:38:46,726 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:38:46,876 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:38:54,751 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:38:54,922 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:38:55,983 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:38:56,823 [main] INFO SFA_MVP - Test Passed
+2023-07-13 12:38:56,828 [main] INFO SFA_MVP - Test completed
+2023-07-13 12:38:58,454 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:39:00,504 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:39:00,800 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:39:00,940 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:39:08,167 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:39:08,356 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:39:09,419 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:39:10,135 [main] INFO SFA_MVP - Test Passed
+2023-07-13 12:39:10,136 [main] INFO SFA_MVP - Test completed
+2023-07-13 12:39:11,805 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:39:13,188 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:39:13,496 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:39:13,692 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:39:22,634 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:39:22,856 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:39:23,975 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:39:24,672 [main] INFO SFA_MVP - Test Passed
+2023-07-13 12:39:24,673 [main] INFO SFA_MVP - Test completed
+2023-07-13 12:52:58,982 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:53:34,363 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:56:30,010 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:56:38,260 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:56:39,300 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:56:39,468 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:57:41,830 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:57:42,044 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:57:43,301 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:58:37,985 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:58:43,230 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:58:43,615 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:58:43,781 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:58:53,619 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 12:58:53,811 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 12:58:55,039 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 12:59:05,825 [main] INFO SFA_MVP - Test Passed
+2023-07-13 12:59:05,834 [main] INFO SFA_MVP - Test completed
+2023-07-13 12:59:48,044 [main] DEBUG SFA_MVP - Debug logging has started 
+2023-07-13 12:59:50,490 [main] INFO SFA_MVP - Entity code- entered
+2023-07-13 12:59:50,813 [main] INFO SFA_MVP - Username Partner-entered
+2023-07-13 12:59:50,976 [main] INFO SFA_MVP - Password partner- entered
+2023-07-13 12:59:51,567 [main] INFO SFA_MVP - Clicked on logIn button
+2023-07-13 13:00:08,616 [main] INFO SFA_MVP - Clicked on Bell icon
+2023-07-13 13:00:15,223 [main] INFO SFA_MVP - Click on registration request for approval
+2023-07-13 13:00:16,455 [main] INFO SFA_MVP - Test Passed
+2023-07-13 13:00:16,467 [main] INFO SFA_MVP - Test completed
+2023-07-13 14:52:45,514 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 14:53:44,751 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 14:55:38,312 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 14:55:54,147 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 14:55:55,117 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 14:55:55,361 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 14:59:42,764 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 14:59:48,430 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 14:59:48,763 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 14:59:48,976 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 15:00:33,187 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 15:00:33,428 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 15:00:33,562 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 15:00:34,549 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 15:00:34,696 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 15:03:09,624 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 15:03:15,246 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 15:03:15,567 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 15:03:15,754 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 15:03:43,992 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 15:03:44,171 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 15:03:44,299 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 15:03:44,628 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 15:03:44,880 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 15:03:46,634 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 15:03:46,774 [main] INFO Trade automation solution - Test Passed
+2023-07-13 15:03:46,779 [main] INFO Trade automation solution - Test completed
+2023-07-13 15:50:06,356 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 15:50:26,412 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 15:50:26,878 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 15:50:27,203 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 15:51:11,565 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 15:51:11,913 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 15:51:12,091 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 15:51:12,462 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 15:51:13,019 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 15:51:14,351 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 15:51:19,988 [main] INFO Trade automation solution - Test Passed
+2023-07-13 15:51:20,001 [main] INFO Trade automation solution - Test Completed
+2023-07-13 15:51:22,200 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 15:51:33,517 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 15:51:34,141 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 15:51:34,341 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 15:52:57,184 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 15:52:57,415 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 15:53:00,306 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 16:05:39,262 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 16:21:04,946 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 16:21:41,623 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 16:21:41,926 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 16:21:42,107 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 16:21:55,107 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 16:21:55,340 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 16:21:56,382 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 16:29:00,597 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 16:29:08,768 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 16:29:09,424 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 16:29:09,583 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 16:31:08,092 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 16:31:08,312 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 16:31:09,440 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 16:32:17,466 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 16:32:27,932 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 16:32:28,276 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 16:32:28,500 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 16:32:59,726 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 16:32:59,886 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 16:33:00,066 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 16:33:00,247 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 16:34:14,545 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 16:34:17,970 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 16:34:18,282 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 16:34:18,472 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 16:34:19,164 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 16:34:32,126 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 16:34:32,260 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 16:34:33,314 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 16:34:33,631 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 16:34:35,024 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 16:34:35,043 [main] INFO Trade automation solution - Test Failed
+2023-07-13 16:56:09,362 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 16:56:16,316 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 16:56:16,665 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 16:56:16,876 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 16:56:53,549 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 16:56:53,759 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 16:56:53,891 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 16:56:54,476 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 16:56:54,708 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 16:56:56,158 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 16:56:57,560 [main] INFO Trade automation solution - Test Passed
+2023-07-13 16:56:57,567 [main] INFO Trade automation solution - Test Completed
+2023-07-13 16:56:59,492 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 16:57:03,420 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 16:57:03,708 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 16:57:03,870 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 16:57:24,437 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 16:57:24,676 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 16:57:26,117 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 16:58:18,851 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 16:58:23,853 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 16:58:24,213 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 16:58:24,408 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 16:59:22,213 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 16:59:22,471 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 16:59:24,207 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 17:00:22,412 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:00:27,644 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:00:28,045 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:00:28,309 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:00:28,880 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:00:57,405 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 17:00:57,544 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 17:00:57,937 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 17:00:58,165 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 17:00:59,708 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 17:01:00,773 [main] INFO Trade automation solution - Test Passed
+2023-07-13 17:01:00,786 [main] INFO Trade automation solution - Test Completed
+2023-07-13 17:01:02,638 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:01:08,489 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:01:08,880 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:01:09,038 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:01:09,677 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:01:29,538 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 17:01:30,583 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 17:01:47,650 [main] INFO Trade automation solution - Test Passed
+2023-07-13 17:01:47,651 [main] INFO Trade automation solution - Test completed
+2023-07-13 17:04:09,251 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:04:14,581 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:04:14,997 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:04:15,200 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:04:15,808 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:04:42,874 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 17:04:43,015 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 17:04:43,753 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 17:04:44,010 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 17:04:45,208 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 17:04:46,560 [main] INFO Trade automation solution - Test Passed
+2023-07-13 17:04:46,572 [main] INFO Trade automation solution - Test Completed
+2023-07-13 17:04:48,361 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:04:52,055 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:04:52,355 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:04:52,520 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:05:22,252 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:05:22,445 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 17:05:23,760 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 17:16:40,453 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:16:42,943 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:16:43,240 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:16:43,450 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:16:56,368 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:16:56,531 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 17:16:56,687 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 17:16:57,146 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 17:16:57,365 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 17:16:58,509 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 17:16:59,385 [main] INFO Trade automation solution - Test Passed
+2023-07-13 17:16:59,394 [main] INFO Trade automation solution - Test Completed
+2023-07-13 17:17:01,472 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:17:05,035 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:17:05,333 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:17:05,486 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:17:22,607 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:17:22,840 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 17:17:24,102 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 17:18:07,124 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:18:11,097 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:18:11,412 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:18:11,616 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:18:39,455 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:18:39,624 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 17:18:39,748 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 17:18:40,579 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 17:18:40,840 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 17:18:41,997 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 17:18:43,412 [main] INFO Trade automation solution - Test Passed
+2023-07-13 17:18:43,420 [main] INFO Trade automation solution - Test Completed
+2023-07-13 17:18:45,371 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:18:48,857 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:18:49,227 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:18:49,377 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:18:49,873 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:19:12,308 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 17:19:13,503 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 17:19:34,893 [main] INFO Trade automation solution - Test Passed
+2023-07-13 17:19:34,895 [main] INFO Trade automation solution - Test completed
+2023-07-13 17:21:24,919 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:21:28,627 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:21:28,966 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:21:29,187 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:21:44,227 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:21:44,426 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 17:21:44,561 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 17:21:45,007 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 17:21:45,251 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 17:21:46,406 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 17:21:47,238 [main] INFO Trade automation solution - Test Passed
+2023-07-13 17:21:47,246 [main] INFO Trade automation solution - Test Completed
+2023-07-13 17:21:49,121 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:21:52,993 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:21:53,288 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:21:53,441 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:21:54,016 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:22:07,444 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 17:22:08,544 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 17:22:30,000 [main] INFO Trade automation solution - Test Passed
+2023-07-13 17:22:30,002 [main] INFO Trade automation solution - Test completed
+2023-07-13 17:31:12,857 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:31:16,268 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:31:16,587 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:31:16,815 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:31:27,082 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:31:27,301 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 17:31:27,427 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 17:31:27,836 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 17:31:28,077 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 17:31:29,297 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 17:31:30,103 [main] INFO Trade automation solution - Test Passed
+2023-07-13 17:31:30,112 [main] INFO Trade automation solution - Test Completed
+2023-07-13 17:31:31,953 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:31:35,011 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:31:35,330 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:31:35,510 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:31:46,308 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:31:46,586 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-07-13 17:31:47,597 [main] INFO Trade automation solution - Click on registration request for approval
+2023-07-13 17:32:09,065 [main] INFO Trade automation solution - Test Passed
+2023-07-13 17:32:09,066 [main] INFO Trade automation solution - Test completed
+2023-07-13 17:32:11,880 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:32:17,336 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:32:17,699 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:32:17,896 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:32:31,449 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:32:31,624 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 17:32:31,769 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 17:32:32,082 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 17:32:32,374 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 17:32:33,774 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 17:32:33,787 [main] INFO Trade automation solution - Test Failed
+2023-07-13 17:33:37,278 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:33:40,404 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:33:40,752 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:33:40,966 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:33:41,495 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:33:58,703 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 17:33:58,858 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 17:33:59,238 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 17:33:59,454 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 17:34:01,027 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 17:34:01,043 [main] INFO Trade automation solution - Test Failed
+2023-07-13 17:34:57,409 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:35:01,767 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:35:02,092 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:35:02,324 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:35:19,566 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:35:19,856 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 17:35:20,047 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 17:35:20,576 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 17:35:21,119 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 17:35:22,116 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 17:35:42,145 [main] INFO Trade automation solution - Test Failed
+2023-07-13 17:41:13,283 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 17:41:17,654 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 17:41:17,998 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 17:41:18,202 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 17:41:43,495 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 17:41:43,683 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 17:41:43,820 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 17:41:44,269 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 17:41:44,699 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 17:41:45,485 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 17:42:05,519 [main] INFO Trade automation solution - Test Failed
+2023-07-13 18:29:41,341 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 18:31:07,126 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 18:31:51,783 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 18:31:52,908 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 18:31:53,265 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 18:32:33,823 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 18:32:34,089 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 18:32:34,242 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 18:32:34,704 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 18:32:35,001 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 18:32:37,399 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 18:34:17,475 [main] INFO Trade automation solution - Test Passed
+2023-07-13 18:34:17,482 [main] INFO Trade automation solution - Test completed
+2023-07-13 18:35:35,735 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-07-13 18:35:38,947 [main] INFO Trade automation solution - Entity code- entered
+2023-07-13 18:35:39,271 [main] INFO Trade automation solution - Username Partner-entered
+2023-07-13 18:35:39,473 [main] INFO Trade automation solution - Password partner- entered
+2023-07-13 18:35:39,940 [main] INFO Trade automation solution - Clicked on logIn button
+2023-07-13 18:35:49,221 [main] INFO Trade automation solution - Clicked on select attribute
+2023-07-13 18:35:49,335 [main] INFO Trade automation solution - Clicked on distributor profile 
+2023-07-13 18:35:49,966 [main] INFO Trade automation solution - Clicked on search logo
+2023-07-13 18:35:50,159 [main] INFO Trade automation solution - Clicked on code details
+2023-07-13 18:35:51,420 [main] INFO Trade automation solution - Clicked on open
+2023-07-13 18:37:11,519 [main] INFO Trade automation solution - Test Passed
+2023-07-13 18:37:11,525 [main] INFO Trade automation solution - Test completed

@@ -38,7 +38,27 @@ public class BaseClass
 	public static String passwordPartner = readconfig.getPasswordPartner();
 	public static String usernamePartner = readconfig.getUsernamePartner();
 
+
+
 	public static String entityCodePartner = readconfig.getEntityCodePartner();
+
+	public static String newUsernamePartner= readconfig.getNewUsernamePartner();
+
+	public static String newPasswordPartner= readconfig.getNewPasswordPartner();
+
+	public static String newEntityCodePartner = readconfig.getNewEntityCodePartner();
+
+	public static String approveUsernamePartner= readconfig.getApproveUsernamePartner();
+
+	public static String approvePasswordPartner= readconfig.getApprovePasswordPartner();
+
+	public static String approveEntityCodePartner = readconfig.getApproveEntityCodePartner();
+
+	public static String rejectUsernamePartner= readconfig.getRejectUsernamePartner();
+
+	public static String rejectPasswordPartner= readconfig.getRejectPasswordPartner();
+
+	public static String rejectEntityCodePartner = readconfig.getRejectEntityCodePartner();
 
 	public static String browser = readconfig.getBrowser();
 
@@ -86,7 +106,7 @@ public class BaseClass
 			driver = new FirefoxDriver(handlingSSL2);}
 
 		// Initialization // Logger initiated within the setup method
-		logger=Logger.getLogger("SFA_MVP");// Project Name
+		logger=Logger.getLogger("Trade automation solution");// Project Name
 		PropertyConfigurator.configure("log4j.properties"); // Added Logger
 		logger.setLevel(Level.DEBUG); // to get the debug log
 		logger.debug("Debug logging has started ");

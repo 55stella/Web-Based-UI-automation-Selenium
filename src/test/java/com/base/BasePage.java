@@ -1,11 +1,14 @@
 package com.base;
 
+import com.pageObject.loginPage;
+import com.utilities.extentReports.ExtentTestManager;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.asserts.SoftAssert;
 
 import java.io.File;
 import java.io.IOException;
@@ -14,8 +17,9 @@ import java.time.Duration;
 
 import static com.base.BaseClass.driver;
 
-public class BasePage {
+public class BasePage extends BaseClass {
 	private JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
+	SoftAssert softAssert = new SoftAssert();
 
 	public BasePage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
@@ -50,6 +54,9 @@ public class BasePage {
 		String generatedString2 = RandomStringUtils.randomNumeric(4);// generate random digits with the specified values passed
 		return (generatedString2);
 	}
+	public void waitForTwentySeconds() throws InterruptedException {
+		Thread.sleep(20000);
+	}
 
 
 
@@ -81,14 +88,98 @@ public class BasePage {
 	}
 	public boolean isElementPresent(WebDriver driver, WebElement element) {
 		try {
-			// Attempt to find the element using the specified locator
-			WebElement element1 = element;
-			// Return true if the element is found
-			return true;
-		} catch (org.openqa.selenium.NoSuchElementException e) {
-			// Return false if the element is not found
-			return false;
+			element.isDisplayed();
+			return true; // Element found
+		} catch (NoSuchElementException | NullPointerException e) {
+			return false; // Element not found
 		}
 
+
 	}
+
+	public boolean isElementClickable(WebDriver driver, WebElement element) {
+		try {
+			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(150)); // Set a reasonable timeout
+			wait.until(ExpectedConditions.elementToBeClickable(element));
+			return true; // Element is clickable
+		} catch (Exception e) {
+			return false; // Element is not clickable
+		}
+	}
+	public void isClickable(WebElement element, String testCaseName) throws IOException {
+		if(isElementClickable(driver, element)){
+			softAssert.assertTrue(true);
+			logger.info("Test Passed");
+			ExtentTestManager.getTest().pass("Test passed");
+
+		}
+		else {
+			softAssert.assertTrue(false);
+			logger.info("Test Failed!");
+			captureScreen(driver,testCaseName);
+			ExtentTestManager.getTest().fail("Test Failed");
+		}
+		softAssert.assertAll();
+		logger.info("Test completed");
+
+
+
+
+	}
+	public void checkTextInAlert(String text, String testCaseName) throws IOException {
+		Alert alert = driver.switchTo().alert();
+		String alertText= alert.getText().toLowerCase();
+		String cleanText=text.replaceAll("/s","").toLowerCase();
+		boolean isTextPresent= alertText.contains(cleanText);
+		alert.accept();
+		if (isTextPresent){
+			softAssert.assertTrue(true);
+			logger.info("Test Passed");
+			ExtentTestManager.getTest().pass("Test passed");
+		}
+		else {
+			softAssert.assertTrue(false);
+			logger.info("Test Failed!");
+			captureScreen(driver,testCaseName);
+			ExtentTestManager.getTest().fail("Test Failed");
+		}
+		softAssert.assertAll();
+		logger.info("Test completed");
+
+	}
+	public void isWebElementEditable(WebElement element, String testCaseName) throws IOException {
+		Boolean check = element.isEnabled() &&
+				element.getAttribute("readonly") == null &&
+				element.getAttribute("disabled") == null &&
+				(element.getTagName().equals("input") ||
+						element.getTagName().equals("textarea") ||
+						element.getTagName().equals("select"));
+
+		if (check) {
+			softAssert.assertTrue(false);
+			logger.info("Test Failed!");
+			captureScreen(driver, testCaseName);
+			ExtentTestManager.getTest().fail("Test Failed");
+
+
+		} else {
+			softAssert.assertTrue(true);
+			logger.info("Test Passed");
+			ExtentTestManager.getTest().pass("Test passed");
+		}
+		softAssert.assertAll();
+		logger.info("Test completed");
+
+	}
+
+
+
+
+
+
+
+
+
+
+
 }

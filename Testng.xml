@@ -9,6 +9,10 @@
     <test  name="MTN Partner Play Test">
         <packages>
             <package name="com.testCases.IMEI_UploadDetails_SingleUpload"></package>
+
+            <package name="com.testCases.IMEI_UploadDetails_BulkUpload"></package>
+            <package name="com.testCases.newest"></package>
+            <package name="com.testCases.RequestForUniqueID"></package>
         </packages>
 
 

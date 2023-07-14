@@ -3,12 +3,15 @@ package com.pageObject;
 import com.base.BaseClass;
 import com.base.BasePage;
 
+import com.utilities.extentReports.ExtentTestManager;
+import org.checkerframework.checker.index.qual.PolyUpperBound;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
 
@@ -39,6 +42,30 @@ public class CorpDashboard extends BaseClass {
     @CacheLookup
     public WebElement signOutButton;
 
+    @FindBy(id="navAccordionSubMenu")
+    @CacheLookup
+    public WebElement masterDataUploadMenu;
+
+    @FindBy(xpath = "//span[text()='Master Data Upload']")
+    @CacheLookup
+    public WebElement masterDataUploadButton;
+
+    @FindBy(xpath = "//span[@class='menuLink' and text()='IMEI Details Upload']")
+    @CacheLookup
+    public WebElement imeiDetailsUploadButton;
+
+
+    SoftAssert softAssert = new SoftAssert();
+
+    public void clickImeiDetailsUploadButton(){
+        basePage.waitForElement(imeiDetailsUploadButton);
+        imeiDetailsUploadButton.click();
+    }
+
+    public void isIMEIDetailsUploadButtonClickable(String testCaseName) throws IOException {
+        basePage.isClickable(imeiDetailsUploadButton,testCaseName);
+    }
+
     public void clickRefNo(){
         basePage.waitForElementClick(refNo);
         refNo.click();
@@ -68,6 +95,42 @@ public class CorpDashboard extends BaseClass {
     public void logOut(){
         clickWelcomeMenu();
         clickSignOut();
+    }
+    public void clickMasterDataUploadButton(){
+        basePage.waitForElement(masterDataUploadButton);
+        masterDataUploadButton.click();
+    }
+    public void isMasterDataUploadButtonClickable(String testCaseName) throws IOException {
+        basePage.isClickable(masterDataUploadButton,testCaseName);
+
+    }
+    public void isIMEIDataUploadButtonClickable(){
+
+
+
+    }
+
+
+    //IMEI Details Upload
+    public void textIsNotPresent(String text, String testCaseName) throws IOException {
+        String modText= text.replaceAll("%s","").toLowerCase();
+        String textFromMenu=masterDataUploadMenu.getText().replaceAll("%s","").toLowerCase();
+        Boolean check=  textFromMenu.contains(modText);
+        if(check){
+            softAssert.assertTrue(false);
+            logger.info("Test Failed");
+            ExtentTestManager.getTest().pass("Test Failed");
+            captureScreen(driver,testCaseName);
+
+        }else{
+            softAssert.assertTrue(true);
+            logger.info("Test passed");
+            ExtentTestManager.getTest().fail("Test Passed");
+        }
+        softAssert.assertAll();
+        logger.info("Test Completed");
+
+
     }
 
 

@@ -57,6 +57,10 @@ public class BasePage extends BaseClass {
 	public void waitForTwentySeconds() throws InterruptedException {
 		Thread.sleep(20000);
 	}
+	public String randomNum(int num){
+		String generatedString2 = RandomStringUtils.randomNumeric(num);// generate random digits with the specified values passed
+		return (generatedString2);
+	}
 
 
 
@@ -134,7 +138,8 @@ public class BasePage extends BaseClass {
 	public void checkTextInAlert(String text, String testCaseName) throws IOException {
 		Alert alert = driver.switchTo().alert();
 		String alertText= alert.getText().toLowerCase();
-		String cleanText=text.replaceAll("/s","").toLowerCase();
+        String cleanText=text.replaceAll("/s","").toLowerCase();
+		System.out.println(alertText);
 		boolean isTextPresent= alertText.contains(cleanText);
 		alert.accept();
 		if (isTextPresent){

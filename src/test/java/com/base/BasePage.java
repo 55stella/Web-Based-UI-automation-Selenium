@@ -71,6 +71,11 @@ public class BasePage extends BaseClass {
 
 	}
 
+	public String getText(WebElement element){
+		waitForElement(element);
+		return element.getText();
+	}
+
 
 	public void sleep(int time) {
 		try {

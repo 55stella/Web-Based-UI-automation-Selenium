@@ -2151,6 +2151,7 @@
 2023-07-10 15:15:23,711 - SFA_MVP -INFO - one
 2023-07-10 15:15:25,138 - SFA_MVP -INFO - one
 2023-07-11 09:05:54,684 - SFA_MVP -DEBUG - Debug logging has started 
+<<<<<<< HEAD
 2023-07-11 09:31:13,041 - SFA_MVP -DEBUG - Debug logging has started 
 2023-07-11 09:31:17,596 - SFA_MVP -INFO - Test Passed! TCL_MTN-1 SUCCESSFUL!
 2023-07-11 09:31:17,604 - SFA_MVP -INFO - Completed LoginTest
@@ -2972,3 +2973,24 @@
 2023-07-13 18:35:51,420 - Trade automation solution -INFO - Clicked on open
 2023-07-13 18:37:11,519 - Trade automation solution -INFO - Test Passed
 2023-07-13 18:37:11,525 - Trade automation solution -INFO - Test completed
+=======
+2023-07-11 12:21:29,899 - SFA_MVP -DEBUG - Debug logging has started 
+2023-07-11 12:21:31,597 - SFA_MVP -INFO - Test Completed 
+2023-07-11 12:32:59,309 - SFA_MVP -DEBUG - Debug logging has started 
+2023-07-11 12:33:01,368 - SFA_MVP -INFO - Test Passed
+2023-07-11 12:33:01,368 - SFA_MVP -INFO - Test Completed 
+2023-07-11 12:33:27,418 - SFA_MVP -DEBUG - Debug logging has started 
+2023-07-11 12:33:29,966 - SFA_MVP -INFO - Test Failed 
+2023-07-11 12:33:30,277 - SFA_MVP -INFO - Test Completed 
+2023-07-11 12:50:08,572 - SFA_MVP -DEBUG - Debug logging has started 
+2023-07-11 12:50:11,022 - SFA_MVP -INFO - Test Failed 
+2023-07-11 12:50:11,317 - SFA_MVP -INFO - Test Completed 
+2023-07-11 12:51:33,000 - SFA_MVP -DEBUG - Debug logging has started 
+2023-07-11 12:51:34,658 - SFA_MVP -INFO - Test Failed 
+2023-07-11 12:51:34,987 - SFA_MVP -INFO - Test Completed 
+2023-07-11 12:53:36,277 - SFA_MVP -DEBUG - Debug logging has started 
+2023-07-11 12:53:37,962 - SFA_MVP -INFO - Test Failed 
+2023-07-11 12:54:10,745 - SFA_MVP -DEBUG - Debug logging has started 
+2023-07-11 12:54:12,386 - SFA_MVP -INFO - Test Passed
+2023-07-11 12:54:12,386 - SFA_MVP -INFO - Test Completed 
+>>>>>>> tomiwa_feature

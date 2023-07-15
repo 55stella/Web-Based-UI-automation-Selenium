@@ -43,7 +43,7 @@ public class ReadConfig
 
 	public String getUserNameCorp() // new
 	{
-		String userNameCorp=pro.getProperty("entityCodeCorp");
+		String userNameCorp=pro.getProperty("userNameCorp");
 		return userNameCorp;
 	}
 
@@ -72,6 +72,45 @@ public class ReadConfig
 		String userNamePartner=pro.getProperty("userNamePartner");
 		return userNamePartner;
 	}
+	public String getNewUsernamePartner(){
+		String newUserNamePartner=pro.getProperty("newUsernamePartner");
+		return newUserNamePartner;
+	}
+	public String getNewPasswordPartner(){
+		String newPasswordPartner=pro.getProperty("newPasswordPartner");
+		return newPasswordPartner;
+	}
+	public String getNewEntityCodePartner(){
+		String newEntityCodePartner=pro.getProperty("newEntityCodePartner");
+		return newEntityCodePartner;
+	}
+	public String getApproveUsernamePartner(){
+		String approveUserNamePartner=pro.getProperty("approveUsernamePartner");
+		return approveUserNamePartner;
+	}
+	public String getApprovePasswordPartner(){
+		String approvePasswordPartner=pro.getProperty("approvePasswordPartner");
+		return approvePasswordPartner;
+	}
+	public String getApproveEntityCodePartner(){
+		String approveEntityCodePartner=pro.getProperty("approveEntityCodePartner");
+		return approveEntityCodePartner;
+	}
+	public String getRejectUsernamePartner(){
+		String rejectUserNamePartner=pro.getProperty("rejectUsernamePartner");
+		return rejectUserNamePartner;
+	}
+	public String getRejectPasswordPartner(){
+		String rejectPasswordPartner=pro.getProperty("rejectPasswordPartner");
+		return rejectPasswordPartner;
+	}
+	public String getRejectEntityCodePartner(){
+		String rejectEntityCodePartner=pro.getProperty("rejectEntityCodePartner");
+		return rejectEntityCodePartner;
+	}
+
+
+
 
 
 

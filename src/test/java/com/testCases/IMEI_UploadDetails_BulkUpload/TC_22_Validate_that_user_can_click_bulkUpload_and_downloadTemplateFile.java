@@ -22,7 +22,7 @@ public class TC_22_Validate_that_user_can_click_bulkUpload_and_downloadTemplateF
         corpDashboard.clickImeiDetailsUploadButton();
         imeiDetailsUpload.isBulkUploadClickable("TC_22_Validate_that_user_can_click_bulkUpload");
     }
-    @Test(priority = 2)
+    @Test(priority = 1)
     public void TC_22_Validate_that_user_can_click_downloadTemplateFile() throws IOException, InterruptedException {
         BasePage basePage = new BasePage(driver);
         loginPage loginPages = new loginPage(driver);

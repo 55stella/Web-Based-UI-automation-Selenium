@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class TC_08_Validate_that_the_user_can_login_as_a_corp extends BaseClass {
 
-    @Test
+    @Test(priority =1)
     public void TC_08_Validate_that_the_user_can_login_as_a_corp() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
         loginPage loginPages = new loginPage(driver);

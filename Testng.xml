@@ -11,8 +11,11 @@
 <!--            <package name="com.testCases.RequestForUniqueID"></package>-->
 
             <package name="com.testCases.ApprovalForRegisterationRequest"></package>
-<!--            <package name="com.testCases.newest"></package>-->
-<!--            <package name="com.testCases.RequestForUniqueID"></package>-->
+            <package name="com.testCases.HybridModule"></package>
+            <package name="com.testCases.IMEI_UploadDetails_SingleUpload"></package>
+            <package name="com.testCases.IMEI_UploadDetails_BulkUpload"></package>
+            <package name="com.testCases.RequestForUniqueID"></package>
+
         </packages>
 
 

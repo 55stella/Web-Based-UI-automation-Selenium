@@ -12,7 +12,7 @@ import java.io.IOException;
 
 public class TC_18_Validate_successful_singleIMEIUpload extends BaseClass {
 
-    @Test
+    @Test(priority = 1)
     public void TC_18_Validate_successful_singleIMEIUpload() throws IOException, InterruptedException {
         BasePage basePage = new BasePage(driver);
         loginPage loginPages = new loginPage(driver);

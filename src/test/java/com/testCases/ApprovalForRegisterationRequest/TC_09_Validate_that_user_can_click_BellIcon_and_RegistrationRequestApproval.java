@@ -19,7 +19,7 @@ public class TC_09_Validate_that_user_can_click_BellIcon_and_RegistrationRequest
         loginPages.validLoginCorp();
         dashBoard.isBellIconClickable("TC_09_Validate_that_user_can_click_BellIcon");
     }
-    @Test (priority = 2)
+    @Test (priority = 1)
     public void TC_09_Validate_that_user_can_click_RegistrationRequestApproval() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
         loginPage loginPages = new loginPage(driver);

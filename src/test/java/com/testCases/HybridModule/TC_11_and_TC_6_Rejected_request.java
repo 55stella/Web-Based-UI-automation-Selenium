@@ -27,7 +27,7 @@ public class TC_11_and_TC_6_Rejected_request extends BaseClass {
 
 
     }//corp user should approve and get alert
-    @Test(priority=2)
+    @Test(priority=1)
     public void TC_11_Validate_that_user_gets_successfulRejectedAlert() throws IOException, InterruptedException {
         DashBoard dashBoard = new DashBoard(driver);
         loginPage loginPages = new loginPage(driver);

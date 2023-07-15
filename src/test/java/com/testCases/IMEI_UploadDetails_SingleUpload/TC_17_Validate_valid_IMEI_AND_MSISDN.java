@@ -28,7 +28,7 @@ public class TC_17_Validate_valid_IMEI_AND_MSISDN extends BaseClass {
         basePage.checkTextInAlert("imei number must have 15 digits","TC_17_Validate__Invalid_IMEI_does_not_work");
     }
 
-    @Test(priority=2)
+    @Test(priority=1)
     public void TC_17_Validate__Invalid_msisdn_does_not_work() throws IOException {
         BasePage basePage = new BasePage(driver);
         loginPage loginPages = new loginPage(driver);

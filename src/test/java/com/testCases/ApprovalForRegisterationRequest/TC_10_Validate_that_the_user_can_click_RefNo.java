@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import java.io.IOException;
 
 public class TC_10_Validate_that_the_user_can_click_RefNo extends BaseClass {
-    @Test
+    @Test(priority = 1)
     public void TC_10_Validate_that_the_user_can_click_RefNo() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
         loginPage loginPages = new loginPage(driver);

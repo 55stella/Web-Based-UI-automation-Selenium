@@ -21,7 +21,7 @@ public class TC_04_Validate_that_user_can_click_codeDetails_and_open extends Bas
         dashBoard.isCodeDetailClickable("TC_04_Validate_that_user_can_click_codeDetails_and_open");
 
     }
-    @Test(priority=2 )
+    @Test(priority=1)
     public void TC_04_Validate_that_user_can_click_openOption() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
         loginPage loginPages = new loginPage(driver);

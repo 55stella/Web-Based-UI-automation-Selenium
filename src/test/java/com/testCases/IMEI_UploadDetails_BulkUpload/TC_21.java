@@ -22,7 +22,7 @@ public class TC_21 extends BaseClass {
         corpDashboard.isMasterDataUploadButtonClickable("TC_21_Validate_that_the_MasterDataUploadButton_clickable");
     }
 
-    @Test(priority = 2)
+    @Test(priority = 1)
     public void TC_21_Validate_that_the_IMeiDetailsUploadButton_clickable() throws IOException {
         loginPage loginPages = new loginPage(driver);
         CorpDashboard corpDashboard = new CorpDashboard(driver);

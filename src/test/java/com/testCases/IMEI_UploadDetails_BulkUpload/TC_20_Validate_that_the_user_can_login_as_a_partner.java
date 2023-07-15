@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class TC_20_Validate_that_the_user_can_login_as_a_partner extends BaseClass {
 
-    @Test
+    @Test(priority = 1)
     public void TC_20_Validate_that_the_user_can_login_as_a_partner() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
         loginPage loginPages = new loginPage(driver);

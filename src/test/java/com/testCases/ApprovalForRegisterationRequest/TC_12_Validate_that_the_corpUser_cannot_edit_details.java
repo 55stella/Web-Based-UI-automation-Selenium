@@ -27,7 +27,7 @@ public class TC_12_Validate_that_the_corpUser_cannot_edit_details extends BaseCl
         basePage.shortWait();
         registrationRequestPage.isAgentNameEditable("TC_10_Validate_that_the_user_can_click_RefNo");
     }
-    @Test(priority = 2)
+    @Test(priority = 1)
     public void TC_12_Validate_that_the_corpUser_cannot_edit_agentMSISDN () throws IOException {
         BasePage basePage = new BasePage(driver);
         DashBoard dashBoard = new DashBoard(driver);
@@ -42,7 +42,7 @@ public class TC_12_Validate_that_the_corpUser_cannot_edit_details extends BaseCl
         basePage.shortWait();
         registrationRequestPage.isAgentMSISDNEditable("TC_12_Validate_that_the_corpUser_cannot_edit_agentMSISDN");
     }
-    @Test(priority = 3)
+    @Test(priority = 1)
     public void TC_12_Validate_that_the_corpUser_cannot_edit_agentLocation () throws IOException {
         BasePage basePage = new BasePage(driver);
         DashBoard dashBoard = new DashBoard(driver);

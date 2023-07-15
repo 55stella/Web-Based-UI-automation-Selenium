@@ -28,7 +28,7 @@ public class TC_11_and_TC_6_Approved_request extends BaseClass {
 
 
     }//corp user should approve and get alert
-    @Test(priority=2)
+    @Test(priority=1)
         public void TC_11_Validate_that_user_gets_successfulAlert() throws InterruptedException, IOException {
         DashBoard dashBoard = new DashBoard(driver);
         loginPage loginPages = new loginPage(driver);
@@ -50,7 +50,7 @@ public class TC_11_and_TC_6_Approved_request extends BaseClass {
     }
 
 
-    @Test(priority=3 )
+    @Test(priority=1 )
     //same account is opened to validate the element is not present
     public void TC_06_Validate_that_user_can_request_onlyOnce() throws IOException, InterruptedException {
         DashBoard dashBoard = new DashBoard(driver);

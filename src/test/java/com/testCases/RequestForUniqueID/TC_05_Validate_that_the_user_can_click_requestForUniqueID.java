@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import java.io.IOException;
 
 public class TC_05_Validate_that_the_user_can_click_requestForUniqueID extends BaseClass {
-    @Test
+    @Test(priority = 1)
     public void TC_05_Validate_that_the_user_can_click_requestForUniqueID() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
         loginPage loginPages = new loginPage(driver);

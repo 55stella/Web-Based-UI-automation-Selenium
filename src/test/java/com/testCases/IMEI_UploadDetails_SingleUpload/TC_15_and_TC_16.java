@@ -19,7 +19,7 @@ public class TC_15_and_TC_16 extends BaseClass {
         loginPages.validLoginPartner();
         dashBoard.isDashboardPresent();
     }
-    @Test(priority=2)
+    @Test(priority=1)
     public void TC_16_Validate_that_the_MasterDataUploadButton_clickable() throws IOException {
 
         loginPage loginPages = new loginPage(driver);
@@ -29,7 +29,7 @@ public class TC_15_and_TC_16 extends BaseClass {
         corpDashboard.isMasterDataUploadButtonClickable("TC_16_Validate_that_the_MasterDataUploadButton_clickable");
     }
 
-    @Test(priority = 3)
+    @Test(priority = 1)
     public void TC_16_Validate_that_the_IMeiDetailsUploadButton_clickable() throws IOException {
         loginPage loginPages = new loginPage(driver);
         CorpDashboard corpDashboard = new CorpDashboard(driver);

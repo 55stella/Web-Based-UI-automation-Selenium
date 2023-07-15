@@ -14,7 +14,7 @@ public class TC_20_Validate_that_the_user_can_login_as_a_partner extends BaseCla
     public void TC_20_Validate_that_the_user_can_login_as_a_partner() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
         loginPage loginPages = new loginPage(driver);
-        ExtentTestManager.startTest("TC_02_Validate_that_the_user_can_login_as_a_partner","Validate that User shall be able to enter the correct Username and password  and click on Login button");dashBoard.isDashboardPresent();
+        ExtentTestManager.startTest("TC_02_Validate_that_the_user_can_login_as_a_partner","Validate that User shall be able to enter the correct Username and password  and click on Login button");
         loginPages.validLoginPartner();
         dashBoard.isDashboardPresent();
 

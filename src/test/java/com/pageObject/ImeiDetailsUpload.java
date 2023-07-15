@@ -8,6 +8,8 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import java.io.IOException;
+
 public class ImeiDetailsUpload extends BaseClass {
 
     public ImeiDetailsUpload(WebDriver driver) {
@@ -27,15 +29,26 @@ public class ImeiDetailsUpload extends BaseClass {
     @CacheLookup
     public WebElement saveButton;
 
-    @FindBy
+    @FindBy(xpath="//input[@name='uploadType' and @id='uploadType' and @type='radio' and @onclick='deviceActivationDetailsUpload.showUploadType(2);']")
     @CacheLookup
     public WebElement bulkUploadButton;
 
-    @FindBy
+    @FindBy(xpath="//a[text()='Download Template file ']")
     @CacheLookup
     public WebElement downloadButton;
 
+    @FindBy(id="filePath")
+    @CacheLookup
+    public WebElement fileUploadField;
 
+    @FindBy(id="uploadBtn")
+    @CacheLookup
+    public WebElement uploadButton;
+
+   // public String invalidExcelFilePath= "src/test/java/com/testData/CopyOfIATTestTrackerOfIMEIRequestApprovalIMEIUpload.xlsx";
+
+    public String projectRootPath = System.getProperty("user.dir");
+    public String invalidExcelFilePath = projectRootPath + "/src/test/java/com/testData/CopyOfIATTestTrackerOfIMEIRequestApprovalIMEIUpload.xlsx";
     public void clickSaveButton(){
         basePage.waitForElement(saveButton);
         saveButton.click();
@@ -51,6 +64,26 @@ public class ImeiDetailsUpload extends BaseClass {
     public void enterInvalidMSISDN(){
         basePage.waitForElement(msisdnField);
         msisdnField.sendKeys(basePage.randomNum(11));
+    }
+    public void isBulkUploadClickable(String testCaseName) throws IOException {
+        basePage.isClickable(bulkUploadButton,testCaseName);
+    }
+    public void isDownloadButtonClickable( String testCaseName) throws IOException {
+        basePage.isClickable(downloadButton,testCaseName);
+    }
+    public void clickBulkUploadButton(){
+        basePage.waitForElement(bulkUploadButton);
+        bulkUploadButton.click();
+        bulkUploadButton.click();
+    }
+    public void clickDownloadButton(){
+        basePage.waitForElement(downloadButton);
+        downloadButton.click();
+    }
+
+    public void fileUpload(String filePath){
+        basePage.waitForElement(fileUploadField);
+        fileUploadField.sendKeys(filePath);
     }
 
 

@@ -50,6 +50,45 @@ public class DashBoard extends BaseClass {
     @CacheLookup
     public WebElement registrationRequestForApproval;
 
+    //for test purposes
+    @FindBy(id="parentFeatureTR0")
+    @CacheLookup
+    public WebElement stock;
+
+    @FindBy(xpath = "//span[text()='Reports']")
+    @CacheLookup
+    public WebElement reportsButton;
+
+    public void clickReportsButton(){
+        basePage.waitForElement(reportsButton);
+
+        reportsButton.click();
+        logger.info("Clicked on reports option");
+    }
+
+    @FindBy(xpath = "//span[text()=' Profile Reports']")
+    @CacheLookup
+    public WebElement publicReportsButton;
+
+    public void clickPublicReportsButton(){
+        basePage.waitForElement(publicReportsButton);
+        publicReportsButton.click();
+        logger.info("Clicked on public reports");
+    }
+
+    @FindBy (xpath = "//span[text()='Pjp Dashboard']")
+    @CacheLookup
+    public WebElement pjpDashBoardButton;
+
+    public void clickPjpDashboardButton(){
+        basePage.waitForElement(pjpDashBoardButton);
+        pjpDashBoardButton.click();
+        logger.info("Clicked on pjp dashboard");
+    }
+
+
+
+
 
 
 

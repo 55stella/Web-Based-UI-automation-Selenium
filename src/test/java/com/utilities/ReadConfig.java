@@ -52,6 +52,23 @@ public class ReadConfig
 	String passwordCorp=pro.getProperty("passwordCorp");
 	return passwordCorp;
 	}
+	public String getEntityCodeCorpPjp() // new
+	{
+		String entityCodeCorpPjp=pro.getProperty("entityCodeCorpPjp");
+		return entityCodeCorpPjp;
+	}
+
+	public String getUserNameCorpPjp() // new
+	{
+		String userNameCorpPjp=pro.getProperty("userNameCorpPjp");
+		return userNameCorpPjp;
+	}
+
+	public String getPasswordCorpPjp()
+	{
+		String passwordCorpPjp=pro.getProperty("passwordCorpPjp");
+		return passwordCorpPjp;
+	}
 
 	public String getBrowser()
 	{

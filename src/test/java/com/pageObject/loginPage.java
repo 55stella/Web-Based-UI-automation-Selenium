@@ -57,12 +57,24 @@ public class loginPage extends BaseClass {
     public void enterEntityCodeCorp(){
         basePage.sendText(entityCodeField,entityCodeCorp);
     }
+
     public void enterPasswordCorp(){
         basePage.sendText(passwordField,passwordCorp);
     }
     public void enterUserNameCorp(){
         basePage.sendText(usernameField,usernameCorp);
     }
+    public void enterEntityCodeCorpPjp(){
+        basePage.sendText(entityCodeField,entityCodeCorpPjp);
+    }
+
+    public void enterPasswordCorpPjp(){
+        basePage.sendText(passwordField,passwordCorpPjp);
+    }
+    public void enterUserNameCorpPjp(){
+        basePage.sendText(usernameField,usernameCorpPjp);
+    }
+
     public void enterEntityCodePartner(){
         basePage.waitForElementClick(entityCodeField);
         basePage.sendText(entityCodeField, entityCodePartner);
@@ -131,6 +143,7 @@ public class loginPage extends BaseClass {
         logger.info("Clicked on logIn button");
 
     }
+
     public void validLoginCorp(){
 
         enterEntityCodeCorp();
@@ -141,8 +154,23 @@ public class loginPage extends BaseClass {
         logger.info("Password partner- entered");
         clickLoginButton();
         logger.info("Clicked on logIn button");
-
     }
+    public void validLoginCorpPjp(){
+
+        enterEntityCodeCorpPjp();
+        logger.info("Entity code- entered");
+        enterUserNameCorpPjp();
+        logger.info("Username Partner-entered");
+        enterPasswordCorpPjp();
+        logger.info("Password partner- entered");
+        clickLoginButton();
+        logger.info("Clicked on logIn button");
+    }
+
+
+
+
+
     public void validLoginNewPartner(){
         enterNewEntityCodePartner();
         logger.info("Entity code- entered");

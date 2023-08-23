@@ -2,7 +2,7 @@ package com.testCases.RequestForUniqueID;
 
 import com.base.BaseClass;
 import com.pageObject.DashBoard;
-import com.pageObject.loginPage;
+import com.pageObject.LoginPage;
 import com.utilities.extentReports.ExtentTestManager;
 import org.testng.annotations.Test;
 
@@ -12,7 +12,7 @@ public class TC_04_Validate_that_user_can_click_codeDetails_and_open extends Bas
     @Test(priority = 1)
     public void TC_04_Validate_that_user_can_click_codeDetails() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         ExtentTestManager.startTest("TC_03_Validate_that_customer_can_click_on_selectAttributeDropdown_DistributorProfile_SearchButton","TC_03_Validate_that_customer_can_click_on_distributorProfileOption");
         loginPages.validLoginPartner();
         dashBoard.clickSelectAttribute();
@@ -24,7 +24,7 @@ public class TC_04_Validate_that_user_can_click_codeDetails_and_open extends Bas
     @Test(priority=1)
     public void TC_04_Validate_that_user_can_click_openOption() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         ExtentTestManager.startTest("TC_04_Validate_that_user_can_click_openOption","TC_03_Validate_that_customer_can_click_on_the_optionButton");
         loginPages.validLoginPartner();
         dashBoard.clickSelectAttribute();

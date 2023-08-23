@@ -3934,3 +3934,314 @@
 2023-07-15 12:33:41,193 - Trade automation solution -INFO - Entity code- entered
 2023-07-15 12:33:41,656 - Trade automation solution -INFO - Username Partner-entered
 2023-07-15 12:33:41,806 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 18:27:16,471 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 18:28:33,238 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 18:29:35,248 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 18:34:58,890 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 18:35:34,598 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 18:36:28,779 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 18:36:40,814 - Trade automation solution -INFO - Test Passed!
+2023-08-22 18:36:40,815 - Trade automation solution -INFO - Completed TC_1
+2023-08-22 18:41:42,350 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 18:45:41,027 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 18:45:43,349 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 18:45:43,624 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 18:45:43,804 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 18:45:53,539 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 18:45:53,585 - Trade automation solution -INFO - Test Passed!
+2023-08-22 18:45:53,586 - Trade automation solution -INFO - Completed TC_2
+2023-08-22 18:50:43,978 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 18:51:33,649 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 18:51:35,679 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 18:51:35,939 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 18:51:36,125 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 18:51:47,806 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 18:51:49,928 - Trade automation solution -INFO - Test Passed!
+2023-08-22 18:51:49,929 - Trade automation solution -INFO - Completed TC_3
+2023-08-22 19:07:54,632 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:08:59,292 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:09:02,165 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 19:09:02,510 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 19:09:02,776 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 19:09:03,430 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 19:10:00,789 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:10:03,030 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 19:10:03,378 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 19:10:03,569 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 19:10:15,737 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 19:11:42,707 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:11:45,629 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 19:11:45,926 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 19:11:46,117 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 19:11:58,552 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 19:17:22,999 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:18:10,659 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:18:19,403 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 19:18:19,748 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 19:18:19,976 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 19:18:31,812 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 19:25:19,894 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:25:22,847 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 19:25:23,181 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 19:25:23,417 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 19:25:31,801 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 19:35:30,003 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:35:33,118 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 19:35:33,457 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 19:35:33,764 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 19:35:34,319 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 19:36:53,518 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:36:58,586 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 19:36:58,902 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 19:36:59,149 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 19:37:07,615 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 19:43:16,728 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:43:19,179 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 19:43:19,481 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 19:43:19,703 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 19:43:29,666 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 19:55:35,346 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:56:14,997 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 19:56:18,561 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 19:56:18,954 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 19:56:19,220 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 19:56:44,484 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:02:12,014 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:02:14,597 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:02:14,920 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:02:15,121 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:02:20,398 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:03:44,254 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:03:47,078 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:03:47,416 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:03:47,622 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:03:48,153 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:06:36,307 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:06:38,903 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:06:39,158 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:06:39,375 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:06:39,953 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:18:51,224 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:18:53,799 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:18:54,073 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:18:54,264 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:18:54,878 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:26:58,601 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:27:00,997 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:27:01,329 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:27:01,553 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:27:07,960 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:29:10,530 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:29:13,255 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:29:13,546 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:29:13,791 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:29:14,374 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:31:06,416 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:31:09,135 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:31:09,500 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:31:09,789 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:31:17,338 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:43:52,309 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:43:55,179 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:43:55,552 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:43:55,773 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:44:14,332 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:46:37,848 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:46:46,187 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:46:46,601 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:46:46,889 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:46:47,447 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:48:54,101 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:48:56,732 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:48:57,094 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:48:57,338 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:48:57,895 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:49:13,174 - Trade automation solution -INFO - Test Passed!
+2023-08-22 20:49:13,175 - Trade automation solution -INFO - Completed TC_4
+2023-08-22 20:52:02,314 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:52:05,057 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:52:05,330 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:52:05,553 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:52:10,922 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:52:20,542 - Trade automation solution -INFO - Test Passed!
+2023-08-22 20:52:20,543 - Trade automation solution -INFO - Completed TC_5
+2023-08-22 20:58:26,250 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-22 20:58:29,279 - Trade automation solution -INFO - Entity code- entered
+2023-08-22 20:58:29,675 - Trade automation solution -INFO - Username Partner-entered
+2023-08-22 20:58:29,868 - Trade automation solution -INFO - Password partner- entered
+2023-08-22 20:58:38,661 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-22 20:58:48,840 - Trade automation solution -INFO - Test Passed!
+2023-08-22 20:58:48,841 - Trade automation solution -INFO - Completed TC_6
+2023-08-23 09:58:39,608 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 09:58:42,376 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 09:58:42,654 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 09:58:42,889 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 09:58:53,947 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 09:59:46,478 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 09:59:49,202 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 09:59:49,482 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 09:59:49,711 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 09:59:59,377 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 10:00:00,332 - Trade automation solution -INFO - Test Passed!
+2023-08-23 10:00:00,334 - Trade automation solution -INFO - Completed TC_1
+2023-08-23 10:00:23,747 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 10:00:26,656 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 10:00:26,924 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 10:00:27,127 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 10:00:37,484 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 10:00:38,750 - Trade automation solution -INFO - Test Passed!
+2023-08-23 10:00:38,752 - Trade automation solution -INFO - Completed TC_2
+2023-08-23 10:07:32,694 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 10:07:35,705 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 10:07:36,006 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 10:07:36,205 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 10:07:50,157 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 10:09:15,740 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 10:09:18,672 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 10:09:18,935 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 10:09:19,119 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 10:09:19,823 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 10:09:37,032 - Trade automation solution -INFO - Test Passed!
+2023-08-23 10:09:37,034 - Trade automation solution -INFO - Completed TC_8
+2023-08-23 10:13:57,282 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 10:14:00,123 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 10:14:00,418 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 10:14:00,605 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 10:14:09,482 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 10:14:14,901 - Trade automation solution -INFO - Test Passed!
+2023-08-23 10:14:14,903 - Trade automation solution -INFO - Completed TC_9
+2023-08-23 10:17:04,990 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 10:17:52,646 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 10:17:55,596 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 10:17:56,295 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 10:17:56,651 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 10:18:11,227 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 10:19:14,244 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 10:19:17,611 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 10:19:17,898 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 10:19:18,121 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 10:19:33,335 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 10:23:32,492 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 10:23:36,416 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 10:23:36,854 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 10:23:37,160 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 10:23:40,622 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 10:23:45,692 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 10:23:46,458 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 10:23:46,760 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 10:23:52,248 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 10:23:59,696 - Trade automation solution -INFO - Test Passed!
+2023-08-23 10:23:59,698 - Trade automation solution -INFO - Completed TC_10
+2023-08-23 10:24:13,102 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:01:00,806 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:01:03,153 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:01:03,385 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:01:03,577 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:01:09,714 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:02:20,527 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:02:22,845 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:02:23,081 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:02:23,256 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:02:30,112 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:03:24,921 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:03:27,193 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:03:27,432 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:03:27,610 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:03:33,922 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:09:06,434 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:09:08,688 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:09:08,965 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:09:09,146 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:09:15,840 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:12:12,357 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:12:14,913 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:12:15,225 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:12:15,392 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:12:24,939 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:14:31,466 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:14:33,928 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:14:34,188 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:14:34,363 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:14:42,749 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:18:15,231 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:18:17,568 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:18:17,824 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:18:18,009 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:18:25,820 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:18:33,365 - Trade automation solution -INFO - Test Passed!
+2023-08-23 11:18:33,366 - Trade automation solution -INFO - Completed TC_4
+2023-08-23 11:19:11,362 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:19:13,918 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:19:14,162 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:19:14,339 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:19:23,048 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:19:30,576 - Trade automation solution -INFO - Test Passed!
+2023-08-23 11:19:30,577 - Trade automation solution -INFO - Completed TC_4
+2023-08-23 11:21:49,576 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:21:52,011 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:21:52,263 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:21:52,444 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:21:59,448 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:27:27,643 - Trade automation solution -INFO - Test Passed!
+2023-08-23 11:27:27,644 - Trade automation solution -INFO - Completed TC_4
+2023-08-23 11:30:15,291 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:30:17,995 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:30:18,306 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:30:18,530 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:30:19,020 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:31:32,968 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:31:35,824 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:31:36,193 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:31:36,433 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:31:36,976 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:32:34,214 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:32:37,591 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:32:37,918 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:32:38,196 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:32:38,832 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:32:58,931 - Trade automation solution -INFO - Test Passed!
+2023-08-23 11:32:58,932 - Trade automation solution -INFO - Completed TC_4
+2023-08-23 11:38:19,175 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:38:22,130 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:38:22,426 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:38:22,651 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:38:31,539 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:38:42,442 - Trade automation solution -INFO - Test Passed!
+2023-08-23 11:38:42,443 - Trade automation solution -INFO - Completed TC_4
+2023-08-23 11:42:25,575 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:42:29,300 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:42:29,746 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:42:30,003 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:42:30,622 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:43:37,337 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:43:41,155 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:43:41,693 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:43:41,977 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:43:50,044 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:44:01,361 - Trade automation solution -INFO - Test Passed!
+2023-08-23 11:44:01,361 - Trade automation solution -INFO - Completed TC_4
+2023-08-23 11:45:06,933 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:45:10,188 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:45:10,665 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:45:10,894 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:45:21,722 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 11:50:05,459 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 11:50:08,538 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 11:50:09,031 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 11:50:09,316 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 11:50:23,591 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 12:01:37,399 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 12:01:40,704 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 12:01:41,019 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 12:01:41,232 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 12:01:41,781 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 12:14:33,047 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 12:14:36,096 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 12:14:36,459 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 12:14:36,829 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 12:14:47,170 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-23 12:26:42,411 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-23 12:26:45,587 - Trade automation solution -INFO - Entity code- entered
+2023-08-23 12:26:45,996 - Trade automation solution -INFO - Username Partner-entered
+2023-08-23 12:26:46,222 - Trade automation solution -INFO - Password partner- entered
+2023-08-23 12:26:46,838 - Trade automation solution -INFO - Clicked on logIn button

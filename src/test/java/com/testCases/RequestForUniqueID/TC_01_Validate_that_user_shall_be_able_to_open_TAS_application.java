@@ -2,7 +2,7 @@ package com.testCases.RequestForUniqueID;
 
 import com.base.BaseClass;
 
-import com.pageObject.loginPage;
+import com.pageObject.LoginPage;
 import com.utilities.extentReports.ExtentTestManager;
 import org.testng.annotations.Test;
 
@@ -12,7 +12,7 @@ public class TC_01_Validate_that_user_shall_be_able_to_open_TAS_application exte
 
     @Test(priority = 1)
     public void TC_01_Validate_that_user_shall_be_able_to_open_TAS_application() throws IOException {
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         ExtentTestManager.startTest("TC_01_Validate_that_user_shall_be_able_to_open_TAS_application","Validate that user shall be able to open the TAS application with the correct URL");
         loginPages.tasIsPresent();
 

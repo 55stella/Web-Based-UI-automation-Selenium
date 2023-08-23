@@ -2,7 +2,7 @@ package com.testCases.IMEI_UploadDetails_SingleUpload;
 
 import com.base.BaseClass;
 import com.base.BasePage;
-import com.pageObject.loginPage;
+import com.pageObject.LoginPage;
 import com.utilities.extentReports.ExtentTestManager;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -13,7 +13,7 @@ public class Tc_13 extends BaseClass {
     @Test(priority = 1)
     public void Tc13() throws IOException {
         BasePage basepg=new BasePage(driver);
-        loginPage loginpg=new loginPage(driver);
+        LoginPage loginpg=new LoginPage(driver);
         //starting extent reporting in this test case
         ExtentTestManager.startTest("Validate that user shall be able to open the TAS application with the correct URL","user should be able to open application and be navigated to the appropropriate web page");
         //validating the test

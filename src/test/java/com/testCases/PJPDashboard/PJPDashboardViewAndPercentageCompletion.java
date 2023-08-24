@@ -221,6 +221,51 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
         softAssert.assertAll();
         logger.info("Test completed");
     }
+    @Test(priority = 9)
+    public void Tc_10_ValidateManagerShallBeAbleToViewTerritoryToCluster() throws IOException {
+        ExtentTestManager.startTest("Tc_10_ValidateManagerShallBeAbleToViewTerritoryToCluster", "Validate that the user can view clusters after clicking on territory");
+        loginPage loginPages = new loginPage(driver);
+        DashBoard dashBoard = new DashBoard(driver);
+        BasePage basePage = new BasePage(driver);
+        PJPDashboard pjpDashboard = new PJPDashboard(driver);
+        loginPages.validLoginCorpManager();
+        dashBoard.clickReportsButton();
+        dashBoard.clickPublicReportsButton();
+        dashBoard.clickPjpDashboardButton();
+        if (basePage.isAlertPresent(driver)){
+            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+            Alert alert = wait.until(ExpectedConditions.alertIsPresent());
+            alert.accept();
+            logger.info("Accepted the alert");
+           pjpDashboard.clickAlagbadoTerritoryButton();
+           pjpDashboard.isAlagbadoTerriotoryContainerPresent("Tc_10_ValidateManagerShallBeAbleToViewTerritoryToCluster");
+
+        }
+        else{
+            logger.info("There are no alerts");
+            pjpDashboard.clickAlagbadoTerritoryButton();
+            pjpDashboard.isAlagbadoTerriotoryContainerPresent("Tc_10_ValidateManagerShallBeAbleToViewTerritoryToCluster");
+
+        }
+
+
+
+    }
+    @Test(priority = 10)
+    public void Tc_11_ValidateTestLeadCanViewCluster() throws IOException {
+        ExtentTestManager.startTest("Tc_10_ValidateManagerShallBeAbleToViewTerritoryToCluster", "Validate that the user can view clusters after clicking on territory");
+        loginPage loginPages = new loginPage(driver);
+        DashBoard dashBoard = new DashBoard(driver);
+        BasePage basePage = new BasePage(driver);
+        PJPDashboard pjpDashboard = new PJPDashboard(driver);
+        loginPages.validLoginCorpTestLead();
+        dashBoard.clickReportsButton();
+        dashBoard.clickPublicReportsButton();
+        dashBoard.clickPjpDashboardButton();
+        pjpDashboard.isClusterContainerTestLeadPresent("Tc_11_ValidateTestLeadCanViewCluster");
+
+    }
+
 
 
 

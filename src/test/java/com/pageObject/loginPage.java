@@ -64,6 +64,26 @@ public class loginPage extends BaseClass {
     public void enterUserNameCorp(){
         basePage.sendText(usernameField,usernameCorp);
     }
+//    public void enterEntityCodeCorpManager(){
+//        basePage.sendText(entityCodeField,en);
+//    }
+//    public void enterPasswordCorpManager(){
+//
+//    }
+    public void enterUserNameCorpManager(){
+        basePage.sendText(usernameField,userNameCorpManager);
+    }
+    public void enterUserNameCorpTestLead(){
+        basePage.sendText(usernameField, userNameCorpTestLead);
+
+    }
+//    public void enterPasswordCorpTestLead(){
+//
+//    }
+//    public void enterUserNameCorpTestLead(){
+//
+//    }
+
     public void enterEntityCodeCorpPjp(){
         basePage.sendText(entityCodeField,entityCodeCorpPjp);
     }
@@ -155,6 +175,26 @@ public class loginPage extends BaseClass {
         clickLoginButton();
         logger.info("Clicked on logIn button");
     }
+    public void validLoginCorpManager(){
+        enterEntityCodeCorp();
+        logger.info("Entity code- entered");
+        enterUserNameCorpManager();
+        logger.info("Username Partner-entered");
+        enterPasswordCorp();
+        logger.info("Password partner- entered");
+        clickLoginButton();
+        logger.info("Clicked on logIn button");
+    }
+    public void validLoginCorpTestLead(){
+        enterEntityCodeCorp();
+        logger.info("Entity code- entered");
+        enterUserNameCorpTestLead();
+        logger.info("Username Partner-entered");
+        enterPasswordCorp();
+        logger.info("Password partner- entered");
+        clickLoginButton();
+        logger.info("Clicked on logIn button");
+    }
     public void validLoginCorpPjp(){
 
         enterEntityCodeCorpPjp();
@@ -166,11 +206,6 @@ public class loginPage extends BaseClass {
         clickLoginButton();
         logger.info("Clicked on logIn button");
     }
-
-
-
-
-
     public void validLoginNewPartner(){
         enterNewEntityCodePartner();
         logger.info("Entity code- entered");

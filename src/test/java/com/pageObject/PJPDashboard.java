@@ -174,16 +174,68 @@ public class PJPDashboard extends BaseClass {
         logger.info("Test completed");
     }
 
+    @FindBy(id="toggleIcon15876")
+    @CacheLookup
+    public WebElement alagbadoTerritoryButton;
 
+    public void clickAlagbadoTerritoryButton(){
+        basePage.waitForElement(alagbadoTerritoryButton);
+        alagbadoTerritoryButton.click();
+    }
+    @FindBy(id="TERR15876")
+    @CacheLookup
+    public WebElement alagbadoTerritoryContainer;
 
+    public void isAlagbadoTerriotoryContainerPresent(String testCaseName) throws IOException {
+        if(basePage.isElementPresent(driver, alagbadoTerritoryContainer)){
+            softAssert.assertTrue(true);
+            logger.info("Test Passed");
+            ExtentTestManager.getTest().pass("Test passed");
+        }
+        else {
+            softAssert.assertTrue(false);
+            logger.info("Test Failed");
+            captureScreen(driver, testCaseName);
+            ExtentTestManager.getTest().fail("Test Failed");
+        }
+        softAssert.assertAll();
+        logger.info("Test completed");
+    }
 
+    @FindBy(id="showGeography")
+    @CacheLookup
+    public WebElement clusterContainerTestLead;
 
-
-
-
-
-
-
+    public void isClusterContainerTestLeadPresent(String testCaseName) throws IOException {
+        if(basePage.isElementPresent(driver, clusterContainerTestLead)){
+            softAssert.assertTrue(true);
+            logger.info("Test Passed");
+            ExtentTestManager.getTest().pass("Test passed");
+        }
+        else {
+            softAssert.assertTrue(false);
+            logger.info("Test Failed");
+            captureScreen(driver, testCaseName);
+            ExtentTestManager.getTest().fail("Test Failed");
+        }
+        softAssert.assertAll();
+        logger.info("Test completed");
+    }
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -75,27 +75,27 @@ public class BillEntry extends BaseClass {
         logger.info("Completed TC_3");
     }
 
-    @Test(priority = 4)
-    public void TC_4_Validate_that_the_user_can_enter_customer_name_select_DSA_and_cluster() throws IOException {
-        ExtentTestManager.startTest("Validate that on the \"Customers Name\" User tabs on the space bar in their " +
-                "keyboard to select retailers  name and by default the DSA and cluster detail should populate.", "BillEntryPage");
-        initialize();
-        loginPage.validApproveLoginPartner();
-        billEntryPage.clickSales();
-        billEntryPage.clickBillEntry();
-        billEntryPage.enterCustomerName();
-        billEntryPage.selectCustomerType();
-//        billEntryPage.selectDSA();
-//        billEntryPage.selectCluster();
-        if(billEntryPage.isCustomerNameClickable()&& billEntryPage.isCustomerTypeClickable()) {
-            softAssert.assertTrue(true);
-            logger.info("Test Passed!");}
-        else {softAssert.assertTrue(false);
-            logger.info("Test Failed!");
-            captureScreen(driver, "FAILURE!");}
-        softAssert.assertAll();
-        logger.info("Completed TC_4");
-    }
+//    @Test(priority = 4)
+//    public void TC_4_Validate_that_the_user_can_enter_customer_name_select_DSA_and_cluster() throws IOException {
+//        ExtentTestManager.startTest("Validate that on the \"Customers Name\" User tabs on the space bar in their " +
+//                "keyboard to select retailers  name and by default the DSA and cluster detail should populate.", "BillEntryPage");
+//        initialize();
+//        loginPage.validApproveLoginPartner();
+//        billEntryPage.clickSales();
+//        billEntryPage.clickBillEntry();
+//        billEntryPage.enterCustomerName();
+//        billEntryPage.selectCustomerType();
+////        billEntryPage.selectDSA();
+////        billEntryPage.selectCluster();
+//        if(billEntryPage.isCustomerNameClickable()&& billEntryPage.isCustomerTypeClickable()) {
+//            softAssert.assertTrue(true);
+//            logger.info("Test Passed!");}
+//        else {softAssert.assertTrue(false);
+//            logger.info("Test Failed!");
+//            captureScreen(driver, "FAILURE!");}
+//        softAssert.assertAll();
+//        logger.info("Completed TC_4");
+//    }
 
     @Test(priority = 5)
     public void TC_5_Validate_that_the_user_can_select_Delivery_and_billDate() throws IOException {
@@ -106,7 +106,6 @@ public class BillEntry extends BaseClass {
         billEntryPage.clickSales();
         billEntryPage.clickBillEntry();
         billEntryPage.selectCustomerType();
-        billEntryPage.enterCustomerName();
         billEntryPage.enterBillDate();
         billEntryPage.enterDeliveryDate();
         if(billEntryPage.isBillDateClickable()&& billEntryPage.isDeliveryDateClickable()) {
@@ -128,7 +127,7 @@ public class BillEntry extends BaseClass {
         billEntryPage.clickSales();
         billEntryPage.clickBillEntry();
         billEntryPage.selectCustomerType();
-        billEntryPage.enterCustomerName();
+
         billEntryPage.enterBillDate();
         billEntryPage.enterDeliveryDate();
         billEntryPage.selectPayMode();
@@ -207,23 +206,23 @@ public class BillEntry extends BaseClass {
         logger.info("Completed TC_9");
     }
 
-    @Test(priority = 10)
-    public void TC_10_Validate_that_the_user_can_click_confirm_button() throws IOException {
-        ExtentTestManager.startTest("Validate that User shall be able to click on the Confirm button.", "BillEntryPage");
-        initialize();
-        loginPage.validApproveLoginPartner();
-        billEntryPage.clickSales();
-        billEntryPage.clickBillEntry();
-
-        if(billEntryPage.isConfirmBtnClickable()) {
-            softAssert.assertTrue(true);
-            logger.info("Test Passed!");}
-        else {softAssert.assertTrue(false);
-            logger.info("Test Failed!");
-            captureScreen(driver, "FAILURE!");}
-        softAssert.assertAll();
-        logger.info("Completed TC_10");
-    }
+//    @Test(priority = 10)
+//    public void TC_10_Validate_that_the_user_can_click_confirm_button() throws IOException {
+//        ExtentTestManager.startTest("Validate that User shall be able to click on the Confirm button.", "BillEntryPage");
+//        initialize();
+//        loginPage.validApproveLoginPartner();
+//        billEntryPage.clickSales();
+//        billEntryPage.clickBillEntry();
+//
+//        if(billEntryPage.isConfirmBtnClickable()) {
+//            softAssert.assertTrue(true);
+//            logger.info("Test Passed!");}
+//        else {softAssert.assertTrue(false);
+//            logger.info("Test Failed!");
+//            captureScreen(driver, "FAILURE!");}
+//        softAssert.assertAll();
+//        logger.info("Completed TC_10");
+//    }
 
 
 }

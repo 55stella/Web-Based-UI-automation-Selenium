@@ -4245,3 +4245,49 @@
 2023-08-23 12:26:45,996 - Trade automation solution -INFO - Username Partner-entered
 2023-08-23 12:26:46,222 - Trade automation solution -INFO - Password partner- entered
 2023-08-23 12:26:46,838 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-24 10:11:38,179 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-24 10:11:40,751 - Trade automation solution -INFO - Entity code- entered
+2023-08-24 10:11:41,016 - Trade automation solution -INFO - Username Partner-entered
+2023-08-24 10:11:41,252 - Trade automation solution -INFO - Password partner- entered
+2023-08-24 10:11:49,925 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-24 10:11:50,946 - Trade automation solution -INFO - Test Passed!
+2023-08-24 10:11:50,947 - Trade automation solution -INFO - Completed TC_13
+2023-08-24 10:12:14,676 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-24 10:12:17,579 - Trade automation solution -INFO - Entity code- entered
+2023-08-24 10:12:17,878 - Trade automation solution -INFO - Username Partner-entered
+2023-08-24 10:12:18,081 - Trade automation solution -INFO - Password partner- entered
+2023-08-24 10:12:27,903 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-24 10:12:29,198 - Trade automation solution -INFO - Test Passed!
+2023-08-24 10:12:29,199 - Trade automation solution -INFO - Completed TC_14
+2023-08-24 10:13:06,685 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-24 10:13:09,278 - Trade automation solution -INFO - Test Passed!
+2023-08-24 10:13:09,279 - Trade automation solution -INFO - Completed TC_1
+2023-08-24 10:13:32,306 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-24 10:13:35,168 - Trade automation solution -INFO - Entity code- entered
+2023-08-24 10:13:35,437 - Trade automation solution -INFO - Username Partner-entered
+2023-08-24 10:13:35,727 - Trade automation solution -INFO - Password partner- entered
+2023-08-24 10:13:42,399 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-24 10:13:42,483 - Trade automation solution -INFO - Test Passed!
+2023-08-24 10:13:42,484 - Trade automation solution -INFO - Completed TC_2
+2023-08-24 10:14:02,690 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-24 10:14:06,322 - Trade automation solution -INFO - Entity code- entered
+2023-08-24 10:14:06,629 - Trade automation solution -INFO - Username Partner-entered
+2023-08-24 10:14:06,843 - Trade automation solution -INFO - Password partner- entered
+2023-08-24 10:14:12,471 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-24 10:14:18,020 - Trade automation solution -INFO - Test Passed!
+2023-08-24 10:14:18,021 - Trade automation solution -INFO - Completed TC_3
+2023-08-24 10:15:09,907 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-24 10:15:13,494 - Trade automation solution -INFO - Entity code- entered
+2023-08-24 10:15:13,880 - Trade automation solution -INFO - Username Partner-entered
+2023-08-24 10:15:14,179 - Trade automation solution -INFO - Password partner- entered
+2023-08-24 10:15:14,783 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-24 10:20:55,174 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-24 10:20:58,141 - Trade automation solution -INFO - Entity code- entered
+2023-08-24 10:20:58,426 - Trade automation solution -INFO - Username Partner-entered
+2023-08-24 10:20:58,654 - Trade automation solution -INFO - Password partner- entered
+2023-08-24 10:20:59,224 - Trade automation solution -INFO - Clicked on logIn button
+2023-08-24 10:29:26,670 - Trade automation solution -DEBUG - Debug logging has started 
+2023-08-24 10:29:29,530 - Trade automation solution -INFO - Entity code- entered
+2023-08-24 10:29:29,927 - Trade automation solution -INFO - Username Partner-entered
+2023-08-24 10:29:30,189 - Trade automation solution -INFO - Password partner- entered
+2023-08-24 10:29:30,717 - Trade automation solution -INFO - Clicked on logIn button

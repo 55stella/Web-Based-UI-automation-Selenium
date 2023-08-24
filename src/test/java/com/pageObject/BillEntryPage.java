@@ -66,6 +66,8 @@ public class BillEntryPage extends BasePage {
     @FindBy(className = "ui-menu-item-wrapper")
     WebElement customer_nameOption;
     public void enterCustomerName() {
+        WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.refreshed(ExpectedConditions.visibilityOf(customer_name)));
         customer_name.click();
         customer_name.sendKeys(Keys.SPACE);
         sleep(10);

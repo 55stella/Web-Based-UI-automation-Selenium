@@ -8,14 +8,12 @@ import com.pageObject.loginPage;
 import com.utilities.extentReports.ExtentTestManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.openqa.selenium.Alert;
-import org.openqa.selenium.support.ui.ExpectedConditions;
+
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
-import java.time.Duration;
+
 import java.util.List;
 
 public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
@@ -42,10 +40,14 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
         PJPDashboard pjpDashboard = new PJPDashboard(driver);
 
         loginPages.validLoginCorpPjp();
+        handleAlert();
 
         dashBoard.clickReportsButton();
+        handleAlert();
         dashBoard.clickPublicReportsButton();
+        handleAlert();
         dashBoard.clickPjpDashboardButton();
+        handleAlert();
         pjpDashboard.isPjpDashboardPresent("TC_03_ValidateThatUserCanClickPJPDashboard");
     }
     @Test(priority = 4)
@@ -57,24 +59,20 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
         BasePage basePage = new BasePage(driver);
 
         loginPages.validLoginCorpPjp();
+        handleAlert();
 
         dashBoard.clickReportsButton();
+        handleAlert();
         dashBoard.clickPublicReportsButton();
+        handleAlert();
         dashBoard.clickPjpDashboardButton();
-        if (basePage.isAlertPresent(driver)){
-            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-            Alert alert = wait.until(ExpectedConditions.alertIsPresent());
-            alert.accept();
-            logger.info("Accepted the alert");
+
+        handleAlert();
             pjpDashboard.clickMajorRegionEastButton();
-            pjpDashboard.isRegionContainerPresent("Tc_04_ValidateThatUserCanViewRegionAfterClickMajorRegion");
-        }
-        else{
-            logger.info("There are no alerts");
-            pjpDashboard.clickMajorRegionEastButton();
+        handleAlert();
             pjpDashboard.isRegionContainerPresent("Tc_04_ValidateThatUserCanViewRegionAfterClickMajorRegion");
 
-        }
+
 
     }
     @Test(priority = 5)
@@ -86,25 +84,20 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
         PJPDashboard pjpDashboard = new PJPDashboard(driver);
 
         loginPages.validLoginCorpPjp();
+        handleAlert();
 
         dashBoard.clickReportsButton();
+        handleAlert();
         dashBoard.clickPublicReportsButton();
+        handleAlert();
         dashBoard.clickPjpDashboardButton();
-        if (basePage.isAlertPresent(driver)){
-            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-            Alert alert = wait.until(ExpectedConditions.alertIsPresent());
-            alert.accept();
-            logger.info("Accepted the alert");
+        handleAlert();
             pjpDashboard.clickMajorRegionEastButton();
+        handleAlert();
             pjpDashboard.clickSouthRegionButton();
+        handleAlert();
             pjpDashboard.isSouthSubRegionContainerPresent("Tc_05_ValidateThatUserCanViewSubRegionAfterClickRegion");
-        }
-        else{
-            logger.info("There are no alerts");
-            pjpDashboard.clickMajorRegionEastButton();
-            pjpDashboard.clickSouthRegionButton();
-            pjpDashboard.isSouthSubRegionContainerPresent("Tc_05_ValidateThatUserCanViewSubRegionAfterClickRegion");
-        }
+
 
 
 
@@ -119,64 +112,47 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
         PJPDashboard pjpDashboard = new PJPDashboard(driver);
 
         loginPages.validLoginCorpPjp();
+        handleAlert();
 
         dashBoard.clickReportsButton();
+        handleAlert();
         dashBoard.clickPublicReportsButton();
+        handleAlert();
         dashBoard.clickPjpDashboardButton();
-        if (basePage.isAlertPresent(driver)){
-            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-            Alert alert = wait.until(ExpectedConditions.alertIsPresent());
-            alert.accept();
-            logger.info("Accepted the alert");
+        handleAlert();
             pjpDashboard.clickMajorRegionEastButton();
+            handleAlert();
             pjpDashboard.clickSouthRegionButton();
+            handleAlert();
             pjpDashboard.clickImoSubRegionButton();
+            handleAlert();
             pjpDashboard.isImoTerritoryContainerPresent("Tc_06_ValidateThatUserCanViewTerritoriesAfterClickSubregion");
         }
-        else{
-            logger.info("There are no alerts");
-            pjpDashboard.clickMajorRegionEastButton();
-            pjpDashboard.clickSouthRegionButton();
-            pjpDashboard.clickImoSubRegionButton();
-            pjpDashboard.isImoTerritoryContainerPresent("Tc_06_ValidateThatUserCanViewTerritoriesAfterClickSubregion");
-        }
-
-    }
     @Test(priority = 7)
-    public void Tc_07_ValidateThatUserCanViewClustersAfterClickTerritories() throws IOException{
+    public void Tc_07_ValidateThatUserCanViewClustersAfterClickTerritories() throws IOException {
         ExtentTestManager.startTest("Tc_07_ValidateThatUserCanViewClustersAfterClickTerritories", "Validate that the user can view clusters after clicking on territory");
         loginPage loginPages = new loginPage(driver);
         DashBoard dashBoard = new DashBoard(driver);
         BasePage basePage = new BasePage(driver);
         PJPDashboard pjpDashboard = new PJPDashboard(driver);
-
+        handleAlert();
         loginPages.validLoginCorpPjp();
-
+        handleAlert();
         dashBoard.clickReportsButton();
+        handleAlert();
         dashBoard.clickPublicReportsButton();
+        handleAlert();
         dashBoard.clickPjpDashboardButton();
-        if (basePage.isAlertPresent(driver)){
-            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-            Alert alert = wait.until(ExpectedConditions.alertIsPresent());
-            alert.accept();
-            logger.info("Accepted the alert");
-            pjpDashboard.clickMajorRegionEastButton();
-            pjpDashboard.clickSouthRegionButton();
-            pjpDashboard.clickImoSubRegionButton();
-            pjpDashboard.clickMbaitoliTerritoryButton();
-            pjpDashboard.isMbaitoliClusterContainerPresent("Tc_07_ValidateThatUserCanViewClustersAfterClickInventory");
-        }
-        else{
-            logger.info("There are no alerts");
-            pjpDashboard.clickMajorRegionEastButton();
-            pjpDashboard.clickSouthRegionButton();
-            pjpDashboard.clickImoSubRegionButton();
-
-            pjpDashboard.clickMbaitoliTerritoryButton();
-            pjpDashboard.isMbaitoliClusterContainerPresent("Tc_07_ValidateThatUserCanViewClustersAfterClickTerritories");
-        }
-
-
+        handleAlert();
+        pjpDashboard.clickMajorRegionEastButton();
+        handleAlert();
+        pjpDashboard.clickSouthRegionButton();
+        handleAlert();
+        pjpDashboard.clickImoSubRegionButton();
+        handleAlert();
+        pjpDashboard.clickMbaitoliTerritoryButton();
+        handleAlert();
+        pjpDashboard.isMbaitoliClusterContainerPresent("Tc_07_ValidateThatUserCanViewClustersAfterClickTerritories");
     }
     @Test(priority = 8)
     public void Tc_09_ValidateThatUserIsAbleToObserveThePercentageCoverage() throws IOException {
@@ -188,14 +164,22 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
         SoftAssert softAssert = new SoftAssert();
 
         loginPages.validLoginCorpPjp();
+        handleAlert();
 
         dashBoard.clickReportsButton();
+        handleAlert();
         dashBoard.clickPublicReportsButton();
+        handleAlert();
         dashBoard.clickPjpDashboardButton();
+        handleAlert();
         pjpDashboard.clickMajorRegionEastButton();
+        handleAlert();
         pjpDashboard.clickSouthRegionButton();
+        handleAlert();
         pjpDashboard.clickImoSubRegionButton();
+        handleAlert();
         pjpDashboard.clickMbaitoliTerritoryButton();
+        handleAlert();
         List<WebElement> elements = driver.findElements(By.xpath("//div[@id='cardColors']"));
         int count =0;
         for(WebElement element : elements){
@@ -229,24 +213,18 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
         BasePage basePage = new BasePage(driver);
         PJPDashboard pjpDashboard = new PJPDashboard(driver);
         loginPages.validLoginCorpManager();
+        handleAlert();
         dashBoard.clickReportsButton();
+        handleAlert();
         dashBoard.clickPublicReportsButton();
+        handleAlert();
         dashBoard.clickPjpDashboardButton();
-        if (basePage.isAlertPresent(driver)){
-            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-            Alert alert = wait.until(ExpectedConditions.alertIsPresent());
-            alert.accept();
-            logger.info("Accepted the alert");
-           pjpDashboard.clickAlagbadoTerritoryButton();
-           pjpDashboard.isAlagbadoTerriotoryContainerPresent("Tc_10_ValidateManagerShallBeAbleToViewTerritoryToCluster");
+        handleAlert();
+        pjpDashboard.clickAlagbadoTerritoryButton();
+        handleAlert();
+        pjpDashboard.isAlagbadoTerriotoryContainerPresent("Tc_10_ValidateManagerShallBeAbleToViewTerritoryToCluster");
 
-        }
-        else{
-            logger.info("There are no alerts");
-            pjpDashboard.clickAlagbadoTerritoryButton();
-            pjpDashboard.isAlagbadoTerriotoryContainerPresent("Tc_10_ValidateManagerShallBeAbleToViewTerritoryToCluster");
 
-        }
 
 
 
@@ -259,9 +237,13 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
         BasePage basePage = new BasePage(driver);
         PJPDashboard pjpDashboard = new PJPDashboard(driver);
         loginPages.validLoginCorpTestLead();
+        handleAlert();
         dashBoard.clickReportsButton();
+        handleAlert();
         dashBoard.clickPublicReportsButton();
+        handleAlert();
         dashBoard.clickPjpDashboardButton();
+        handleAlert();
         pjpDashboard.isClusterContainerTestLeadPresent("Tc_11_ValidateTestLeadCanViewCluster");
 
     }

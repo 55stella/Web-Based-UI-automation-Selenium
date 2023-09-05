@@ -94,7 +94,10 @@ public class PJPDashboard extends BaseClass {
     public WebElement imoSubRegionButton;
 
     public void clickImoSubRegionButton(){
+
         basePage.waitForElement(imoSubRegionButton);
+        basePage.scrollToElement(imoSubRegionButton);
+
         imoSubRegionButton.click();
     }
 

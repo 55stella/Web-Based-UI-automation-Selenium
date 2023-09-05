@@ -9,7 +9,7 @@ public class ExtentManager {
 
 
 	public synchronized static ExtentReports createExtentReports() {
-		ExtentSparkReporter reporter = new ExtentSparkReporter("./extent-reports/project-report.html");
+		ExtentSparkReporter reporter = new ExtentSparkReporter("./extent-reports/TAS-PaymentCollectionFromRetailer-05-09-2023.html");
 		reporter.config().setReportName("TAAS:TRADE AUTOMATION SOLUTION REGRESSION REPORT");
 		extentReports.attachReporter(reporter);
 		extentReports.setSystemInfo("Test Name", "Trade Automation Solution");

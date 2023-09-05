@@ -2,7 +2,7 @@ package com.testCases.RequestForUniqueID;
 
 import com.base.BaseClass;
 import com.pageObject.DashBoard;
-import com.pageObject.loginPage;
+import com.pageObject.LoginPage;
 import com.utilities.extentReports.ExtentTestManager;
 import org.testng.annotations.Test;
 
@@ -12,7 +12,7 @@ public class TC_03_Validate_that_user_can_click_on_selectAttributeDropdown_Distr
     @Test(priority = 1)
     public void TC_03_Validate_that_user_can_click_on_selectAttributeDropdown() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         ExtentTestManager.startTest("TC_03_Validate_that_user_can_click_on_selectAttributeDropdown_DistributorProfile_SearchButton","TC_03_Validate_that_user_can_click_on_selectAttributeDropdown");
         loginPages.validLoginPartner();
         dashBoard.isSelectAttributeDropdownClickable("TC_03_Validate_that_user_can_click_on_selectAttributeDropdown_DistributorProfile_SearchButton");
@@ -22,7 +22,7 @@ public class TC_03_Validate_that_user_can_click_on_selectAttributeDropdown_Distr
     @Test(priority = 1)
      public void TC_03_Validate_that_user_can_click_on_distributorProfileOption() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         ExtentTestManager.startTest("TC_03_Validate_that_user_can_click_on_selectAttributeDropdown_DistributorProfile_SearchButton","TC_03_Validate_that_user_can_click_on_distributorProfileOption");
         loginPages.validLoginPartner();
         dashBoard.clickSelectAttribute();
@@ -31,7 +31,7 @@ public class TC_03_Validate_that_user_can_click_on_selectAttributeDropdown_Distr
     @Test(priority = 1)
     public void TC_03_Validate_that_user_can_click_on_searchButton() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         ExtentTestManager.startTest("TC_03_Validate_that_user_can_click_on_selectAttributeDropdown_DistributorProfile_SearchButton","TC_03_Validate_that_user_can_click_on_distributorProfileOption");
         loginPages.validLoginPartner();
         dashBoard.clickSelectAttribute();

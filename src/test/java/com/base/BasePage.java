@@ -1,21 +1,16 @@
 package com.base;
 
-import com.pageObject.loginPage;
 import com.utilities.extentReports.ExtentTestManager;
-import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.asserts.SoftAssert;
 
-import java.io.File;
 import java.io.IOException;
 import java.time.Duration;
-
-
-import static com.base.BaseClass.driver;
 
 public class BasePage extends BaseClass {
 	JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
@@ -182,6 +177,26 @@ public class BasePage extends BaseClass {
 
 	}
 
+
+	public void select(WebElement element, String text) {
+		Select select = new Select(element);
+		waitForOptionsToBeVisible(element);
+		select.selectByVisibleText(text);
+	}
+
+	public void waitForOptionsToBeVisible(WebElement element) {
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5)); // Adjust the timeout as needed
+		wait.until(ExpectedConditions.visibilityOfAllElements(element.findElements(By.tagName("option"))));
+	}
+
+	public void scrollIntoViewWithJavascript(WebElement element) {
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
+		wait.until(ExpectedConditions.visibilityOf(element));
+		JavascriptExecutor executor = (JavascriptExecutor) driver;
+		executor.executeScript("arguments[0].scrollIntoView();", element);
+	}
+
+
 	public void scrollToElement(WebElement element){
 		jsExecutor.executeScript("arguments[0].scrollIntoView(true);", element);
 	}
@@ -194,6 +209,7 @@ public class BasePage extends BaseClass {
 		} catch (NoAlertPresentException e) {
 			return false;
 		}
+
 
 
 	}

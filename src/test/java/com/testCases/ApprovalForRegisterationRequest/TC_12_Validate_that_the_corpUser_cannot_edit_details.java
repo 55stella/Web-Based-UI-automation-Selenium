@@ -5,7 +5,7 @@ import com.base.BasePage;
 import com.pageObject.CorpDashboard;
 import com.pageObject.DashBoard;
 import com.pageObject.RegistrationRequestPage;
-import com.pageObject.loginPage;
+import com.pageObject.LoginPage;
 import com.utilities.extentReports.ExtentTestManager;
 import org.testng.annotations.Test;
 
@@ -16,7 +16,7 @@ public class TC_12_Validate_that_the_corpUser_cannot_edit_details extends BaseCl
     public void TC_12_Validate_that_the_corpUser_cannot_edit_agentName () throws IOException {
         BasePage basePage = new BasePage(driver);
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         CorpDashboard corpDashboard= new CorpDashboard(driver);
         RegistrationRequestPage registrationRequestPage = new RegistrationRequestPage(driver);
         ExtentTestManager.startTest("TC_12_Validate_that_the_corpUser_cannot_edit_agentName","Validate that the corp user account can not edit the agent name already provided");
@@ -31,7 +31,7 @@ public class TC_12_Validate_that_the_corpUser_cannot_edit_details extends BaseCl
     public void TC_12_Validate_that_the_corpUser_cannot_edit_agentMSISDN () throws IOException {
         BasePage basePage = new BasePage(driver);
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         CorpDashboard corpDashboard= new CorpDashboard(driver);
         RegistrationRequestPage registrationRequestPage = new RegistrationRequestPage(driver);
         ExtentTestManager.startTest("TC_12_Validate_that_the_corpUser_cannot_edit_agentMSISDN","Validate that the corp user account can not edit the agent msisdn already provided");
@@ -46,7 +46,7 @@ public class TC_12_Validate_that_the_corpUser_cannot_edit_details extends BaseCl
     public void TC_12_Validate_that_the_corpUser_cannot_edit_agentLocation () throws IOException {
         BasePage basePage = new BasePage(driver);
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         CorpDashboard corpDashboard= new CorpDashboard(driver);
         RegistrationRequestPage registrationRequestPage = new RegistrationRequestPage(driver);
         ExtentTestManager.startTest("TC_12_Validate_that_the_corpUser_cannot_edit_agentLocation","Validate that the corp user account can not edit the agent location already provided");

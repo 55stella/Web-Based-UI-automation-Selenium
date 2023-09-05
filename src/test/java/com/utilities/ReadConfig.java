@@ -35,6 +35,16 @@ public class ReadConfig
 		String url=pro.getProperty("baseURL"); // Value from config.properties stored in url variable
 		return url;
 	}
+	public String userNameCorpManager() // new
+	{
+		String userNameCorpManager=pro.getProperty("userNameCorpManager");
+		return userNameCorpManager;
+	}
+	public String userNameCorpTestLead() // new
+	{
+		String userNameCorpTestLead=pro.getProperty("userNameCorpTestLead");
+		return userNameCorpTestLead;
+	}
 	public String getEntityCodeCorp() // new
 	{
 		String entityCodeCorp=pro.getProperty("entityCodeCorp");
@@ -51,6 +61,23 @@ public class ReadConfig
 	{
 	String passwordCorp=pro.getProperty("passwordCorp");
 	return passwordCorp;
+	}
+	public String getEntityCodeCorpPjp() // new
+	{
+		String entityCodeCorpPjp=pro.getProperty("entityCodeCorpPjp");
+		return entityCodeCorpPjp;
+	}
+
+	public String getUserNameCorpPjp() // new
+	{
+		String userNameCorpPjp=pro.getProperty("userNameCorpPjp");
+		return userNameCorpPjp;
+	}
+
+	public String getPasswordCorpPjp()
+	{
+		String passwordCorpPjp=pro.getProperty("passwordCorpPjp");
+		return passwordCorpPjp;
 	}
 
 	public String getBrowser()

@@ -3934,3 +3934,581 @@
 2023-07-15 12:33:41,193 [main] INFO Trade automation solution - Entity code- entered
 2023-07-15 12:33:41,656 [main] INFO Trade automation solution - Username Partner-entered
 2023-07-15 12:33:41,806 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 16:46:44,425 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 16:46:53,796 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 16:46:54,294 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 16:46:54,463 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 16:47:36,020 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 16:58:26,815 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 16:58:33,607 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 16:58:34,083 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 16:58:34,226 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 16:59:18,540 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 17:11:28,083 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 17:11:33,595 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 17:11:34,036 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 17:11:34,226 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 17:12:04,614 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 17:12:04,720 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-22 17:14:32,806 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 17:14:37,686 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 17:14:38,176 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 17:14:38,335 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 17:15:11,031 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 17:15:11,141 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-22 17:37:18,704 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 17:38:08,301 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 17:40:04,645 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 17:40:42,727 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 17:40:43,293 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 17:40:43,467 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 17:41:24,118 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 17:41:24,252 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-08-22 17:41:27,951 [main] INFO Trade automation solution - Click on registration request for approval
+2023-08-22 17:42:51,181 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 17:42:57,827 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 17:42:58,286 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 17:42:58,473 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 17:43:26,800 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 17:43:26,917 [main] INFO Trade automation solution - Clicked on Bell icon
+2023-08-22 17:43:29,416 [main] INFO Trade automation solution - Click on registration request for approval
+2023-08-22 17:43:31,413 [main] INFO Trade automation solution - Test Passed
+2023-08-22 17:43:31,417 [main] INFO Trade automation solution - Test completed
+2023-08-22 21:33:43,355 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 21:33:49,942 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 21:33:50,449 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 21:33:50,601 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 21:34:20,304 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 21:34:20,416 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-22 21:38:42,187 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 21:38:47,696 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 21:38:48,140 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 21:38:48,316 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 21:39:21,558 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 21:39:22,427 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-22 21:39:22,541 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-22 21:39:24,211 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-22 21:40:39,025 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 21:40:45,035 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 21:40:45,515 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 21:40:45,668 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 21:41:11,291 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 21:41:12,235 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-22 21:41:12,358 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-22 21:41:14,192 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-22 21:53:46,385 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 21:53:55,665 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 21:53:56,141 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 21:53:56,312 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 21:54:30,346 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 21:54:31,127 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-22 21:54:31,262 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-22 21:54:36,719 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-22 21:54:36,771 [main] INFO Trade automation solution - Test Passed
+2023-08-22 21:54:36,775 [main] INFO Trade automation solution - Test completed
+2023-08-22 22:05:28,786 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 22:05:35,417 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 22:05:36,125 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 22:05:36,305 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 22:06:17,707 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 22:06:23,724 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-22 22:06:23,841 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-22 22:06:35,499 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-22 22:07:39,348 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 22:07:45,992 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 22:07:46,468 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 22:07:46,643 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 22:08:11,884 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 22:08:12,849 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-22 22:08:12,971 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-22 22:08:14,686 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-22 22:08:14,855 [main] INFO Trade automation solution - Test Passed
+2023-08-22 22:08:14,862 [main] INFO Trade automation solution - Test completed
+2023-08-22 22:15:47,117 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 22:15:56,682 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 22:15:57,209 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 22:15:57,397 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 22:16:26,386 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 22:16:28,692 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-22 22:16:28,807 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-22 22:16:30,620 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-22 22:16:52,975 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-22 22:17:00,692 [main] INFO Trade automation solution - Entity code- entered
+2023-08-22 22:17:01,159 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-22 22:17:01,335 [main] INFO Trade automation solution - Password partner- entered
+2023-08-22 22:17:33,169 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-22 22:17:35,437 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-22 22:17:35,559 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-22 22:17:38,052 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 09:35:26,699 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 09:35:29,584 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 09:35:29,929 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 09:35:30,143 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 09:35:36,307 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 09:35:36,679 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 09:35:36,813 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 09:35:37,744 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 09:35:39,064 [main] INFO Trade automation solution - Test Passed
+2023-08-23 09:35:39,074 [main] INFO Trade automation solution - Test completed
+2023-08-23 09:37:01,792 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 09:37:04,548 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 09:37:05,005 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 09:37:05,196 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 09:37:12,255 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 09:37:12,704 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 09:37:12,860 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 09:37:13,888 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 09:37:13,916 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 09:37:15,398 [main] INFO Trade automation solution - Test Passed
+2023-08-23 09:37:15,407 [main] INFO Trade automation solution - Test completed
+2023-08-23 09:37:32,950 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 09:37:36,073 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 09:37:36,510 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 09:37:36,708 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 09:37:42,143 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 09:37:42,605 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 09:37:42,791 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 09:37:43,959 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 09:37:44,625 [main] INFO Trade automation solution - Test Passed
+2023-08-23 09:37:44,633 [main] INFO Trade automation solution - Test completed
+2023-08-23 09:58:25,275 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 09:58:28,062 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 09:58:28,295 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 09:58:28,470 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 09:58:35,053 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 09:58:35,331 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 09:58:35,436 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 09:58:36,312 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 09:58:36,335 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 09:58:37,873 [main] INFO Trade automation solution - Test Passed
+2023-08-23 09:58:37,878 [main] INFO Trade automation solution - Test completed
+2023-08-23 09:58:57,710 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 09:59:00,396 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 09:59:00,668 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 09:59:00,831 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 09:59:01,419 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 10:00:27,415 [main] INFO Trade automation solution - Test Failed!
+2023-08-23 10:00:29,256 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 10:00:33,290 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 10:00:33,607 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 10:00:33,765 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 10:00:39,620 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 10:00:39,746 [main] INFO Trade automation solution - Test Passed! TC_02_Validate_that_the_customer_can_login_as_a_partner
+2023-08-23 10:00:39,746 [main] INFO Trade automation solution - Completed LoginTest
+2023-08-23 10:00:41,462 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 10:00:43,531 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 10:00:43,832 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 10:00:43,989 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 10:00:50,160 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 10:00:50,550 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 10:00:50,665 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 10:00:51,512 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 10:00:51,570 [main] INFO Trade automation solution - Test Passed
+2023-08-23 10:00:51,570 [main] INFO Trade automation solution - Test completed
+2023-08-23 10:00:53,159 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 10:00:56,857 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 10:00:57,240 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 10:00:57,422 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 10:01:03,978 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 10:01:04,282 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 10:01:04,399 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 10:01:05,318 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 10:01:05,328 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 10:01:05,929 [main] INFO Trade automation solution - Test Passed
+2023-08-23 10:01:05,929 [main] INFO Trade automation solution - Test completed
+2023-08-23 10:01:07,335 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 10:01:09,881 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 10:01:10,361 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 10:01:10,501 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 10:01:11,130 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 10:01:17,140 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 10:01:17,249 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 10:01:18,133 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 10:01:18,144 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 10:01:19,173 [main] INFO Trade automation solution - Test Passed
+2023-08-23 10:01:19,174 [main] INFO Trade automation solution - Test completed
+2023-08-23 10:01:20,618 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 10:01:23,214 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 10:01:23,486 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 10:01:23,685 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 10:01:29,253 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 10:01:29,509 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 11:10:33,820 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 11:12:51,201 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 11:14:48,641 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 11:14:52,147 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 11:14:52,515 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 11:14:52,692 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 11:14:53,370 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 11:15:02,693 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 11:15:02,895 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 11:15:04,463 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 11:15:04,495 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 11:15:06,036 [main] INFO Trade automation solution - Test Passed
+2023-08-23 11:15:06,040 [main] INFO Trade automation solution - Test completed
+2023-08-23 11:15:36,521 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 11:15:39,551 [main] INFO Trade automation solution - Test Passed!
+2023-08-23 11:15:39,557 [main] INFO Trade automation solution - Completed LoginTest
+2023-08-23 11:31:27,833 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 11:31:30,946 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 11:31:31,191 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 11:31:31,372 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 11:31:31,912 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 11:31:38,293 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 11:31:38,421 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 11:31:39,230 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 11:31:39,256 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 11:33:08,104 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 11:33:11,062 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 11:33:11,368 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 11:33:11,543 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 11:33:12,212 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 11:33:18,178 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 11:33:18,294 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 11:33:19,108 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 11:33:19,133 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 11:34:37,266 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 11:34:40,295 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 11:34:40,556 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 11:34:40,723 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 11:34:48,306 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 11:34:48,672 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 11:34:48,806 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 11:34:49,685 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 11:34:49,713 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 11:39:07,776 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 11:39:10,633 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 11:39:10,934 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 11:39:11,070 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 11:39:11,666 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 11:39:17,370 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 11:39:17,468 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 11:39:18,293 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 11:39:18,321 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 11:39:25,569 [main] INFO Trade automation solution - Test Passed
+2023-08-23 11:39:25,574 [main] INFO Trade automation solution - Test completed
+2023-08-23 13:16:44,568 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:16:47,081 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:16:47,428 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:16:47,583 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:16:48,213 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:16:57,257 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:16:57,384 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:16:58,269 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:20:10,692 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:20:13,645 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:20:13,941 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:20:14,108 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:20:14,754 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:20:21,649 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:20:21,780 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:20:22,817 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:21:00,241 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:21:03,090 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:21:04,243 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:21:04,414 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:21:12,005 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:21:12,295 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:21:12,420 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:21:13,356 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:23:38,121 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:23:40,732 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:23:41,049 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:23:41,202 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:23:41,785 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:23:48,267 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:23:48,410 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:23:49,369 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:31:13,127 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:31:16,386 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:31:16,646 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:31:16,811 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:31:17,466 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:31:23,799 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:31:23,955 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:31:24,852 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:31:28,338 [main] INFO Trade automation solution - Test Passed
+2023-08-23 13:31:28,342 [main] INFO Trade automation solution - Test completed
+2023-08-23 13:39:09,476 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:39:12,039 [main] INFO Trade automation solution - Test Passed!
+2023-08-23 13:39:12,045 [main] INFO Trade automation solution - Completed LoginTest
+2023-08-23 13:39:13,569 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:39:15,657 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:39:16,016 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:39:16,177 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:39:16,874 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:39:23,162 [main] INFO Trade automation solution - Test Passed! TC_02_Validate_that_the_customer_can_login_as_a_partner
+2023-08-23 13:39:23,163 [main] INFO Trade automation solution - Completed LoginTest
+2023-08-23 13:39:24,701 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:39:27,535 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:39:27,857 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:39:28,009 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:39:28,603 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:39:35,173 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:39:35,288 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:39:36,268 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:39:36,316 [main] INFO Trade automation solution - Test Passed
+2023-08-23 13:39:36,316 [main] INFO Trade automation solution - Test completed
+2023-08-23 13:39:37,955 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:39:40,834 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:39:41,101 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:39:41,268 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:39:48,067 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:39:48,355 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:39:48,457 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:39:49,449 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:39:49,471 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 13:39:50,019 [main] INFO Trade automation solution - Test Passed
+2023-08-23 13:39:50,020 [main] INFO Trade automation solution - Test completed
+2023-08-23 13:39:52,225 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:39:55,266 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:39:55,622 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:39:55,784 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:40:05,071 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:40:05,859 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:40:05,993 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:40:06,931 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:40:06,936 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 13:40:09,550 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:40:12,927 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:40:13,215 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:40:13,386 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:40:20,199 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:40:20,479 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:40:20,577 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:40:21,423 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:40:21,432 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 13:40:22,942 [main] INFO Trade automation solution - Test Passed
+2023-08-23 13:40:22,942 [main] INFO Trade automation solution - Test completed
+2023-08-23 13:40:24,630 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:40:27,861 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:40:28,163 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:40:28,314 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:40:28,947 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:40:35,590 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:40:35,687 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:40:36,626 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:40:36,636 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 13:40:38,755 [main] INFO Trade automation solution - Test Passed
+2023-08-23 13:40:38,756 [main] INFO Trade automation solution - Test completed
+2023-08-23 13:40:41,181 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:40:44,113 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:40:44,568 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:40:44,724 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:40:51,652 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:40:51,939 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:40:52,035 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:40:52,933 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:40:56,356 [main] INFO Trade automation solution - Test Passed
+2023-08-23 13:40:56,357 [main] INFO Trade automation solution - Test completed
+2023-08-23 13:41:48,397 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-23 13:41:51,066 [main] INFO Trade automation solution - Entity code- entered
+2023-08-23 13:41:51,313 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-23 13:41:51,479 [main] INFO Trade automation solution - Password partner- entered
+2023-08-23 13:41:58,804 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-23 13:41:59,156 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-23 13:41:59,297 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-23 13:42:00,182 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-23 13:42:00,207 [main] INFO Trade automation solution - There are no alerts
+2023-08-23 13:42:01,379 [main] INFO Trade automation solution - Test Passed
+2023-08-23 13:42:01,385 [main] INFO Trade automation solution - Test completed
+2023-08-24 07:42:46,384 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 07:49:42,177 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 07:49:45,391 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 07:49:45,392 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 07:49:45,637 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 07:49:45,763 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 08:02:21,739 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 08:02:24,935 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 08:02:25,247 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 08:02:25,441 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 08:02:38,299 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 08:02:38,767 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 08:02:38,893 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 08:02:40,150 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 08:04:15,680 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 08:04:19,276 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 08:04:19,547 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 08:04:19,732 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 08:04:31,641 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 08:04:32,074 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 08:04:32,208 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 08:04:33,624 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 08:06:40,170 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 08:06:43,231 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 08:06:43,591 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 08:06:43,840 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 08:07:00,173 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 08:07:01,005 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 08:07:01,154 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 08:07:03,729 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 08:08:26,506 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 08:08:29,366 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 08:08:29,644 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 08:08:29,825 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 08:08:51,738 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 08:08:52,065 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 08:08:52,196 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 08:08:52,995 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 08:08:53,032 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 08:28:49,722 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 08:28:52,313 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 08:28:52,587 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 08:28:52,767 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 08:28:53,405 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 08:29:07,446 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 08:29:07,556 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 08:29:09,135 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 08:29:09,155 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 08:29:09,948 [main] INFO Trade automation solution - Test Passed
+2023-08-24 08:29:09,952 [main] INFO Trade automation solution - Test completed
+2023-08-24 08:43:47,616 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 08:43:51,210 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 08:43:51,472 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 08:43:51,655 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 08:43:52,278 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 08:44:08,582 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 08:44:08,708 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 08:44:09,838 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 08:44:09,872 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 08:44:10,739 [main] INFO Trade automation solution - Test Passed
+2023-08-24 08:44:10,743 [main] INFO Trade automation solution - Test completed
+2023-08-24 09:01:28,683 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:01:31,395 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:01:31,646 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:01:31,816 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:01:32,471 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:01:43,728 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:01:43,837 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:01:44,826 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:01:44,897 [main] INFO Trade automation solution - Test Passed
+2023-08-24 09:01:44,902 [main] INFO Trade automation solution - Test completed
+2023-08-24 09:02:04,211 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:02:07,395 [main] INFO Trade automation solution - Test Passed!
+2023-08-24 09:02:07,400 [main] INFO Trade automation solution - Completed LoginTest
+2023-08-24 09:02:08,771 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:02:11,563 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:02:11,860 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:02:12,020 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:02:23,551 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:02:23,648 [main] INFO Trade automation solution - Test Passed! TC_02_Validate_that_the_customer_can_login_as_a_partner
+2023-08-24 09:02:23,649 [main] INFO Trade automation solution - Completed LoginTest
+2023-08-24 09:02:25,165 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:02:27,906 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:02:28,183 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:02:28,335 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:02:35,935 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:02:36,236 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:02:36,353 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:02:37,261 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:02:37,313 [main] INFO Trade automation solution - Test Passed
+2023-08-24 09:02:37,313 [main] INFO Trade automation solution - Test completed
+2023-08-24 09:02:38,877 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:02:41,142 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:02:41,436 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:02:41,585 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:02:42,212 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:02:50,308 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:02:50,436 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:02:51,376 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:02:51,403 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 09:02:51,997 [main] INFO Trade automation solution - Test Passed
+2023-08-24 09:02:51,997 [main] INFO Trade automation solution - Test completed
+2023-08-24 09:02:53,729 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:02:57,133 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:02:57,484 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:02:57,628 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:02:58,227 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:03:19,286 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:03:19,438 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:03:20,375 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:03:20,385 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 09:03:21,560 [main] INFO Trade automation solution - Test Passed
+2023-08-24 09:03:21,560 [main] INFO Trade automation solution - Test completed
+2023-08-24 09:03:23,136 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:03:26,122 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:03:26,395 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:03:26,541 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:03:27,160 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:03:42,750 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:03:42,876 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:03:43,815 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:03:43,824 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 09:03:45,912 [main] INFO Trade automation solution - Test Passed
+2023-08-24 09:03:45,913 [main] INFO Trade automation solution - Test completed
+2023-08-24 09:03:48,169 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:03:51,871 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:03:52,139 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:03:52,288 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:04:06,028 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:04:06,499 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:04:06,630 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:04:07,621 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:04:07,633 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 09:04:10,836 [main] INFO Trade automation solution - Test Passed
+2023-08-24 09:04:10,836 [main] INFO Trade automation solution - Test completed
+2023-08-24 09:04:13,183 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:04:18,472 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:04:18,761 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:04:18,908 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:04:32,888 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:04:33,227 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:04:33,350 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:04:34,659 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:04:38,474 [main] INFO Trade automation solution - Test Passed
+2023-08-24 09:04:38,475 [main] INFO Trade automation solution - Test completed
+2023-08-24 09:04:40,727 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:04:43,598 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:04:43,968 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:04:44,123 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:05:03,242 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:05:03,847 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:05:03,968 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:05:05,492 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:05:05,507 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 09:05:07,703 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:05:10,851 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:05:11,123 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:05:11,282 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:05:26,749 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:05:27,013 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:05:27,124 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:05:28,111 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:05:28,150 [main] INFO Trade automation solution - Test Passed
+2023-08-24 09:05:28,150 [main] INFO Trade automation solution - Test completed
+2023-08-24 09:07:43,029 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:07:45,689 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:07:45,940 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:07:46,116 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:08:02,679 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:08:02,974 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:08:03,090 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:08:04,204 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:08:04,221 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 09:17:04,060 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:17:07,328 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:17:07,710 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:17:07,916 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:17:25,264 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:17:26,235 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:17:26,363 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:17:27,304 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:17:27,320 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 09:17:27,911 [main] INFO Trade automation solution - Test Passed
+2023-08-24 09:17:27,915 [main] INFO Trade automation solution - Test completed
+2023-08-24 09:17:41,932 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:17:45,991 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:17:46,326 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:17:46,527 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:18:29,574 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:18:55,765 [main] DEBUG Trade automation solution - Debug logging has started 
+2023-08-24 09:18:59,598 [main] INFO Trade automation solution - Entity code- entered
+2023-08-24 09:18:59,873 [main] INFO Trade automation solution - Username Partner-entered
+2023-08-24 09:19:00,070 [main] INFO Trade automation solution - Password partner- entered
+2023-08-24 09:19:18,974 [main] INFO Trade automation solution - Clicked on logIn button
+2023-08-24 09:19:19,876 [main] INFO Trade automation solution - Clicked on reports option
+2023-08-24 09:19:19,987 [main] INFO Trade automation solution - Clicked on public reports
+2023-08-24 09:19:21,629 [main] INFO Trade automation solution - Clicked on pjp dashboard
+2023-08-24 09:19:21,678 [main] INFO Trade automation solution - There are no alerts
+2023-08-24 09:19:21,812 [main] INFO Trade automation solution - Test Passed
+2023-08-24 09:19:21,817 [main] INFO Trade automation solution - Test completed

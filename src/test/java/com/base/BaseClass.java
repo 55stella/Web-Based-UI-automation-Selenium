@@ -35,6 +35,15 @@ public class BaseClass
 	public static String passwordCorp= readconfig.getPasswordCorp();
 	public static String usernameCorp = readconfig.getUserNameCorp();
 	public static String entityCodeCorp = readconfig.getEntityCodeCorp();
+
+	public static String userNameCorpManager = readconfig.userNameCorpManager();
+
+	public static String userNameCorpTestLead= readconfig.userNameCorpTestLead();
+
+	public static String passwordCorpPjp= readconfig.getPasswordCorpPjp();
+	public static String usernameCorpPjp = readconfig.getUserNameCorpPjp();
+	public static String entityCodeCorpPjp = readconfig.getEntityCodeCorpPjp();
+
 	public static String passwordPartner = readconfig.getPasswordPartner();
 	public static String usernamePartner = readconfig.getUsernamePartner();
 

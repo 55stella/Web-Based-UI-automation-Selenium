@@ -55,12 +55,44 @@ public class LoginPage extends BaseClass {
     public void enterEntityCodeCorp(){
         basePage.sendText(entityCodeField,entityCodeCorp);
     }
+
     public void enterPasswordCorp(){
         basePage.sendText(passwordField,passwordCorp);
     }
     public void enterUserNameCorp(){
         basePage.sendText(usernameField,usernameCorp);
     }
+//    public void enterEntityCodeCorpManager(){
+//        basePage.sendText(entityCodeField,en);
+//    }
+//    public void enterPasswordCorpManager(){
+//
+//    }
+    public void enterUserNameCorpManager(){
+        basePage.sendText(usernameField,userNameCorpManager);
+    }
+    public void enterUserNameCorpTestLead(){
+        basePage.sendText(usernameField, userNameCorpTestLead);
+
+    }
+//    public void enterPasswordCorpTestLead(){
+//
+//    }
+//    public void enterUserNameCorpTestLead(){
+//
+//    }
+
+    public void enterEntityCodeCorpPjp(){
+        basePage.sendText(entityCodeField,entityCodeCorpPjp);
+    }
+
+    public void enterPasswordCorpPjp(){
+        basePage.sendText(passwordField,passwordCorpPjp);
+    }
+    public void enterUserNameCorpPjp(){
+        basePage.sendText(usernameField,usernameCorpPjp);
+    }
+
     public void enterEntityCodePartner(){
         basePage.waitForElementClick(entityCodeField);
         basePage.sendText(entityCodeField, entityCodePartner);
@@ -129,6 +161,7 @@ public class LoginPage extends BaseClass {
         logger.info("Clicked on logIn button");
 
     }
+
     public void validLoginCorp(){
 
         enterEntityCodeCorp();
@@ -139,7 +172,37 @@ public class LoginPage extends BaseClass {
         logger.info("Password partner- entered");
         clickLoginButton();
         logger.info("Clicked on logIn button");
+    }
+    public void validLoginCorpManager(){
+        enterEntityCodeCorp();
+        logger.info("Entity code- entered");
+        enterUserNameCorpManager();
+        logger.info("Username Partner-entered");
+        enterPasswordCorp();
+        logger.info("Password partner- entered");
+        clickLoginButton();
+        logger.info("Clicked on logIn button");
+    }
+    public void validLoginCorpTestLead(){
+        enterEntityCodeCorp();
+        logger.info("Entity code- entered");
+        enterUserNameCorpTestLead();
+        logger.info("Username Partner-entered");
+        enterPasswordCorp();
+        logger.info("Password partner- entered");
+        clickLoginButton();
+        logger.info("Clicked on logIn button");
+    }
+    public void validLoginCorpPjp(){
 
+        enterEntityCodeCorpPjp();
+        logger.info("Entity code- entered");
+        enterUserNameCorpPjp();
+        logger.info("Username Partner-entered");
+        enterPasswordCorpPjp();
+        logger.info("Password partner- entered");
+        clickLoginButton();
+        logger.info("Clicked on logIn button");
     }
     public void validLoginNewPartner(){
         enterNewEntityCodePartner();

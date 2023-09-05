@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.time.Duration;
 
 public class BasePage extends BaseClass {
-	private JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
+	JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
 	SoftAssert softAssert = new SoftAssert();
 
 	public BasePage(WebDriver driver) {
@@ -177,6 +177,7 @@ public class BasePage extends BaseClass {
 
 	}
 
+
 	public void select(WebElement element, String text) {
 		Select select = new Select(element);
 		waitForOptionsToBeVisible(element);
@@ -196,13 +197,18 @@ public class BasePage extends BaseClass {
 	}
 
 
+	public void scrollToElement(WebElement element){
+		jsExecutor.executeScript("arguments[0].scrollIntoView(true);", element);
+	}
+	public boolean isAlertPresent(WebDriver driver) {
+		try {
+			driver.switchTo().alert();
+			return true;
+		} catch (NoAlertPresentException e) {
+			return false;
+		}
 
 
 
-
-
-
-
-
-
+	}
 }

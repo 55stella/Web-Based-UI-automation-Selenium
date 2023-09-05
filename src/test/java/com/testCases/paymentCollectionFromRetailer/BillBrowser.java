@@ -64,35 +64,7 @@ public class BillBrowser extends BaseClass {
         logger.info("Completed TC_14");
     }
 
-//    @Test(priority = 3)
-//    public void TC_15_Validate_that_the_user_can_click_request_payment_button() throws IOException {
-//        ExtentTestManager.startTest("Validate that User shall be able to click on \"Request Payment\" " +
-//                "button and click on the view button.", "BillBrowserPage");
-//
-//        if() {
-//            softAssert.assertTrue(true);
-//            logger.info("Test Passed!");}
-//        else {softAssert.assertTrue(false);
-//            logger.info("Test Failed!");
-//            captureScreen(driver, "FAILURE!");}
-//        softAssert.assertAll();
-//        logger.info("Completed TC_15");
-//    }
-//
-//    @Test(priority = 4)
-//    public void TC_16_Validate_that_request_payment_status_is_changed_after_payment() throws IOException {
-//        ExtentTestManager.startTest("Validate that after payment is made that status and the request" +
-//                " payment option is changed when User clicks on view button.", "BillBrowserPage");
-//
-//        if() {
-//            softAssert.assertTrue(true);
-//            logger.info("Test Passed!");}
-//        else {softAssert.assertTrue(false);
-//            logger.info("Test Failed!");
-//            captureScreen(driver, "FAILURE!");}
-//        softAssert.assertAll();
-//        logger.info("Completed TC_16");
-//    }
+
 
 
 }

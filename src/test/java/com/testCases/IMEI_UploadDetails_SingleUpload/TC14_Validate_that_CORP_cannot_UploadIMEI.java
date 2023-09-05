@@ -3,7 +3,7 @@ package com.testCases.IMEI_UploadDetails_SingleUpload;
 import com.base.BaseClass;
 import com.base.BasePage;
 import com.pageObject.CorpDashboard;
-import com.pageObject.loginPage;
+import com.pageObject.LoginPage;
 import com.utilities.extentReports.ExtentTestManager;
 import org.testng.annotations.Test;
 
@@ -14,7 +14,7 @@ public class TC14_Validate_that_CORP_cannot_UploadIMEI extends BaseClass {
     public void TC14_Validate_that_CORP_cannot_UploadIMEI() throws IOException {
         //this assumes that going through the same flow for partner account
         BasePage basePage = new BasePage(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         CorpDashboard corpDashboard = new CorpDashboard(driver);
         ExtentTestManager.startTest("TC14_Validate_that_CORP_cannot_UploadIMEI","Validate that TAS Corp Users are not mapped to carry out IMEI Upload");
         loginPages.validLoginCorp();

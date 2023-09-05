@@ -2,7 +2,7 @@ package com.testCases.RequestForUniqueID;
 
 import com.base.BaseClass;
 import com.pageObject.DashBoard;
-import com.pageObject.loginPage;
+import com.pageObject.LoginPage;
 import com.utilities.extentReports.ExtentTestManager;
 import org.testng.annotations.Test;
 
@@ -12,7 +12,7 @@ public class TC_02_Validate_that_the_user_can_login_as_a_partner extends BaseCla
     @Test(priority = 1)
     public void TC_02_Validate_that_the_user_can_login_as_a_partner() throws IOException {
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         ExtentTestManager.startTest("TC_02_Validate_that_the_user_can_login_as_a_partner","Validate that User shall be able to enter the correct Username and password  and click on Login button");
         loginPages.validLoginPartner();
         dashBoard.isDashboardPresent();

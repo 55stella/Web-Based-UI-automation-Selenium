@@ -15,7 +15,7 @@ public class TC_11_and_TC_6_Approved_request extends BaseClass {
     public void TC_11_Validate_that_user_clicks_RequestForUniqueId() throws IOException {
     //USER ACCOUNT FOR APPROVAL
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         ProfileDetails profileDetails = new ProfileDetails(driver);
         ExtentTestManager.startTest("TC_11_Validate_that_user_clicks_RequestForUniqueId","Validate that the user can click on request for unique ID");
         loginPages.validApproveLoginPartner();
@@ -31,7 +31,7 @@ public class TC_11_and_TC_6_Approved_request extends BaseClass {
     @Test(priority=1)
         public void TC_11_Validate_that_user_gets_successfulAlert() throws InterruptedException, IOException {
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         CorpDashboard corpDashboard =new CorpDashboard(driver);
         BasePage basePage = new BasePage(driver);
         RegistrationRequestPage registrationRequestPage = new RegistrationRequestPage(driver);
@@ -54,7 +54,7 @@ public class TC_11_and_TC_6_Approved_request extends BaseClass {
     //same account is opened to validate the element is not present
     public void TC_06_Validate_that_user_can_request_onlyOnce() throws IOException, InterruptedException {
         DashBoard dashBoard = new DashBoard(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         ProfileDetails profileDetails = new ProfileDetails(driver);
         BasePage basePage = new BasePage(driver);
         ExtentTestManager.startTest("TC_06_Validate_that_user_can_request_onlyOnce","Validate that the user can click on request for unique ID once");

@@ -4,7 +4,7 @@ import com.base.BaseClass;
 import com.base.BasePage;
 import com.pageObject.CorpDashboard;
 import com.pageObject.ImeiDetailsUpload;
-import com.pageObject.loginPage;
+import com.pageObject.LoginPage;
 import com.utilities.extentReports.ExtentTestManager;
 import org.testng.annotations.Test;
 
@@ -15,7 +15,7 @@ public class TC_18_Validate_successful_singleIMEIUpload extends BaseClass {
     @Test(priority = 1)
     public void TC_18_Validate_successful_singleIMEIUpload() throws IOException, InterruptedException {
         BasePage basePage = new BasePage(driver);
-        loginPage loginPages = new loginPage(driver);
+        LoginPage loginPages = new LoginPage(driver);
         CorpDashboard corpDashboard = new CorpDashboard(driver);
         ImeiDetailsUpload imeiDetailsUpload= new ImeiDetailsUpload(driver);
         ExtentTestManager.startTest("TC_17_Validate__Invalid_IMEI_does_not_work","Validate that msisdn must start with 234 ");

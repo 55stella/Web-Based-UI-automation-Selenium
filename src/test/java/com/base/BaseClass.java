@@ -135,6 +135,18 @@ public class BaseClass
 		FileUtils.copyFile(source, target);
 		System.out.println("Screenshot taken");
 	}
+	public void handleAlert(){
+		try {
+			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(3));
+			wait.until(ExpectedConditions.alertIsPresent());
+
+			// Handle the alert
+			Alert alert = driver.switchTo().alert();
+			alert.accept();
+		} catch (Exception e) {
+			// No alert found, continue with the next action
+		}
+	}
 
 //	private static Duration ofMillis(int i) {
 //		// TODO Auto-generated method stub

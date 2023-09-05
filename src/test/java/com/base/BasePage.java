@@ -200,6 +200,8 @@ public class BasePage extends BaseClass {
 	public void scrollToElement(WebElement element){
 		jsExecutor.executeScript("arguments[0].scrollIntoView(true);", element);
 	}
+
+
 	public boolean isAlertPresent(WebDriver driver) {
 		try {
 			driver.switchTo().alert();

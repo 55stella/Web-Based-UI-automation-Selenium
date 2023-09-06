@@ -29,7 +29,9 @@ public class PJPDashboard extends BaseClass {
 
 
     public void clickMajorRegionEastButton(){
+
         basePage.waitForElement(majorRegionEastButton);
+        basePage.scrollToElement(majorRegionEastButton);
         majorRegionEastButton.click();
     }
 
@@ -62,6 +64,7 @@ public class PJPDashboard extends BaseClass {
 
     public void clickSouthRegionButton(){
         basePage.waitForElement(southRegionButton);
+        basePage.scrollToElement(southRegionButton);
         southRegionButton.click();
     }
 
@@ -96,7 +99,7 @@ public class PJPDashboard extends BaseClass {
     public void clickImoSubRegionButton(){
 
         basePage.waitForElement(imoSubRegionButton);
-        basePage.scrollToElement(imoSubRegionButton);
+        basePage.scrollToElement(southRegionButton);
 
         imoSubRegionButton.click();
     }
@@ -155,7 +158,7 @@ public class PJPDashboard extends BaseClass {
         logger.info("Test completed");
     }
 
-    @FindBy(xpath = "//label[text()='Pjp Dashboard']")
+    @FindBy(xpath = "//label[text()='PJP Dashboard']")
     @CacheLookup
     public WebElement pjpDashBoardHeader;
 
@@ -181,10 +184,25 @@ public class PJPDashboard extends BaseClass {
     @CacheLookup
     public WebElement alagbadoTerritoryButton;
 
+    @FindBy(id="toggleIcon13216")
+    @CacheLookup
+    public WebElement commandTerritoryButton;
+
+    @FindBy(xpath = "//img[@src='/tas/images/filter_icon.png']")
+    @CacheLookup
+    public WebElement filterButton;
+
     public void clickAlagbadoTerritoryButton(){
+
         basePage.waitForElement(alagbadoTerritoryButton);
+        basePage.scrollToElement(commandTerritoryButton);
         alagbadoTerritoryButton.click();
     }
+    public void clickFilterButton(){
+        basePage.waitForElementClick(filterButton);
+        filterButton.click();
+    }
+
     @FindBy(id="TERR15876")
     @CacheLookup
     public WebElement alagbadoTerritoryContainer;
@@ -223,6 +241,26 @@ public class PJPDashboard extends BaseClass {
         }
         softAssert.assertAll();
         logger.info("Test completed");
+    }
+    //this checks for active sr/tl, total retaliers,pjp completed and new outlets
+    public void isAdditionalInfoPresent(String testCaseName) throws IOException {
+        if(basePage.isTextPresent("Active SR/TL")&&basePage.isTextPresent("Total Retailers")&&basePage.isTextPresent("PJP - Completed")&&basePage.isTextPresent("New Outlets")){
+            softAssert.assertTrue(true);
+            logger.info("Test Passed");
+            ExtentTestManager.getTest().pass("Test passed");
+        }
+        else{
+            softAssert.assertTrue(false);
+            logger.info("Test Failed");
+            captureScreen(driver, testCaseName);
+            ExtentTestManager.getTest().fail("Test Failed");
+        }
+        softAssert.assertAll();
+        logger.info("Test completed");
+    }
+
+    public void isClusterContainerDisplayed(){
+
     }
 
 

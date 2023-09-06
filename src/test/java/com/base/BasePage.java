@@ -11,6 +11,7 @@ import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
 import java.time.Duration;
+import java.util.List;
 
 public class BasePage extends BaseClass {
 	JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
@@ -130,6 +131,10 @@ public class BasePage extends BaseClass {
 
 
 	}
+	public void waitForElementInvisibility(WebElement element){
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(150));
+		wait.until(ExpectedConditions.invisibilityOf(element));
+	}
 	public void checkTextInAlert(String text, String testCaseName) throws IOException {
 		Alert alert = driver.switchTo().alert();
 		String alertText= alert.getText().toLowerCase();
@@ -213,4 +218,26 @@ public class BasePage extends BaseClass {
 
 
 	}
+	public boolean isTextPresent(String text) {
+		List<WebElement> elements = driver.findElements(By.xpath("//div[@id='cardColors']"));
+		int failCount = 0;
+		int passCount = 0;
+		for (WebElement element : elements) {
+			if (element.getText().contains(text)) {
+				passCount++;
+			} else {
+				failCount++;
+			}
+		}
+		if (failCount==0){
+			return true;
+		}
+		else {
+			return false;
+		}
+
+	}
+
+
+
 }

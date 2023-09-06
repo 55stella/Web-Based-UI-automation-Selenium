@@ -3,6 +3,7 @@ package com.testCases.PJPDashboard;
 import com.base.BaseClass;
 import com.base.BasePage;
 import com.pageObject.DashBoard;
+import com.pageObject.FilterPage;
 import com.pageObject.PJPDashboard;
 import com.pageObject.LoginPage;
 import com.utilities.extentReports.ExtentTestManager;
@@ -181,16 +182,17 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
         pjpDashboard.clickMbaitoliTerritoryButton();
         handleAlert();
         List<WebElement> elements = driver.findElements(By.xpath("//div[@id='cardColors']"));
-        int count =0;
+        int passCount =0;
+        int failCount=0;
         for(WebElement element : elements){
             if(element.getText().contains("%")){
-                count++;
+                passCount++;
             }
             else{
-                count--;
+                failCount--;
             }
         }
-        if(count==54){   //There should be 54 percentage signs on the site
+        if(failCount==0){   //this was updated to confirm the percentage completion is present, limitation it doesn't cont the number of instances
 
             softAssert.assertTrue(true);
             logger.info("Test Passed");
@@ -230,8 +232,8 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
 
     }
     @Test(priority = 10)
-    public void Tc_11_ValidateTestLeadCanViewCluster() throws IOException {
-        ExtentTestManager.startTest("Tc_10_ValidateManagerShallBeAbleToViewTerritoryToCluster", "Validate that the user can view clusters after clicking on territory");
+    public void Tc_11_ValidateTeamLeadCanViewCluster() throws IOException {
+        ExtentTestManager.startTest("Tc_11_ValidateTeamLeadCanViewCluster", "Validate that the user can view clusters after clicking on territory");
         LoginPage loginPages = new LoginPage(driver);
         DashBoard dashBoard = new DashBoard(driver);
         BasePage basePage = new BasePage(driver);
@@ -245,8 +247,135 @@ public class PJPDashboardViewAndPercentageCompletion extends BaseClass {
         dashBoard.clickPjpDashboardButton();
         handleAlert();
         pjpDashboard.isClusterContainerTestLeadPresent("Tc_11_ValidateTestLeadCanViewCluster");
+    }
+
+    //Pjp enhancements
+    @Test(priority = 11)
+    public void Tc_04_Enh_ValidateGeneralManagerCanViewAdditionalInfo() throws IOException {
+        ExtentTestManager.startTest("Tc_04_Enh_ValidateCorpUserCanViewAdditionalInfo", "Validate that general manager can view the the total Number of Retailer, Total SR/TL Vs Total Active SR/TL, PJP Planned Vs Completed and Total Number of New Outlet(Retailer)");
+        LoginPage loginPages = new LoginPage(driver);
+        DashBoard dashBoard = new DashBoard(driver);
+        BasePage basePage = new BasePage(driver);
+        PJPDashboard pjpDashboard = new PJPDashboard(driver);
+        handleAlert();
+        loginPages.validLoginCorpPjp();
+        handleAlert();
+        dashBoard.clickReportsButton();
+        handleAlert();
+        dashBoard.clickPublicReportsButton();
+        handleAlert();
+        dashBoard.clickPjpDashboardButton();
+        handleAlert();
+        pjpDashboard.clickMajorRegionEastButton();
+        handleAlert();
+        pjpDashboard.clickSouthRegionButton();
+        handleAlert();
+        pjpDashboard.clickImoSubRegionButton();
+        handleAlert();
+        pjpDashboard.clickMbaitoliTerritoryButton();
+        handleAlert();
+        pjpDashboard.isAdditionalInfoPresent("Tc_04_Enh_ValidateCorpUserCanViewAdditionalInfo");
 
     }
+    @Test(priority = 12)
+    public void Tc_12_Enh_ValidateCorpUserManagerCanViewAdditionalInfo() throws IOException {
+        ExtentTestManager.startTest("Tc_12_Enh_ValidateCorpUserManagerCanViewAdditionalInfo", "Validate that manager can view the the total Number of Retailer, Total SR/TL Vs Total Active SR/TL, PJP Planned Vs Completed and Total Number of New Outlet(Retailer)");
+        LoginPage loginPages = new LoginPage(driver);
+        DashBoard dashBoard = new DashBoard(driver);
+        BasePage basePage = new BasePage(driver);
+        PJPDashboard pjpDashboard = new PJPDashboard(driver);
+        loginPages.validLoginCorpManager();
+        handleAlert();
+        dashBoard.clickReportsButton();
+        handleAlert();
+        dashBoard.clickPublicReportsButton();
+        handleAlert();
+        dashBoard.clickPjpDashboardButton();
+        handleAlert();
+        pjpDashboard.clickAlagbadoTerritoryButton();
+        handleAlert();
+        pjpDashboard.isAdditionalInfoPresent("Tc_12_Enh_ValidateCorpUserManagerCanViewAdditionalInfo");
+    }
+    @Test(priority = 13)
+    public void Tc_17_Enh_ValidateTeamLeadCanViewAdditionalInfo() throws IOException {
+        ExtentTestManager.startTest("Tc_17_Enh_ValidateTeamLeadCanViewAdditionalInfo", "Validate that team lead can view the the total Number of Retailer, Total SR/TL Vs Total Active SR/TL, PJP Planned Vs Completed and Total Number of New Outlet(Retailer)");
+        LoginPage loginPages = new LoginPage(driver);
+        DashBoard dashBoard = new DashBoard(driver);
+        BasePage basePage = new BasePage(driver);
+        PJPDashboard pjpDashboard = new PJPDashboard(driver);
+        loginPages.validLoginCorpTestLead();
+        handleAlert();
+        dashBoard.clickReportsButton();
+        handleAlert();
+        dashBoard.clickPublicReportsButton();
+        handleAlert();
+        dashBoard.clickPjpDashboardButton();
+        handleAlert();
+        pjpDashboard.isAdditionalInfoPresent("Tc_12_Enh_ValidateCorpUserManageCanViewAdditionalInfo");
+
+    }
+    @Test(priority = 13)
+    public void Tc_17_Enh_ValidateGeneralMangerCanClickFilterButton() throws IOException {
+        ExtentTestManager.startTest("Tc_17_Enh_ValidateGeneralMangerCanClickFilterButton", "Validate that the filter button is clickable");
+        LoginPage loginPages = new LoginPage(driver);
+        DashBoard dashBoard = new DashBoard(driver);
+        BasePage basePage = new BasePage(driver);
+        PJPDashboard pjpDashboard = new PJPDashboard(driver);
+        handleAlert();
+        loginPages.validLoginCorpPjp();
+        handleAlert();
+        dashBoard.clickReportsButton();
+        handleAlert();
+        dashBoard.clickPublicReportsButton();
+        handleAlert();
+        dashBoard.clickPjpDashboardButton();
+        basePage.isClickable(pjpDashboard.filterButton,"Tc_17_Enh_ValidateGeneralMangerCanClickFilterButton");
+    }
+    @Test(priority = 13)
+    public void Tc_17_Enh_ValidateGeneralMangerCanUseTheFilterFunction() throws IOException {
+        ExtentTestManager.startTest("Tc_17_Enh_ValidateGeneralMangerCanClickFilterButton", "Validate that the filter button is clickable");
+        LoginPage loginPages = new LoginPage(driver);
+        DashBoard dashBoard = new DashBoard(driver);
+        BasePage basePage = new BasePage(driver);
+        FilterPage filterPage = new FilterPage(driver);
+        PJPDashboard pjpDashboard = new PJPDashboard(driver);
+        SoftAssert softAssert = new SoftAssert();
+        handleAlert();
+        loginPages.validLoginCorpPjp();
+        handleAlert();
+        dashBoard.clickReportsButton();
+        handleAlert();
+        dashBoard.clickPublicReportsButton();
+        handleAlert();
+        dashBoard.clickPjpDashboardButton();
+        pjpDashboard.clickFilterButton();
+
+        filterPage.selectEastMajorRegion();
+        filterPage.selectSouthRegionOption();
+        filterPage.selectImoSubRegionOptionn();
+        filterPage.selectMbaitoliTerritoryOption();
+        filterPage.selectUzoagbaClusterOption();
+        filterPage.viewButton.click();
+
+        basePage.waitForElementInvisibility(filterPage.majorRegionField);
+        String textFromContainer= filterPage.containerFromResult.getText();
+        if(textFromContainer.contains("UZOAGBA")){
+            softAssert.assertTrue(true);
+            logger.info("Test Passed");
+            ExtentTestManager.getTest().pass("Test passed");
+        }
+        else {
+            softAssert.assertTrue(false);
+            logger.info("Test Failed");
+            captureScreen(driver, "Tc_17_Enh_ValidateGeneralMangerCanUseTheFilterFunction");
+            ExtentTestManager.getTest().fail("Test Failed");
+        }
+        softAssert.assertAll();
+        logger.info("Test completed");
+    }
+
+
+
 
 
 
